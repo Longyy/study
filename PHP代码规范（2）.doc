@@ -1,0 +1,2307 @@
+Message-ID: <2048355511.69334.1481542483146.JavaMail.confluence@dev-ops002>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_69333_370529964.1481542483141"
+
+------=_Part_69333_370529964.1481542483141
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3 PHP PHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3 PHP PHP=E4=BB=A3=E7=A0=81=E8=
+=A7=84=E8=8C=83</h1>
+    <div class=3D"Section1">
+        <p>=E5=B9=B3=E5=AE=89=E5=A5=BD=E6=88=BF=E6=8A=80=E6=9C=AF=E9=83=A8<=
+br>=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83&nbsp;<br class=3D"atl-forced-newlin=
+e"><br class=3D"atl-forced-newline">=E7=9B=AE=E5=BD=95&nbsp;<br class=3D"at=
+l-forced-newline"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc2=
+06261108"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc2=
+06261109"></span><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=
+=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967377">=E5=89=8D =E8=A8=80&nbs=
+p;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=
+=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967378">1. =E8=8C=83=E5=9B=B4&nbsp;</=
+a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=
+=A0=81=E8=A7=84=E8=8C=83-_Toc381967379">2. =E5=91=BD=E5=90=8D=E7=BA=A6=E5=
+=AE=9A&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPP=
+HP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967380">2.1 =E5=B8=B8=E9=87=
+=8F=E5=90=8D&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=
+=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967381">2.2 =E5=8F=98=
+=E9=87=8F=E5=90=8D&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=
+=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967382">2.3 =E7=
+=B1=BB&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPP=
+HP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967383">2.4 =E5=87=BD=E6=95=
+=B0&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=
+=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967384">2.5 =E5=BE=AA=E7=8E=AF=
+=E7=B4=A2=E5=BC=95=E5=8F=98=E9=87=8F&nbsp;</a><br><a href=3D"#id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3=
+81967385">2.6 =E6=95=B0=E6=8D=AE=E5=BA=93&nbsp;</a><br><a href=3D"#id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc381967386">3. =E7=BC=96=E7=A8=8B=E9=A3=8E=E6=A0=BC&nbsp;</a><br><a hre=
+f=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-_Toc381967387">3.1 PHP=E4=BB=A3=E7=A0=81=E5=9D=97&nbsp;</a><br=
+><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=
+=81=E8=A7=84=E8=8C=83-_Toc381967388">3.2 =E6=93=8D=E4=BD=9C=E7=AC=A6&nbsp;<=
+/a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=
+=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967389">3.3 =E7=BC=A9=E8=BF=9B&nbsp;</a>=
+<br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=
+=A0=81=E8=A7=84=E8=8C=83-_Toc381967390">3.4 =E5=AD=97=E7=AC=A6=E4=B8=B2&nbs=
+p;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=
+=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967391">3.5 =E6=95=B0=E7=BB=84&nbsp;<=
+/a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=
+=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967392">3.6 =E7=B1=BB&nbsp;</a><br><a hr=
+ef=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=
+=A7=84=E8=8C=83-_Toc381967393">3.7 =E5=87=BD=E6=95=B0=E5=92=8C=E6=96=B9=E6=
+=B3=95&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPP=
+HP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967394">3.8 =E7=AE=80=E5=8D=
+=95=E7=9A=84=E8=AF=AD=E5=8F=A5&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=
+=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3819673=
+95">3.9 =E6=8E=A7=E5=88=B6=E8=AF=AD=E5=8F=A5&nbsp;</a><br><a href=3D"#id-=
+=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=
+=83-_Toc381967396">3.9.1 =E6=9D=A1=E4=BB=B6=E8=AF=AD=E5=8F=A5(if/else/elsei=
+f)&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=
+=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967397">3.9.2 switch=E8=AF=AD=
+=E5=8F=A5&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3P=
+HPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967398">3.9.3 for=E8=AF=AD=
+=E5=8F=A5&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3P=
+HPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967399">3.10 =E5=8C=85=E5=
+=90=AB=E8=AF=AD=E5=8F=A5&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=
+=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967400">3.=
+11 try=E2=80=A6catch=E2=80=A6&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=
+=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3819674=
+01">3.12 =E9=94=99=E8=AF=AF=E6=8A=91=E5=88=B6=E7=AC=A6@&nbsp;</a><br><a hre=
+f=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-_Toc381967402">3.13 =E4=BB=A3=E7=A0=81=E5=8C=BA=E5=9D=97&nbsp;=
+</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=
+=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967403">3.14 =E8=AF=AD=E6=B3=95=E7=BB=93=
+=E6=9E=84&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3P=
+HPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967404">4. =E6=96=87=E6=A1=
+=A3=E6=B3=A8=E9=87=8A&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=
+=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967405">4.1 =
+=E5=87=BD=E6=95=B0&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=
+=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967406">4.2 =E7=
+=B1=BB&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPP=
+HP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967407">5. =E5=85=B6=E4=BB=96=
+&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=
+=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967408">5.1 =E7=AB=99=E7=82=B9=E8=
+=87=AA=E8=BA=AB=E7=9A=84=E8=A7=84=E5=88=99=E7=BA=A6=E6=9D=9F&nbsp;</a><br><=
+a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc381967409">5.2 =E5=85=B3=E4=BA=8E=E5=AE=89=E5=85=A8=
+=E6=BC=8F=E6=B4=9E=E5=8F=8Ahtml=E8=BD=AC=E4=B9=89&nbsp;</a><br><a href=3D"#=
+id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=
+=8C=83-_Toc381967410">5.3=E5=85=B6=E4=BB=96&nbsp;</a><br><a href=3D"#id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc381967411">=E9=99=84=E5=BD=95&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=
+=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3819=
+67412">I =E5=A4=A7=E6=8B=AC=E5=8F=B7&nbsp;</a><br><a href=3D"#id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3=
+81967413">1=EF=BC=8E=E4=BD=BF=E7=94=A8=E5=A4=A7=E6=8B=AC=E5=8F=B7&nbsp;</a>=
+<br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=
+=A0=81=E8=A7=84=E8=8C=83-_Toc381967414">2=EF=BC=8E=E5=A4=A7=E6=8B=AC=E5=8F=
+=B7=E7=9A=84=E4=BD=8D=E7=BD=AE&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=
+=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3819674=
+15">II=E9=80=9A=E7=94=A8=E8=A7=84&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=
+=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3819=
+67416">1=EF=BC=8E=E5=85=B3=E8=81=94=E6=95=B0=E7=BB=84&nbsp;</a><br><a href=
+=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-_Toc381967417">2=EF=BC=8E=E7=B1=BB=E5=9E=8B=E6=AF=94=E8=BE=83&=
+nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=
+=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967418">3=EF=BC=8E=E9=80=92=E5=A2=
+=9E/=E9=80=92=E5=87=8F=E8=BF=90=E7=AE=97=E7=AC=A6&nbsp;</a><br><a href=3D"#=
+id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=
+=8C=83-_Toc381967419">4=EF=BC=8E=E4=B8=89=E5=85=83=E6=9D=A1=E4=BB=B6=E8=BF=
+=90=E7=AE=97=E7=AC=A6&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=
+=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967420">5=EF=
+=BC=8E=E6=9C=AA=E5=88=9D=E5=A7=8B=E5=8C=96=E7=9A=84=E5=8F=98=E9=87=8F&nbsp;=
+</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=
+=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967421">6=EF=BC=8E=E5=8F=98=E9=87=8F/=E6=
+=95=B0=E7=BB=84=E6=98=AF=E5=90=A6=E4=B8=BA=E7=A9=BA=E7=9A=84=E6=A3=80=E6=B5=
+=8B&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=
+=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967422">7=EF=BC=8E=E6=AD=A3=E5=
+=88=99=E8=A1=A8=E8=BE=BE=E5=BC=8F&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=
+=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3819=
+67423">8=EF=BC=8E=E4=BD=BF=E7=94=A8file_get_contents/file_put_contents&nbsp=
+;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=
+=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967424">9=EF=BC=8EGlobal/Request/Session=
+/Server =E5=8F=98=E9=87=8F&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967425"=
+>10=EF=BC=8E=E8=BE=93=E5=87=BAheader()&nbsp;</a><br><a href=3D"#id-=E6=8A=
+=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_T=
+oc381967426">11=EF=BC=8E=E4=B8=8A=E4=BC=A0=E6=96=87=E4=BB=B6=E7=B1=BB=E5=9E=
+=8B&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=
+=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967427">12=EF=BC=8E=E5=AD=97=E7=
+=AC=A6=E4=B8=B2=E7=9A=84=E5=A4=A7=E5=B0=8F=E5=86=99=E8=BD=AC=E6=8D=A2&nbsp;=
+</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=
+=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967428">13=EF=BC=8E=E6=A3=80=E6=9F=A5=E5=
+=AD=97=E7=AC=A6=E4=B8=B2=E9=95=BF=E5=BA=A6&nbsp;</a><br><a href=3D"#id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc381967429">14=EF=BC=8E=E5=8C=85=E5=90=AB=E6=96=87=E4=BB=B6&nbsp;</a><b=
+r><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=
+=81=E8=A7=84=E8=8C=83-_Toc381967430">15=EF=BC=8E=E9=81=8D=E5=8E=86=E6=95=B0=
+=E7=BB=84&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3P=
+HPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967431">16=EF=BC=8E=E9=81=
+=BF=E5=85=8D=E4=BF=AE=E6=94=B9for=E5=BE=AA=E7=8E=AF=E5=86=85=E7=9A=84=E6=9D=
+=A1=E4=BB=B6=E5=80=BC&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=
+=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967432">17=EF=
+=BC=8E=E7=94=A8=E5=B8=B8=E9=87=8F=E4=BB=A3=E6=9B=BF=E5=87=BD=E6=95=B0&nbsp;=
+</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=
+=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967433">18=EF=BC=8E=E7=9B=AE=E5=BD=95=E6=
+=9D=83=E9=99=90&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=
+=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967434">19=EF=BC=8E=
+=E4=B8=B4=E6=97=B6=E6=96=87=E4=BB=B6&nbsp;</a><br><a href=3D"#id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3=
+81967435">20. =E9=9D=99=E6=80=81=E6=96=B9=E6=B3=95=E5=92=8C=E9=9D=99=E6=80=
+=81=E8=B0=83=E7=94=A8&nbsp;</a><br><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=
+=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967436">21=EF=
+=BC=8E=E6=97=B6=E9=97=B4=E9=97=AE=E9=A2=98&nbsp;</a><br><a href=3D"#id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc381967437">22=EF=BC=8E=E7=BB=9D=E5=AF=B9=E8=B7=AF=E5=BE=84&nbsp;</a><b=
+r><a href=3D"#id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=
+=81=E8=A7=84=E8=8C=83-_Toc381967438">23=EF=BC=8E=E9=94=99=E8=AF=AF=E4=BF=A1=
+=E6=81=AF&nbsp;</a><br><span class=3D"confluence-anchor-link" id=3D"id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc294862094"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc381967377"></span><strong>=E5=89=8D</strong>&nbsp;<strong>=E8=A8=80</s=
+trong><br>=E4=B8=9A=E5=8A=A1=E4=B8=BB=E8=A6=81=E7=9A=84=E5=BC=80=E5=8F=91=
+=E8=AF=AD=E8=A8=80=E5=92=8C=E5=B7=A5=E5=85=B7=E6=98=AFPHP=EF=BC=8CJavascrip=
+t=E5=8F=8A=E7=9B=B8=E5=BA=94=E7=9A=84IDE=E3=80=82<br>=E4=B8=BA=E4=BA=86=E8=
+=A7=84=E8=8C=83=E7=B3=BB=E7=BB=9F=E7=9A=84=E8=AE=BE=E8=AE=A1=EF=BC=8C=E6=94=
+=B9=E5=96=84=E7=9B=AE=E5=89=8D=E5=9C=A8=E7=B3=BB=E7=BB=9F=E5=BB=BA=E8=AE=BE=
+=E8=BF=87=E7=A8=8B=E4=B8=AD=E5=AD=98=E5=9C=A8=E7=9A=84=E8=AE=BE=E8=AE=A1=E4=
+=B8=8D=E5=90=88=E7=90=86=EF=BC=8C=E4=BB=A3=E7=A0=81=E4=B8=8D=E8=A7=84=E8=8C=
+=83=EF=BC=8C=E7=BB=B4=E6=8A=A4=E5=92=8C=E7=90=86=E8=A7=A3=E5=9B=B0=E9=9A=BE=
+=E7=AD=89=E7=AD=89=E7=8E=B0=E8=B1=A1=EF=BC=8C=E7=BB=9F=E4=B8=80=E9=83=A8=E9=
+=97=A8=E7=9A=84PHP=E5=92=8CJavascript=E4=BB=A3=E7=A0=81=E7=BC=96=E7=A8=8B=
+=E8=A7=84=E8=8C=83=EF=BC=8C=E6=8F=90=E9=AB=98=E7=B3=BB=E7=BB=9F=E7=9A=84=E5=
+=8F=AF=E7=BB=B4=E6=8A=A4=E6=80=A7=EF=BC=8C=E6=9B=B4=E5=A5=BD=E7=9A=84=E6=8F=
+=90=E5=8D=87=E5=B0=8F=E7=BB=84=E6=88=90=E5=91=98=E7=9A=84=E5=BC=80=E5=8F=91=
+=E6=95=88=E7=8E=87=EF=BC=8C=E5=AE=9E=E7=8E=B0=E7=94=A8=E6=88=B7=E4=BB=B7=E5=
+=80=BC=EF=BC=8C=E7=89=B9=E5=88=B6=E5=AE=9A=E6=9C=AC=E8=A7=84=E8=8C=83=E3=80=
+=82<br>=E6=9C=AC=E8=A7=84=E8=8C=83=E5=80=9F=E9=89=B4=E7=9B=B8=E5=85=B3=E7=
+=9A=84=E8=AF=AD=E8=A8=80=E7=BC=96=E7=A8=8B=E6=99=AE=E9=81=8D=E5=8E=9F=E5=88=
+=99=E7=BB=93=E5=90=88=E6=9C=AC=E9=83=A8=E9=97=A8=E7=9A=84=E7=B3=BB=E7=BB=9F=
+=E5=AE=9E=E9=99=85=E8=80=8C=E5=88=B6=E5=AE=9A=E3=80=82=E7=9B=B8=E5=85=B3=E6=
+=88=90=E5=91=98=E9=9C=80=E4=B8=A5=E6=A0=BC=E6=8C=89=E8=A7=84=E8=8C=83=E8=AE=
+=BE=E8=AE=A1=E5=92=8C=E5=AE=9E=E7=8E=B0=E7=B3=BB=E7=BB=9F=EF=BC=8C=E4=BF=9D=
+=E8=AF=81=E5=BB=BA=E8=AE=BE=E8=B4=A8=E9=87=8F=E3=80=82&nbsp;<br class=3D"at=
+l-forced-newline">=E6=9C=AC=E8=A7=84=E8=8C=83=E7=94=B1=E5=B9=B3=E5=AE=89=E5=
+=A5=BD=E6=88=BF=E6=8A=80=E6=9C=AF=E9=83=A8=E6=8F=90=E5=87=BA=E3=80=82<br>=
+=E6=9C=AC=E8=A7=84=E8=8C=83=E7=94=B1=E5=B9=B3=E5=AE=89=E5=A5=BD=E6=88=BF=E6=
+=8A=80=E6=9C=AF=E9=83=A8=E7=AE=A1=E7=90=86=E3=80=82<br>=E6=9C=AC=E8=A7=84=
+=E8=8C=83=E7=94=B1=E5=B9=B3=E5=AE=89=E5=A5=BD=E6=88=BF=E6=8A=80=E6=9C=AF=E9=
+=83=A8=E8=B4=9F=E8=B4=A3=E8=B5=B7=E8=8D=89=E3=80=81=E6=9B=B4=E6=96=B0=E3=80=
+=82<br>=E6=9C=AC=E8=A7=84=E8=8C=83=E8=A7=A3=E9=87=8A=E6=9D=83=E5=B1=9E=E5=
+=B9=B3=E5=AE=89=E5=A5=BD=E6=88=BF=E6=8A=80=E6=9C=AF=E9=83=A8=E3=80=82</p>
+<h1 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc113785235_Toc206261110_Toc294862095_Toc3819673781.=
+=E8=8C=83=E5=9B=B4"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=
+=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_T=
+oc113785235"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=
+=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_T=
+oc206261110"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=
+=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_T=
+oc294862095"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=
+=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_T=
+oc381967378"></span>1. =E8=8C=83=E5=9B=B4</h1>
+<p>=E6=9C=AC=E6=96=87=E6=A1=A3=E6=8F=90=E4=BE=9B=E7=BB=99=E5=B9=B3=E5=AE=89=
+=E5=A5=BD=E6=88=BF=E6=8A=80=E6=9C=AF=E9=83=A8=E6=89=80=E6=9C=89=E5=BC=80=E5=
+=8F=91=E4=BA=BA=E5=91=98=E4=BD=BF=E7=94=A8=E3=80=82=E5=9C=A8=E5=BC=80=E5=8F=
+=91Web=E7=B3=BB=E7=BB=9F=E6=97=B6=EF=BC=8C=E6=89=80=E6=9C=89=E4=BA=BA=E5=91=
+=98=E5=9D=87=E9=9C=80=E9=81=B5=E5=AE=88=E5=92=8C=E5=AE=9E=E6=96=BD=E6=9C=AC=
+=E6=96=87=E6=A1=A3=E4=B9=8B=E7=BA=A6=E5=AE=9A=E8=A7=84=E8=8C=83=E3=80=82</p=
+>
+<h1 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261111_Toc294862096_Toc3819673792.=E5=91=BD=E5=90=
+=8D=E7=BA=A6=E5=AE=9A"><span class=3D"confluence-anchor-link" id=3D"id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc206261111"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc294862096"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc381967379"></span>2. =E5=91=BD=E5=90=8D=E7=BA=A6=E5=AE=9A</h1>
+<p><em>=E6=B3=A8=EF=BC=9A=E5=9B=A0Javascript=E5=86=85=E7=BD=AE=E5=AF=B9=E8=
+=B1=A1=E3=80=81=E5=B1=9E=E6=80=A7=E5=9D=87=E4=BB=A5=E9=A9=BC=E5=B3=B0=E5=BC=
+=8F=E5=91=BD=E5=90=8D=EF=BC=8C=E4=B8=BA=E4=BA=86=E5=89=8D=E5=90=8E=E5=8F=B0=
+=E7=BB=9F=E4=B8=80=EF=BC=8C=E6=9C=AC=E8=A7=84=E8=8C=83=E5=A4=A7=E9=83=A8=E5=
+=88=86=E5=91=BD=E5=90=8D=E7=BA=A6=E5=AE=9A=E9=87=87=E7=94=A8=E9=A9=BC=E5=B3=
+=B0=E5=BC=8F=E5=91=BD=E5=90=8D=E3=80=82=E7=94=B1=E4=BA=8ELinux=E6=96=87=E4=
+=BB=B6=E5=90=8D=E5=A4=A7=E5=B0=8F=E5=86=99=E6=95=8F=E6=84=9F=EF=BC=8C=E6=89=
+=80=E4=BB=A5=E4=BD=BF=E7=94=A8=E5=BF=85=E9=A1=BB=E5=B0=8F=E5=BF=83=E3=80=82=
+=E8=AF=A5=E5=91=BD=E5=90=8D=E7=BA=A6=E5=AE=9A=E5=9F=BA=E6=9C=AC=E9=80=82=E7=
+=94=A8=E4=BA=8EJavascript=E3=80=82</em></p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862098_Toc3819673802.1=E5=B8=B8=E9=87=8F=E5=90=8D=
+"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=
+=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862098"></spa=
+n><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=
+=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967380"></spa=
+n>2.1 =E5=B8=B8=E9=87=8F=E5=90=8D</h2>
+<p>=EF=BC=881=EF=BC=89=E5=B8=B8=E9=87=8F=E5=9D=87=E7=94=B1=E5=A4=A7=E5=86=
+=99=E5=AD=97=E6=AF=8D=E3=80=81=E6=95=B0=E5=AD=97=E5=92=8C=E4=B8=8B=E5=88=92=
+=E7=BA=BF=E7=BB=84=E6=88=90=EF=BC=8C=E5=A4=9A=E4=B8=AA=E5=8D=95=E8=AF=8D=E9=
+=87=87=E7=94=A8=E4=B8=8B=E5=88=92=E7=BA=BF=E5=88=86=E9=9A=94=EF=BC=8C=E4=BB=
+=A3=E7=A0=81=E4=B8=AD=E4=B8=8D=E5=85=81=E8=AE=B8=E5=87=BA=E7=8E=B0=E6=97=A0=
+=E6=84=8F=E4=B9=89=E7=9A=84=E6=95=B0=E5=AD=97=EF=BC=8C=E5=BF=85=E9=A1=BB=E4=
+=BB=A5=E5=B8=B8=E9=87=8F=E5=BD=A2=E5=BC=8F=E5=87=BA=E7=8E=B0=E3=80=82<br>=
+=EF=BC=882=EF=BC=89=E5=B1=80=E9=83=A8=E5=B8=B8=E9=87=8F=E5=8F=8A=E6=9C=89=
+=E5=BD=92=E5=B1=9E=E7=9A=84=E5=B8=B8=E9=87=8F=E5=BA=94=E5=BD=93=E5=B0=BD=E9=
+=87=8F=E5=AE=9A=E4=B9=89=E4=B8=BA=E7=B1=BB=E5=B8=B8=E9=87=8F=EF=BC=8C=E5=8F=
+=AF=E5=AE=9A=E4=B9=89=E5=B8=B8=E9=87=8F=E7=9A=84=E7=B1=BB=E5=BA=94=E5=9C=A8=
+dao=E6=88=96bll=E5=B1=82=EF=BC=8C=E4=BD=BF=E7=94=A8const=E5=A3=B0=E6=98=8E=
+=EF=BC=8C=E5=8F=A6=E5=A4=96=E9=99=A4=E5=8E=BB=E5=BC=82=E5=B8=B8=E7=BC=96=E7=
+=A0=81=EF=BC=8C=E5=BA=94=E5=BD=93=E6=9E=81=E5=8A=9B=E9=81=BF=E5=85=8D=E5=AE=
+=9A=E4=B9=89=E5=85=A8=E5=B1=80=E5=B8=B8=E9=87=8F=EF=BC=88=E5=BC=82=E5=B8=B8=
+=E6=83=85=E5=86=B5=E9=9C=80review=EF=BC=89=E3=80=82<br>=EF=BC=883=EF=BC=89=
+=E5=85=A8=E5=B1=80=E5=B8=B8=E9=87=8F=EF=BC=8C=E7=94=A8'_'=E5=88=86=E9=9A=94=
+=E6=AF=8F=E4=B8=AA=E5=8D=95=E8=AF=8D=EF=BC=8C=E9=80=9A=E8=BF=87=E5=89=8D=E7=
+=BC=80=E5=88=86=E7=B1=BB=E3=80=82=E5=A6=82=EF=BC=9A define('ERRC_LOGIC', 50=
+00);<br>=EF=BC=884=EF=BC=89=E7=B1=BB=E5=B8=B8=E9=87=8F=EF=BC=8C=E7=94=A8'_'=
+=E5=88=86=E9=9A=94=E6=AF=8F=E4=B8=AA=E5=8D=95=E8=AF=8D=EF=BC=8C=E5=A6=82=EF=
+=BC=9A<br>class util_example{<br>const EXAMPLE_CONST;<br>}</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862099_Toc3819673812.2=E5=8F=98=E9=87=8F=E5=90=8D=
+"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=
+=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862099"></spa=
+n><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=
+=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967381"></spa=
+n>2.2 =E5=8F=98=E9=87=8F=E5=90=8D</h2>
+<p>=EF=BC=881=EF=BC=89=E5=B1=80=E9=83=A8=E5=8F=98=E9=87=8F=EF=BC=8C=E5=87=
+=BD=E6=95=B0=E3=80=81=E6=96=B9=E6=B3=95=E7=9A=84=E5=8F=82=E6=95=B0=EF=BC=8C=
+=E4=BD=BF=E7=94=A8=E9=AA=86=E9=A9=BC=E5=91=BD=E5=90=8D=E6=B3=95=E5=91=BD=E5=
+=90=8D=EF=BC=8C=E4=BB=A5'$p_'=E5=BC=80=E5=A4=B4=EF=BC=8C=E5=8F=98=E9=87=8F=
+=E7=B1=BB=E5=9E=8B=E5=86=8D=E6=8E=A5=E5=8F=98=E9=87=8F=E5=90=8D=E7=9A=84=E8=
+=8B=B1=E6=96=87=E5=90=AB=E4=B9=89=E3=80=82=E5=A6=82=EF=BC=9A<br>function te=
+stFunc($p_iName){<br>}<br>=EF=BC=882=EF=BC=89=E7=B1=BB=E5=B1=9E=E6=80=A7=EF=
+=BC=8C=E4=BD=BF=E7=94=A8=E9=AA=86=E9=A9=BC=E5=91=BD=E5=90=8D=E6=B3=95=E5=91=
+=BD=E5=90=8D=EF=BC=8C=E4=B8=8E=E5=87=BD=E6=95=B0=E3=80=81=E6=96=B9=E6=B3=95=
+=E7=9A=84=E5=8F=82=E6=95=B0=E5=91=BD=E5=90=8D=E6=96=B9=E6=B3=95=E7=9B=B8=E5=
+=90=8C=E3=80=82<br>=EF=BC=883=EF=BC=89=E5=85=A8=E5=B1=80=E5=8F=98=E9=87=8F=
+=EF=BC=8C=E5=AD=97=E6=AF=8D=E9=83=BD=E4=BD=BF=E7=94=A8=E5=A4=A7=E5=86=99=EF=
+=BC=8C=E4=BD=BF=E7=94=A8"_"=E4=BD=9C=E4=B8=BA=E6=AF=8F=E4=B8=AA=E8=AF=8D=E7=
+=9A=84=E5=88=86=E7=95=8C=EF=BC=8C=E5=BA=94=E7=94=A8=E4=B8=AD=E6=97=A0=E6=9E=
+=81=E7=AB=AF=E7=89=B9=E6=AE=8A=E9=9C=80=E6=B1=82=E4=B8=8D=E4=BD=BF=E7=94=A8=
+=E5=85=A8=E5=B1=80=E5=8F=98=E9=87=8F=EF=BC=88=E5=BC=82=E5=B8=B8=E6=83=85=E5=
+=86=B5=E9=9C=80review=EF=BC=89=E3=80=82<br>=EF=BC=884=EF=BC=89=E7=BC=A9=E7=
+=95=A5=E5=8D=95=E8=AF=8D=E6=89=80=E6=9C=89=E5=AD=97=E6=AF=8D=E5=9D=87=E9=9C=
+=80=E5=A4=A7=E5=86=99=EF=BC=8C=E5=A6=82=EF=BC=9AID=EF=BC=8CURL<br>=EF=BC=88=
+5=EF=BC=89=E5=8F=98=E9=87=8F=E7=B1=BB=E5=9E=8B=EF=BC=8C=E5=85=B7=E4=BD=93=
+=E5=AF=B9=E5=BA=94=E5=85=B3=E7=B3=BB=E5=A6=82=E4=B8=8B=EF=BC=9A</p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><p><strong>=E5=8F=98=E9=87=8F=E7=B1=BB=E5=9E=8B<=
+/strong></p></td>
+<td class=3D"confluenceTd"><p><strong>=E9=A6=96=E5=AD=97=E6=AF=8D=E5=90=8D=
+=E7=A7=B0</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>=E6=95=B4=E5=9E=8B</p></td>
+<td class=3D"confluenceTd"><p>i</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>=E6=B5=AE=E7=82=B9</p></td>
+<td class=3D"confluenceTd"><p>f</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>=E5=AD=97=E7=AC=A6</p></td>
+<td class=3D"confluenceTd"><p>s</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>=E6=95=B0=E7=BB=84</p></td>
+<td class=3D"confluenceTd"><p>a</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>=E5=AF=B9=E8=B1=A1</p></td>
+<td class=3D"confluenceTd"><p>o</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>=E5=B8=83=E5=B0=94</p></td>
+<td class=3D"confluenceTd"><p>b</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>=E8=B5=84=E6=BA=90</p></td>
+<td class=3D"confluenceTd"><p>r</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>=E6=B7=B7=E5=90=88=E7=B1=BB=E5=9E=8B</p></td>
+<td class=3D"confluenceTd"><p>m</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>=E4=B8=B4=E6=97=B6=E5=8F=98=E9=87=8F</p></td>
+<td class=3D"confluenceTd"><p>t</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em>=E6=B3=A8=EF=BC=9A=E5=91=BD=E5=90=8D=E5=BF=85=E9=A1=BB=E5=85=B7=E6=
+=9C=89=E6=8F=8F=E8=BF=B0=E6=80=A7=EF=BC=8C=E4=BD=86=E5=8A=A1=E6=B1=82=E7=AE=
+=80=E7=BB=83=E3=80=82=E4=B8=8D=E8=A6=81=E5=9C=A8=E5=8F=98=E9=87=8F=E5=90=8D=
+=E4=B8=AD=E4=BD=BF=E7=94=A8=E9=95=BF=E5=8F=A5=E3=80=82=E9=80=9A=E5=B8=B8=E5=
+=9C=A8=E5=8F=98=E9=87=8F=E5=90=8D=E4=B8=AD=E4=BD=BF=E7=94=A8=E4=B8=80=E5=AF=
+=B9=E8=AF=8D=E8=AF=AD=E5=AF=B9=E5=8F=98=E9=87=8F=E8=BF=9B=E8=A1=8C=E7=AE=80=
+=E8=A6=81=E6=8F=8F=E8=BF=B0=E8=BF=99=E7=A7=8D=E6=96=B9=E5=BC=8F=E6=9B=B4=E5=
+=A5=BD=E3=80=82</em></p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862102_Toc3819673822.3=E7=B1=BB"><span class=3D"c=
+onfluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=
+=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862102"></span><span class=3D"c=
+onfluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=
+=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967382"></span>2.3 =E7=B1=BB</h=
+2>
+<p>=EF=BC=881=EF=BC=89=E5=90=8D=E5=AD=97=E7=A9=BA=E9=97=B4=E4=B8=8E=E7=B1=
+=BB=E5=91=BD=E5=90=8D=EF=BC=9A=E7=B1=BB=E5=90=8D=E6=8C=89=E7=85=A7=E5=AE=9E=
+=E9=99=85=E7=89=A9=E7=90=86=E4=BD=8D=E7=BD=AE=E5=8A=A0=E4=B8=8A=E6=89=80=E5=
+=B1=9E=E5=8A=9F=E8=83=BD=E7=B1=BB=E5=88=AB=E8=81=94=E5=90=88=E5=91=BD=E5=90=
+=8D=E6=96=B9=E6=B3=95=E3=80=82=E7=89=A9=E7=90=86=E4=BD=8D=E7=BD=AE=E4=BD=BF=
+=E7=94=A8_=E8=BF=9E=E6=8E=A5=EF=BC=8C=E5=86=8D=E8=B7=9F=E4=B8=8A=E6=89=80=
+=E5=B1=9E=E5=8A=9F=E8=83=BD=E7=B1=BB=E5=88=AB=E3=80=82=E5=A6=82home=E6=96=
+=87=E4=BB=B6=E5=A4=B9=E4=B8=8B=E7=9A=84home=E6=8E=A7=E5=88=B6=E5=99=A8=EF=
+=BC=9Ahome_homecontroller=EF=BC=8C=E5=AE=9E=E9=99=85=E6=96=87=E4=BB=B6=E4=
+=BD=8D=E7=BD=AE=EF=BC=9A/controller/home/home.php<br>=EF=BC=882=EF=BC=89=E6=
+=96=B9=E6=B3=95=E5=91=BD=E5=90=8D=EF=BC=9A=E4=BD=BF=E7=94=A8=E9=AA=86=E9=A9=
+=BC=E5=91=BD=E5=90=8D=E6=B3=95=E5=91=BD=E5=90=8D=EF=BC=8C=E4=BE=8B=E5=A6=82=
+ getCache()=E3=80=81echoName()=E3=80=82=E5=90=8D=E5=AD=97=E9=87=87=E7=94=A8=
+"=E5=8A=A8=E8=AF=8D+=E5=AE=BE=E8=AF=AD"=E7=9A=84=E5=BD=A2=E5=BC=8F=E3=80=82=
+<br>=EF=BC=883=EF=BC=89=E6=96=B9=E6=B3=95=EF=BC=9A=E5=A6=82=E5=A4=96=E9=83=
+=A8=E6=97=A0=E8=B0=83=E7=94=A8=E5=BA=94=E5=BD=93=E5=A3=B0=E6=98=8E=E4=B8=BA=
+"private"=E5=92=8C"protected"=E7=9A=84=E6=96=B9=E6=B3=95=EF=BC=8C=E5=A2=9E=
+=E5=8A=A0_=E5=89=8D=E7=BC=80=EF=BC=8C=E5=8F=8D=E4=B9=8B=E5=A3=B0=E6=98=8E=
+=E4=B8=BA"public"=E7=9A=84=E6=96=B9=E6=B3=95=E3=80=82<br>=EF=BC=884=EF=BC=
+=89=E4=B8=8D=E5=85=81=E8=AE=B8=E4=BD=BF=E7=94=A8var=E5=A3=B0=E6=98=8E=E7=B1=
+=BB=E5=B1=9E=E6=80=A7=EF=BC=8C=E7=B1=BB=E5=B1=9E=E6=80=A7=E7=9A=84=E5=A3=B0=
+=E6=98=8E=E4=B9=9F=E5=BA=94=E5=BD=93=E7=AC=A6=E5=90=88=E7=AC=AC=EF=BC=883=
+=EF=BC=89=E6=9D=A1=E5=8E=9F=E5=88=99=E3=80=82&nbsp;</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862104_Toc3819673832.4=E5=87=BD=E6=95=B0"><span c=
+lass=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=
+=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862104"></span><span c=
+lass=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=
+=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967383"></span>2.4 =E5=
+=87=BD=E6=95=B0</h2>
+<p>=E9=9D=9E=E6=9E=81=E7=AB=AF=E7=89=B9=E6=AE=8A=E6=83=85=E5=86=B5=EF=BC=8C=
+=E5=BA=94=E7=94=A8=E4=BB=A3=E7=A0=81=E4=B8=AD=E7=A6=81=E6=AD=A2=E4=BD=BF=E7=
+=94=A8=E5=85=A8=E5=B1=80=E5=87=BD=E6=95=B0=EF=BC=88=E9=99=A4=E5=8A=A0=E8=BD=
+=BD=E8=B5=84=E6=BA=90=E7=9A=84=E5=87=BD=E6=95=B0=EF=BC=89=EF=BC=8C=E5=BA=94=
+=E5=BD=93=E4=BD=BF=E7=94=A8=E6=A1=86=E6=9E=B6=E6=8F=90=E4=BE=9B=E7=9A=84=E7=
+=B1=BB=EF=BC=8C=E5=AF=B9=E4=B8=8D=E5=B1=9E=E4=BA=8E=E4=BB=BB=E4=BD=95=E7=B1=
+=BB=E7=9A=84=E9=80=9A=E7=94=A8=E5=B0=8F=E5=87=BD=E6=95=B0=E5=81=9A=E5=B0=81=
+=E8=A3=85=E3=80=82Js=E4=B8=AD=E5=BA=94=E5=BD=93=E5=B0=BD=E9=87=8F=E5=B0=86=
+=E7=9B=B8=E5=85=B3=E7=9A=84=E5=87=BD=E6=95=B0=E5=B0=81=E8=A3=85=E5=9C=A8=E5=
+=AF=B9=E8=B1=A1=E4=B8=AD=E3=80=82</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862106_Toc3819673842.5=E5=BE=AA=E7=8E=AF=E7=B4=A2=
+=E5=BC=95=E5=8F=98=E9=87=8F"><span class=3D"confluence-anchor-link" id=3D"i=
+d-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=
+=8C=83-_Toc294862106"></span><span class=3D"confluence-anchor-link" id=3D"i=
+d-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=
+=8C=83-_Toc381967384"></span>2.5 =E5=BE=AA=E7=8E=AF=E7=B4=A2=E5=BC=95=E5=8F=
+=98=E9=87=8F</h2>
+<p>for=E5=BE=AA=E7=8E=AF=E4=B8=AD=EF=BC=8C=E8=87=AA=E5=A2=9E=E5=8F=98=E9=87=
+=8F=E4=B8=80=E8=88=AC=E4=BD=BF=E7=94=A8i=E3=80=81j=E3=80=81k=E3=80=81x=E3=
+=80=81y=E3=80=81z=E5=91=BD=E5=90=8D=EF=BC=8C=EF=BC=88=E5=A6=82=E9=9D=9E=E7=
+=89=B9=E6=AE=8A=E6=83=85=E5=86=B5=EF=BC=8Cphp=E4=B8=AD=E8=AF=B7=E5=B0=BD=E9=
+=87=8F=E4=BD=BF=E7=94=A8foreach=E8=AF=AD=E6=B3=95=EF=BC=89</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261117_Toc294862108_Toc3819673852.6=E6=95=B0=E6=
+=8D=AE=E5=BA=93"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc2=
+06261117"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc2=
+94862108"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3=
+81967385"></span>2.6 =E6=95=B0=E6=8D=AE=E5=BA=93</h2>
+<ol>
+<li>=E6=95=B0=E6=8D=AE=E5=BA=93=E5=90=8D=E4=BD=BF=E7=94=A8=E5=AD=97=E6=AF=
+=8D=E5=92=8C=E4=B8=8B=E5=88=92=E7=BA=BF=E5=91=BD=E5=90=8D=EF=BC=8C=E5=AD=97=
+=E6=AF=8D=E9=83=BD=E5=B0=8F=E5=86=99=EF=BC=8C=E5=A4=9A=E4=B8=AA=E5=8D=95=E8=
+=AF=8D=E7=94=A8=E4=B8=8B=E5=88=92=E7=BA=BF=E5=88=86=E9=9A=94=EF=BC=8C=E4=BB=
+=A5db=E7=BB=93=E5=B0=BE=EF=BC=8C=E8=8B=A5=E5=88=86=E5=BA=93=E5=88=99=E4=BB=
+=A5_=E6=95=B0=E5=AD=97=E7=BB=93=E5=B0=BE=E3=80=82</li>
+<li><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=
+=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc206261118"></=
+span>=E6=95=B0=E6=8D=AE=E8=A1=A8=E5=90=8D
+<ol>
+<li>=E8=A1=A8=E5=90=8D=E4=BB=A5=E5=AD=97=E6=AF=8D=E5=92=8C=E4=B8=8B=E5=88=
+=92=E7=BA=BF=E5=91=BD=E5=90=8D=EF=BC=8C=E5=AD=97=E6=AF=8D=E9=83=BD=E5=B0=8F=
+=E5=86=99=EF=BC=8C=E5=A4=9A=E4=B8=AA=E5=8D=95=E8=AF=8D=E7=94=A8=E4=B8=8B=E5=
+=88=92=E7=BA=BF=E5=88=86=E9=9A=94=EF=BC=8C=E8=8B=A5=E5=88=86=E8=A1=A8=E5=88=
+=99=E4=BB=A5_=E6=95=B0=E5=AD=97=E7=BB=93=E5=B0=BE=E3=80=82</li>
+<li>=E8=A1=A8=E5=90=8D=E4=B8=BA=E5=90=8D=E8=AF=8D</li>
+<li>=E4=BB=A5t_=E5=BC=80=E5=A7=8B</li>
+</ol></li>
+<li><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=
+=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc206261119"></=
+span>=E5=AD=97=E6=AE=B5=E5=90=8D</li>
+<li>=E5=AD=97=E6=AE=B5=E5=90=8D=E4=BB=A5=E5=AD=97=E6=AF=8D=E5=91=BD=E5=90=
+=8D=EF=BC=8C=E9=A6=96=E5=AD=97=E6=AF=8D=E4=B8=BA=E5=AD=97=E6=AE=B5=E6=95=B0=
+=E6=8D=AE=E7=B1=BB=E5=9E=8B=EF=BC=8C=E9=87=87=E7=94=A8=E9=A9=BC=E5=B3=B0=E5=
+=BC=8F=E5=91=BD=E5=90=8D=E8=A7=84=E5=88=99=E3=80=82</li>
+<li>=E7=BC=A9=E7=95=A5=E5=8D=95=E5=AD=90=E5=9D=87=E9=9C=80=E5=85=A8=E5=A4=
+=A7=E5=86=99=E3=80=82=E5=A6=82=EF=BC=9AiUserID</li>
+<li><p>=E5=AD=97=E6=AE=B5=E6=95=B0=E6=8D=AE=E7=B1=BB=E5=9E=8B=EF=BC=9A</p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><p><strong>=E5=AD=97=E6=AE=B5=E7=B1=BB=E5=9E=8B<=
+/strong></p></td>
+<td class=3D"confluenceTd"><p><strong>=E9=A6=96=E5=AD=97=E6=AF=8D=E5=90=8D=
+=E7=A7=B0</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>int/tinyint</p></td>
+<td class=3D"confluenceTd"><p>i</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>varchar/char</p></td>
+<td class=3D"confluenceTd"><p>s</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>text</p></td>
+<td class=3D"confluenceTd"><p>t</p></td>
+</tr>
+</tbody>
+</table>
+</div><p>&nbsp;</p><h1 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=
+=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc206261121_Toc294862109_Toc38196738=
+63.=E7=BC=96=E7=A8=8B=E9=A3=8E=E6=A0=BC"><span class=3D"confluence-anchor-l=
+ink" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261121"></span><span class=3D"confluence-anchor-l=
+ink" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862109"></span><span class=3D"confluence-anchor-l=
+ink" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc381967386"></span>3. =E7=BC=96=E7=A8=8B=E9=A3=8E=E6=
+=A0=BC</h1><h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=
+=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862110_Toc206261122_Toc3819673873.1PHP=
+=E4=BB=A3=E7=A0=81=E5=9D=97"><span class=3D"confluence-anchor-link" id=3D"i=
+d-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=
+=8C=83-_Toc294862110"></span><span class=3D"confluence-anchor-link" id=3D"i=
+d-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=
+=8C=83-_Toc206261122"></span><span class=3D"confluence-anchor-link" id=3D"i=
+d-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=
+=8C=83-_Toc381967387"></span>3.1 PHP=E4=BB=A3=E7=A0=81=E5=9D=97</h2></li>
+<li>PHP=E4=BB=A3=E7=A0=81=E5=9D=97=E5=9D=87=E9=9C=80=E4=BB=A5=E5=AE=8C=E6=
+=95=B4=E7=9A=84PHP=E6=A0=87=E7=AD=BE=E5=AE=9A=E7=95=8C=EF=BC=8C=E8=BF=99=E7=
+=A7=8D=E6=83=85=E5=86=B5=E5=87=BA=E7=8E=B0=E5=BE=97=E8=BE=83=E5=B0=91=E3=80=
+=82</li>
+<li>=E7=BA=AFphp=E4=BB=A3=E7=A0=81=E6=96=87=E4=BB=B6=EF=BC=8C=E4=B8=8D=E9=
+=9C=80=E8=A6=81=E7=BB=93=E5=B0=BE=E7=9A=84?&gt;</li>
+</ol>
+<p><span style=3D"color: rgb(0,0,187);">&lt;?php</span><br><span style=3D"c=
+olor: rgb(255,128,0);">//php code</span><br><span style=3D"color: rgb(0,0,1=
+87);">?&gt;</span><br>&lt;!- HTML //!--&gt;<br><span style=3D"color: rgb(0,=
+0,187);">&lt;?php</span><br><span style=3D"color: rgb(255,128,0);">//php co=
+de</span><br><span style=3D"color: rgb(0,0,187);">?&gt;</span>&nbsp;<br cla=
+ss=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><br class=3D"atl=
+-forced-newline"><br class=3D"atl-forced-newline"><br class=3D"atl-forced-n=
+ewline"></p>
+<ol>
+<li>=E7=BA=AFPHP=E6=96=87=E4=BB=B6=EF=BC=8C=E7=BB=93=E5=B0=BE=E4=B8=8D=E5=
+=85=81=E8=AE=B8=E4=BD=BF=E7=94=A8?&gt;=E8=80=8C=E6=98=AF=E4=BB=A5=E6=8D=A2=
+=E8=A1=8C=E7=BB=93=E6=9D=9F=E3=80=82</li>
+</ol>
+<p><br class=3D"atl-forced-newline"><span style=3D"color: rgb(0,0,187);">&l=
+t;?php</span><br><span style=3D"color: rgb(0,0,187);">phpinfo</span><span s=
+tyle=3D"color: rgb(0,119,0);">();</span></p>
+<ol>
+<li>=E6=A8=A1=E6=9D=BF=E6=96=87=E4=BB=B6=E4=B8=AD=E6=AF=8F=E4=B8=80=E8=A1=
+=8CPHP=E4=BB=A3=E7=A0=81=E5=9D=87=E9=9C=80=E7=94=B1=E5=AE=8C=E6=95=B4=E7=9A=
+=84PHP=E6=A0=87=E7=AD=BE=E5=8C=85=E5=90=AB=E3=80=82</li>
+</ol>
+<p><br class=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><span =
+style=3D"color: rgb(0,0,187);">&lt;?php</span>&nbsp;<span style=3D"color: r=
+gb(0,119,0);">foreach(</span><span style=3D"color: rgb(0,0,187);">$users</s=
+pan>&nbsp;<span style=3D"color: rgb(0,119,0);">as</span>&nbsp;<span style=
+=3D"color: rgb(0,0,187);">$user</span><span style=3D"color: rgb(0,119,0);">=
+) {</span>&nbsp;<span style=3D"color: rgb(0,0,187);">?&gt;</span><br><span =
+style=3D"color: rgb(0,0,187);">&lt;?=3D$user</span><span style=3D"color: rg=
+b(0,119,0);">[</span><span style=3D"color: rgb(221,0,0);">'userName'</span>=
+<span style=3D"color: rgb(0,119,0);">]=EF=BC=9B</span><span style=3D"color:=
+ rgb(0,0,187);">?&gt;</span><br><span style=3D"color: rgb(0,0,187);">&lt;?p=
+hp</span>&nbsp;<span style=3D"color: rgb(0,119,0);">}</span>&nbsp;<span sty=
+le=3D"color: rgb(0,0,187);">?&gt;</span>&nbsp;<br class=3D"atl-forced-newli=
+ne"><br class=3D"atl-forced-newline"></p>
+<ol>
+<li>=E6=A8=A1=E6=9D=BF=E6=96=87=E4=BB=B6=E4=B8=AD=E7=BA=AF=E5=8F=98=E9=87=
+=8F=E8=BE=93=E5=87=BA=E5=8F=AF=E4=BB=A5=E4=BD=BF=E7=94=A8=E7=9F=AD=E6=A0=87=
+=E8=AE=B0=E3=80=82</li>
+</ol>
+<p><span style=3D"color: rgb(0,0,187);">&lt;?=3D$user</span><span style=3D"=
+color: rgb(0,119,0);">[</span><span style=3D"color: rgb(221,0,0);">'userNam=
+e'</span><span style=3D"color: rgb(0,119,0);">]=EF=BC=9B</span><span style=
+=3D"color: rgb(0,0,187);">?&gt;</span></p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862111_Toc206261123_Toc3819673883.2=E6=93=8D=E4=
+=BD=9C=E7=AC=A6"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc2=
+94862111"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc2=
+06261123"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3=
+81967388"></span>3.2 =E6=93=8D=E4=BD=9C=E7=AC=A6</h2>
+<p>=EF=BC=881=EF=BC=89=E5=9C=A8=E6=AF=94=E8=BE=83=E8=BF=90=E7=AE=97=E7=AC=
+=A6=EF=BC=88&gt;=E3=80=81&lt;=E3=80=81&gt;=3D=E3=80=81&lt;=3D=E3=80=81=3D=
+=3D=E3=80=81=3D=3D=3D=E3=80=81!=3D=E3=80=81&lt;&gt;=E3=80=81!=3D=3D=EF=BC=
+=89=E3=80=81=E8=B5=8B=E5=80=BC=E8=BF=90=E7=AE=97=E7=AC=A6=EF=BC=88=3D=EF=BC=
+=89=E3=80=81=E6=95=B0=E5=AD=A6=E8=BF=90=E7=AE=97=E7=AC=A6=EF=BC=88+=E3=80=
+=81-=E3=80=81*=E3=80=81/=E3=80=81%=EF=BC=89=E3=80=81=E4=BD=8D=E8=BF=90=E7=
+=AE=97=E7=AC=A6=EF=BC=88&amp;=E3=80=81|=E3=80=81^=E3=80=81~=E3=80=81&gt;&gt=
+;=E3=80=81&lt;&lt;=EF=BC=89=E3=80=81=E9=80=BB=E8=BE=91=E8=BF=90=E7=AE=97=E7=
+=AC=A6=EF=BC=88!=E3=80=81&amp;&amp;=E3=80=81||=EF=BC=89=E3=80=81=E5=86=92=
+=E5=8F=B7(<img class=3D"emoticon emoticon-smile" src=3D"869393f4050d92b22a8=
+5075929308e1d" data-emoticon-name=3D"smile" alt=3D"(=E5=BE=AE=E7=AC=91)" wi=
+dth=3D"16" height=3D"16">=E3=80=81=E9=97=AE=E5=8F=B7=EF=BC=88?=EF=BC=89=E3=
+=80=81=E5=AD=97=E7=AC=A6=E4=B8=B2=E8=BF=9E=E6=8E=A5=E8=BF=90=E7=AE=97=E7=AC=
+=A6=EF=BC=88.=EF=BC=89=E3=80=81=E5=AD=97=E7=AC=A6=E4=B8=B2=E8=BF=9E=E6=8E=
+=A5=E8=B5=8B=E5=80=BC=E8=BF=90=E7=AE=97=E7=AC=A6(.=3D=EF=BC=89=E5=89=8D=E5=
+=90=8E=EF=BC=8C=E4=BB=A5=E5=8F=8A=E9=80=97=E5=8F=B7=EF=BC=88,=EF=BC=89=E5=
+=90=8E=E8=AF=B7=E4=BD=BF=E7=94=A8=E7=A9=BA=E6=A0=BC=E8=BF=9B=E8=A1=8C=E9=97=
+=B4=E9=9A=94=E3=80=82&nbsp;<br>=E4=BE=8B=E5=A6=82:&nbsp;<br><span style=3D"=
+color: rgb(255,165,0);">/* These are all wrong. */</span><br><span style=3D=
+"color: rgb(0,0,139);">$i</span><span style=3D"color: rgb(128,128,128);">=
+=3D</span><span style=3D"color: rgb(128,0,0);">0</span><span style=3D"color=
+: rgb(128,128,128);">;</span><br><span style=3D"color: rgb(255,165,0);">/* =
+These are all right. */</span><br><span style=3D"color: rgb(0,0,139);">$i</=
+span>&nbsp;<span style=3D"color: rgb(128,128,128);">=3D</span>&nbsp;<span s=
+tyle=3D"color: rgb(128,0,0);">0</span><span style=3D"color: rgb(128,128,128=
+);">;</span>&nbsp;<br class=3D"atl-forced-newline"><span style=3D"color: rg=
+b(255,165,0);">/* These are all wrong. */</span><br><span style=3D"color: r=
+gb(0,128,0);">if</span><span style=3D"color: rgb(128,128,0);">(</span><span=
+ style=3D"color: rgb(0,0,139);">$i</span><span style=3D"color: rgb(128,128,=
+128);">&lt;</span><span style=3D"color: rgb(128,0,0);">7</span><span style=
+=3D"color: rgb(128,128,0);">)</span><span style=3D"color: rgb(128,128,128);=
+">...</span><br><span style=3D"color: rgb(255,165,0);">/* These are all rig=
+ht. */</span><br><span style=3D"color: rgb(0,128,0);">if</span><span style=
+=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,139);">$i=
+</span>&nbsp;<span style=3D"color: rgb(128,128,128);">&lt;</span>&nbsp;<spa=
+n style=3D"color: rgb(128,0,0);">7</span><span style=3D"color: rgb(128,128,=
+0);">)</span><span style=3D"color: rgb(128,128,128);">...</span>&nbsp;<br c=
+lass=3D"atl-forced-newline"><span style=3D"color: rgb(255,165,0);">/* These=
+ are all wrong. */</span><br><span style=3D"color: rgb(0,128,0);">if</span>=
+&nbsp;<span style=3D"color: rgb(128,128,0);">(</span>&nbsp;<span style=3D"c=
+olor: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,139);">$i</spa=
+n>&nbsp;<span style=3D"color: rgb(128,128,128);">&lt;</span>&nbsp;<span sty=
+le=3D"color: rgb(128,0,0);">7</span><span style=3D"color: rgb(128,128,0);">=
+)</span><span style=3D"color: rgb(128,128,128);">&amp;&amp;</span><span sty=
+le=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,139);">=
+$j</span>&nbsp;<span style=3D"color: rgb(128,128,128);">&gt;</span>&nbsp;<s=
+pan style=3D"color: rgb(128,0,0);">8</span><span style=3D"color: rgb(128,12=
+8,0);">)</span>&nbsp;<span style=3D"color: rgb(128,128,0);">)</span><span s=
+tyle=3D"color: rgb(128,128,128);">...</span><br><span style=3D"color: rgb(2=
+55,165,0);">/* These are all right. */</span><br><span style=3D"color: rgb(=
+0,128,0);">if</span><span style=3D"color: rgb(128,128,0);">((</span><span s=
+tyle=3D"color: rgb(0,0,139);">$i</span>&nbsp;<span style=3D"color: rgb(128,=
+128,128);">&lt;</span>&nbsp;<span style=3D"color: rgb(128,0,0);">7</span><s=
+pan style=3D"color: rgb(128,128,0);">)</span>&nbsp;<span style=3D"color: rg=
+b(128,128,128);">&amp;&amp;</span>&nbsp;<span style=3D"color: rgb(128,128,0=
+);">(</span><span style=3D"color: rgb(0,0,139);">$j</span>&nbsp;<span style=
+=3D"color: rgb(128,128,128);">&gt;</span>&nbsp;<span style=3D"color: rgb(12=
+8,0,0);">8</span><span style=3D"color: rgb(128,128,0);">))</span><span styl=
+e=3D"color: rgb(128,128,128);">...</span>&nbsp;<br class=3D"atl-forced-newl=
+ine"><span style=3D"color: rgb(255,165,0);">/* These are all wrong. */</spa=
+n><br><span style=3D"color: rgb(0,0,255);">do_stuff</span><span style=3D"co=
+lor: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,139);">$i</span=
+><span style=3D"color: rgb(128,128,128);">,</span><span style=3D"color: rgb=
+(139,0,0);">"</span><span style=3D"color: rgb(255,0,0);">foo</span><span st=
+yle=3D"color: rgb(139,0,0);">"</span><span style=3D"color: rgb(128,128,128)=
+;">,</span><span style=3D"color: rgb(0,0,139);">$b</span><span style=3D"col=
+or: rgb(128,128,0);">)</span><span style=3D"color: rgb(128,128,128);">;</sp=
+an><br><span style=3D"color: rgb(255,165,0);">/* These are all right. */</s=
+pan><br><span style=3D"color: rgb(0,0,255);">do_stuff</span><span style=3D"=
+color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,139);">$i</sp=
+an><span style=3D"color: rgb(128,128,128);">,</span>&nbsp;<span style=3D"co=
+lor: rgb(139,0,0);">"</span><span style=3D"color: rgb(255,0,0);">foo</span>=
+<span style=3D"color: rgb(139,0,0);">"</span><span style=3D"color: rgb(128,=
+128,128);">,</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$b</span><spa=
+n style=3D"color: rgb(128,128,0);">)</span><span style=3D"color: rgb(128,12=
+8,128);">;</span>&nbsp;<br class=3D"atl-forced-newline"><span style=3D"colo=
+r: rgb(255,165,0);">/* These are all wrong. */</span><br><span style=3D"col=
+or: rgb(0,128,0);">for</span><span style=3D"color: rgb(128,128,0);">(</span=
+><span style=3D"color: rgb(0,0,139);">$i</span><span style=3D"color: rgb(12=
+8,128,128);">=3D</span><span style=3D"color: rgb(128,0,0);">0</span><span s=
+tyle=3D"color: rgb(128,128,128);">;</span>&nbsp;<span style=3D"color: rgb(0=
+,0,139);">$i</span><span style=3D"color: rgb(128,128,128);">&lt;</span><spa=
+n style=3D"color: rgb(0,0,139);">$iSize</span><span style=3D"color: rgb(128=
+,128,128);">;</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$i</span><sp=
+an style=3D"color: rgb(128,128,128);">++</span><span style=3D"color: rgb(12=
+8,128,0);">)</span><span style=3D"color: rgb(128,128,128);">...</span><br><=
+span style=3D"color: rgb(255,165,0);">/* These are all right. */</span><br>=
+<span style=3D"color: rgb(0,128,0);">for</span><span style=3D"color: rgb(12=
+8,128,0);">(</span><span style=3D"color: rgb(0,0,139);">$i</span>&nbsp;<spa=
+n style=3D"color: rgb(128,128,128);">=3D</span>&nbsp;<span style=3D"color: =
+rgb(128,0,0);">0</span><span style=3D"color: rgb(128,128,128);">;</span><sp=
+an style=3D"color: rgb(0,0,139);">$i</span>&nbsp;<span style=3D"color: rgb(=
+128,128,128);">&lt;</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$iSize=
+</span><span style=3D"color: rgb(128,128,128);">;</span><span style=3D"colo=
+r: rgb(0,0,139);">$i</span><span style=3D"color: rgb(128,128,128);">++</spa=
+n><span style=3D"color: rgb(128,128,0);">)</span><span style=3D"color: rgb(=
+128,128,128);">...</span>&nbsp;<br class=3D"atl-forced-newline"><span style=
+=3D"color: rgb(255,165,0);">/* These are all wrong. */</span><br><span styl=
+e=3D"color: rgb(0,0,139);">$i</span><span style=3D"color: rgb(128,128,128);=
+">=3D</span><span style=3D"color: rgb(128,128,0);">(</span><span style=3D"c=
+olor: rgb(0,0,139);">$j</span>&nbsp;<span style=3D"color: rgb(128,128,128);=
+">&lt;</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$iSize</span><span =
+style=3D"color: rgb(128,128,0);">)</span><span style=3D"color: rgb(128,128,=
+128);">?</span><span style=3D"color: rgb(128,0,0);">0</span><span style=3D"=
+color: rgb(128,128,128);">:</span><span style=3D"color: rgb(128,0,0);">1</s=
+pan><span style=3D"color: rgb(128,128,128);">;</span><br><span style=3D"col=
+or: rgb(255,165,0);">/* These are all rightg. */</span><br><span style=3D"c=
+olor: rgb(0,0,139);">$i</span>&nbsp;<span style=3D"color: rgb(128,128,128);=
+">=3D</span>&nbsp;<span style=3D"color: rgb(128,128,0);">(</span><span styl=
+e=3D"color: rgb(0,0,139);">$j</span>&nbsp;<span style=3D"color: rgb(128,128=
+,128);">&lt;</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$iSize</span>=
+<span style=3D"color: rgb(128,128,0);">)</span><span style=3D"color: rgb(12=
+8,128,128);">&nbsp;?</span>&nbsp;<span style=3D"color: rgb(128,0,0);">0</sp=
+an><span style=3D"color: rgb(128,128,128);">&nbsp;:</span>&nbsp;<span style=
+=3D"color: rgb(128,0,0);">1</span><span style=3D"color: rgb(128,128,128);">=
+;</span>&nbsp;<br class=3D"atl-forced-newline">=EF=BC=882=EF=BC=89=E8=BF=90=
+=E7=AE=97=E7=AC=A6=E4=BC=98=E5=85=88=E7=BA=A7=EF=BC=9A =E5=AF=B9=E4=BA=8E=
+=E5=AE=B9=E6=98=93=E5=BC=95=E8=B5=B7=E8=BF=B7=E6=83=91=E7=9A=84=E8=A1=A8=E8=
+=BE=BE=E5=BC=8F=E4=B8=AD=E4=B8=8D=E5=90=8C=E8=BF=90=E7=AE=97=E7=AC=A6=E7=9A=
+=84=E4=BC=98=E5=85=88=E7=BA=A7=EF=BC=8C=E8=AF=B7=E4=BD=BF=E7=94=A8=E6=8B=AC=
+=E5=8F=B7=E6=9D=A5=E5=8C=BA=E5=88=86=E4=BC=98=E5=85=88=E7=BA=A7=E3=80=82&nb=
+sp;<br>=E4=BE=8B=E5=A6=82=EF=BC=9A&nbsp;<br><span style=3D"color: rgb(255,1=
+65,0);">/* what's the result? who knows. */</span><br><span style=3D"color:=
+ rgb(0,0,139);">$bool</span>&nbsp;<span style=3D"color: rgb(128,128,128);">=
+=3D</span>&nbsp;<span style=3D"color: rgb(128,128,0);">(</span><span style=
+=3D"color: rgb(0,0,139);">$i</span>&nbsp;<span style=3D"color: rgb(128,128,=
+128);">&lt;</span>&nbsp;<span style=3D"color: rgb(128,0,0);">7</span>&nbsp;=
+<span style=3D"color: rgb(128,128,128);">&amp;&amp;</span>&nbsp;<span style=
+=3D"color: rgb(0,0,139);">$j</span>&nbsp;<span style=3D"color: rgb(128,128,=
+128);">&gt;</span>&nbsp;<span style=3D"color: rgb(128,0,0);">8</span>&nbsp;=
+<span style=3D"color: rgb(128,128,128);">|| 4 =3D=3D</span>&nbsp;<span styl=
+e=3D"color: rgb(0,0,139);">$k</span><span style=3D"color: rgb(128,128,0);">=
+)</span><span style=3D"color: rgb(128,128,128);">;</span>&nbsp;<br class=3D=
+"atl-forced-newline"><span style=3D"color: rgb(255,165,0);">/* now you can =
+be certain what I'm doing here. */</span><br><span style=3D"color: rgb(0,0,=
+139);">$bool</span>&nbsp;<span style=3D"color: rgb(128,128,128);">=3D</span=
+>&nbsp;<span style=3D"color: rgb(128,128,0);">((</span><span style=3D"color=
+: rgb(0,0,139);">$i</span>&nbsp;<span style=3D"color: rgb(128,128,128);">&l=
+t;</span>&nbsp;<span style=3D"color: rgb(128,0,0);">7</span><span style=3D"=
+color: rgb(128,128,0);">)</span>&nbsp;<span style=3D"color: rgb(128,128,128=
+);">&amp;&amp;</span>&nbsp;<span style=3D"color: rgb(128,128,0);">((</span>=
+<span style=3D"color: rgb(0,0,139);">$j</span>&nbsp;<span style=3D"color: r=
+gb(128,128,128);">&lt;</span>&nbsp;<span style=3D"color: rgb(128,0,0);">8</=
+span><span style=3D"color: rgb(128,128,0);">)</span>&nbsp;<span style=3D"co=
+lor: rgb(128,128,128);">||</span>&nbsp;<span style=3D"color: rgb(128,128,0)=
+;">(</span><span style=3D"color: rgb(128,0,0);">4</span>&nbsp;<span style=
+=3D"color: rgb(128,128,128);">=3D=3D</span>&nbsp;<span style=3D"color: rgb(=
+0,0,139);">$k</span><span style=3D"color: rgb(128,128,0);">)))</span>&nbsp;=
+</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc113785267_Toc206261124_Toc294862112_Toc3819673893.3=
+=E7=BC=A9=E8=BF=9B"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=
+=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_T=
+oc113785267"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=
+=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_T=
+oc206261124"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=
+=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_T=
+oc294862112"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=
+=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_T=
+oc381967389"></span>3.3 =E7=BC=A9=E8=BF=9B</h2>
+<p>=E4=BB=A3=E7=A0=81=E5=9D=87=E4=BB=A5TAB(=E6=A0=B9=E6=8D=AE=E8=87=AA=E5=
+=B7=B1=E5=96=9C=E5=A5=BD=EF=BC=8C=E9=85=8D=E7=BD=AEIDE=E6=98=BE=E7=A4=BA=E4=
+=B8=BA2=E4=B8=AA=E6=88=964=E4=B8=AA=E7=A9=BA=E6=A0=BC=EF=BC=8C=E5=BB=BA=E8=
+=AE=AE4=E4=B8=AA)=E7=BC=A9=E8=BF=9B=E3=80=82</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261125_Toc294862113_Toc3819673903.4=E5=AD=97=E7=
+=AC=A6=E4=B8=B2"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc2=
+06261125"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc2=
+94862113"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=
+=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3=
+81967390"></span>3.4 =E5=AD=97=E7=AC=A6=E4=B8=B2</h2>
+<p>=E5=AD=97=E7=AC=A6=E4=B8=B2=E6=8B=BC=E6=8E=A5=E7=9A=84=E5=86=99=E6=B3=95=
+=E4=B8=8D=E5=81=9A=E7=89=B9=E5=88=AB=E9=99=90=E5=88=B6=EF=BC=8C=E7=BA=AF=E5=
+=AD=97=E7=AC=A6=E4=B8=B2=EF=BC=88=E4=B8=8D=E5=8C=85=E5=90=AB\n,\r,\t=E7=9A=
+=84=E5=AD=97=E4=B8=B2=EF=BC=89=E5=9C=A8php=E4=B8=AD=E5=BF=85=E9=A1=BB=E4=BD=
+=BF=E7=94=A8=E5=8D=95=E5=BC=95=E5=8F=B7=E4=BB=A5=E6=8F=90=E9=AB=98=E6=80=A7=
+=E8=83=BD=EF=BC=8C=E5=BC=80=E5=8F=91=E4=BA=BA=E5=91=98=E5=BA=94=E5=BD=93=E5=
+=B0=BD=E9=87=8F=E9=80=89=E6=8B=A9=E6=95=88=E7=8E=87=E6=9C=80=E9=AB=98=E7=9A=
+=84=E6=96=B9=E5=BC=8F=EF=BC=8C=E8=BF=90=E7=AE=97=E7=AC=A6=E5=8F=B7=E8=BF=98=
+=E6=98=AF=E9=9C=80=E8=A6=81=E5=89=8D=E5=90=8E=E7=A9=BA=E6=A0=BC=EF=BC=8C=E5=
+=A6=82=EF=BC=9A<br><span style=3D"color: rgb(0,0,187);">$sStr</span>&nbsp;<=
+span style=3D"color: rgb(0,119,0);">=3D</span>&nbsp;<span style=3D"color: r=
+gb(221,0,0);">'I am a simple '</span>&nbsp;<span style=3D"color: rgb(0,0,25=
+5);">. $obj-&gt;toStr() .</span>&nbsp;<span style=3D"color: rgb(221,0,0);">=
+'string'</span><span style=3D"color: rgb(0,119,0);">;</span>&nbsp;<br class=
+=3D"atl-forced-newline"><br class=3D"atl-forced-newline"></p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261126_Toc294862114_Toc3819673913.5=E6=95=B0=E7=
+=BB=84"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc206261126"=
+></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862114"=
+></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967391"=
+></span>3.5 =E6=95=B0=E7=BB=84</h2>
+<ol>
+<li>=E4=BB=A5 array =E5=A3=B0=E6=98=8E=E6=95=B0=E7=BB=84(=E8=80=8C=E9=9D=9E=
+ Array =E6=88=96 ARRAY)=E3=80=82</li>
+<li>=E6=AF=8F=E4=B8=AA=E6=95=B0=E7=BB=84=E5=85=83=E7=B4=A0=E5=90=8E=E7=B4=
+=A7=E6=8E=A5=E9=80=97=E5=8F=B7=EF=BC=8C=E5=B9=B6=E4=BB=A5=E7=A9=BA=E6=A0=BC=
+=E5=88=86=E9=9A=94=EF=BC=8C=E6=AF=8F=E4=B8=AA=E5=85=83=E7=B4=A0=E4=B8=80=E8=
+=A1=8C=EF=BC=8C=E6=95=B0=E7=BB=84=E6=9C=80=E5=90=8E=E4=B8=80=E4=B8=AA=E5=85=
+=83=E7=B4=A0=E4=B8=8D=E8=A6=81=E6=B7=BB=E5=8A=A0=E9=80=97=E5=8F=B7=EF=BC=8C=
+=E4=B8=8Ejs=E8=AF=AD=E6=B3=95=E4=BF=9D=E6=8C=81=E4=B8=80=E8=87=B4=E3=80=82=
+=E5=A6=82=EF=BC=9A</li>
+</ol>
+<p><span style=3D"color: rgb(0,0,187);">$aUsers</span>&nbsp;<span style=3D"=
+color: rgb(0,119,0);">=3D array(</span><br><span style=3D"color: rgb(221,0,=
+0);">'skchen'</span><span style=3D"color: rgb(0,119,0);">,</span><br><span =
+style=3D"color: rgb(221,0,0);">'clair'</span><br><span style=3D"color: rgb(=
+0,119,0);">);</span>&nbsp;<br class=3D"atl-forced-newline"><br class=3D"atl=
+-forced-newline"><br class=3D"atl-forced-newline"></p>
+<ol>
+<li>=E5=A4=9A=E8=A1=8C=E6=95=B0=E7=BB=84=E5=BA=94=E5=AF=B9=E9=BD=90=E9=94=
+=AE=E5=92=8C=E5=80=BC(=E6=A0=B9=E6=8D=AEIDE=E6=94=AF=E6=8C=81=E6=83=85=E5=
+=86=B5=E5=B0=BD=E9=87=8F=E4=BF=9D=E6=8C=81)=EF=BC=8C=E6=A0=BC=E5=BC=8F=E5=
+=A6=82=E4=B8=8B=EF=BC=9A</li>
+</ol>
+<p><span style=3D"color: rgb(0,0,187);">$_configs</span><span style=3D"colo=
+r: rgb(0,119,0);">[</span><span style=3D"color: rgb(221,0,0);">'dbInfo'</sp=
+an><span style=3D"color: rgb(0,119,0);">][</span><span style=3D"color: rgb(=
+221,0,0);">'common'</span><span style=3D"color: rgb(0,119,0);">] =3D array(=
+</span><br><span style=3D"color: rgb(221,0,0);">'dbHost'</span>&nbsp;<span =
+style=3D"color: rgb(0,119,0);">=3D&gt;</span>&nbsp;<span style=3D"color: rg=
+b(221,0,0);">'localhost'</span><span style=3D"color: rgb(0,119,0);">,</span=
+><br><span style=3D"color: rgb(221,0,0);">'dbName'</span>&nbsp;<span style=
+=3D"color: rgb(0,119,0);">=3D&gt;</span>&nbsp;<span style=3D"color: rgb(221=
+,0,0);">'aos'</span><span style=3D"color: rgb(0,119,0);">,</span><br><span =
+style=3D"color: rgb(221,0,0);">'dbUser'</span>&nbsp;<span style=3D"color: r=
+gb(0,119,0);">=3D&gt; array(</span><br><span style=3D"color: rgb(0,119,0);"=
+>'class1' =3D&gt; 'ross',</span><br><span style=3D"color: rgb(0,119,0);">'c=
+lass2' =3D&gt; 'jay'</span><br><span style=3D"color: rgb(0,119,0);">),</spa=
+n><br><span style=3D"color: rgb(221,0,0);">'dbPass'</span>&nbsp;<span style=
+=3D"color: rgb(0,119,0);">=3D&gt;</span>&nbsp;<span style=3D"color: rgb(221=
+,0,0);">''</span><span style=3D"color: rgb(0,119,0);">,</span><br><span sty=
+le=3D"color: rgb(221,0,0);">'dbType'</span>&nbsp;<span style=3D"color: rgb(=
+0,119,0);">=3D&gt;</span>&nbsp;<span style=3D"color: rgb(221,0,0);">'mysqli=
+'</span><br><span style=3D"color: rgb(0,119,0);">);</span></p>
+<p><br class=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><br cl=
+ass=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><br class=3D"at=
+l-forced-newline"></p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261127_Toc294862115_Toc3819673923.6=E7=B1=BB"><sp=
+an class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=
+=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc206261127"></span><spa=
+n class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=
+=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862115"></span><spa=
+n class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=
+=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967392"></span>3.6 =
+=E7=B1=BB</h2>
+<ol>
+<li>=E7=B1=BB=E5=90=8D=E5=92=8C=E8=B5=B7=E5=A7=8B=E8=8A=B1=E6=8B=AC=E5=BC=
+=A7=E4=B8=8D=E5=9C=A8=E5=90=8C=E4=B8=80=E8=A1=8C=E3=80=82=E5=A6=82=EF=BC=9A=
+</li>
+<li>=E5=A6=82=E9=9C=80=E4=BD=BF=E7=94=A8=E6=9E=84=E9=80=A0=E5=92=8C=E6=9E=
+=90=E6=9E=84=E5=87=BD=E6=95=B0=EF=BC=8C=E5=BF=85=E9=A1=BB=E4=BD=BF=E7=94=A8=
+PHP5=E7=9A=84_<em>construct()=E5=92=8C</em>_destruct()=E6=96=B9=E5=BC=8F=EF=
+=BC=8C=E7=A6=81=E6=AD=A2=E4=BD=BF=E7=94=A8PHP4=E7=9A=84=E7=94=A8=E4=B8=8E=
+=E7=B1=BB=E5=90=8C=E5=90=8D=E5=87=BD=E6=95=B0=E7=9A=84=E6=96=B9=E5=BC=8F=E6=
+=9E=84=E9=80=A0=E3=80=82</li>
+<li>=E5=88=AB=E5=9C=A8=E5=AF=B9=E8=B1=A1=E6=9E=84=E9=80=A0=E5=87=BD=E6=95=
+=B0=E4=B8=AD=E5=81=9A=E5=AE=9E=E9=99=85=E7=9A=84=E5=B7=A5=E4=BD=9C=EF=BC=8C=
+=E6=9E=84=E9=80=A0=E5=87=BD=E6=95=B0=E5=BA=94=E8=AF=A5=E5=8C=85=E5=90=AB=E5=
+=8F=98=E9=87=8F=E7=9A=84=E5=88=9D=E5=A7=8B=E5=8C=96=EF=BC=8C=E4=BD=86=E4=B8=
+=8D=E4=BC=9A=E5=8F=91=E7=94=9F=E5=A4=B1=E8=B4=A5=E7=9A=84=E6=93=8D=E4=BD=9C=
+=E3=80=82=E5=8D=B3=E6=9E=84=E9=80=A0=E4=B8=8D=E8=83=BD=E8=BF=94=E5=9B=9E=E9=
+=94=99=E8=AF=AF=E3=80=82<span class=3D"confluence-anchor-link" id=3D"id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc206261128"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc294862116"></span>=E4=BE=8B=E5=A6=82=EF=BC=9A</li>
+</ol>
+<p><span style=3D"color: rgb(0,119,0);">class</span>&nbsp;<span style=3D"co=
+lor: rgb(0,0,187);">Device</span>&nbsp;<span style=3D"color: rgb(0,119,0);"=
+>{</span>&nbsp;<span style=3D"color: rgb(0,119,0);">function</span>&nbsp;<s=
+pan style=3D"color: rgb(0,0,187);">__construct</span><span style=3D"color: =
+rgb(0,119,0);">(</span><span style=3D"color: rgb(0,0,187);">$p_aParam</span=
+><span style=3D"color: rgb(0,119,0);">)</span>&nbsp;<br><span style=3D"colo=
+r: rgb(0,119,0);">{</span>&nbsp;<br><span style=3D"color: rgb(255,128,0);">=
+//=E8=BF=99=E9=87=8C=E7=9A=84=E4=BB=A3=E7=A0=81=E5=BA=94=E8=AF=A5=E4=B8=8D=
+=E5=8F=91=E7=94=9F=E5=A4=B1=E8=B4=A5</span>&nbsp;<br><span style=3D"color: =
+rgb(0,119,0);">}</span><br><span style=3D"color: rgb(0,119,0);">function</s=
+pan>&nbsp;<span style=3D"color: rgb(0,0,187);">open</span><span style=3D"co=
+lor: rgb(0,119,0);">()</span>&nbsp;<br><span style=3D"color: rgb(0,119,0);"=
+>{</span>&nbsp;<br><span style=3D"color: rgb(255,128,0);">//=E8=BF=99=E9=87=
+=8C=E7=9A=84=E4=BB=A3=E7=A0=81=E8=BF=94=E5=9B=9E=E5=A4=B1=E8=B4=A5=E5=92=8C=
+=E6=88=90=E5=8A=9F</span>&nbsp;<br><span style=3D"color: rgb(0,119,0);">}</=
+span>&nbsp;<span style=3D"color: rgb(0,119,0);">}</span>&nbsp;</p>
+<p><br class=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><br cl=
+ass=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><br class=3D"at=
+l-forced-newline"><br class=3D"atl-forced-newline"><br class=3D"atl-forced-=
+newline"><br class=3D"atl-forced-newline"></p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc3819673933.7=E5=87=BD=E6=95=B0=E5=92=8C=E6=96=B9=E6=
+=B3=95"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967393"=
+></span>3.7 =E5=87=BD=E6=95=B0=E5=92=8C=E6=96=B9=E6=B3=95</h2>
+<p>1. =E5=87=BD=E6=95=B0=E5=A3=B0=E6=98=8E=E5=92=8C=E8=B5=B7=E5=A7=8B=E8=8A=
+=B1=E6=8B=AC=E5=BC=A7=E5=9C=A8=E5=90=8C=E4=B8=80=E8=A1=8C=EF=BC=8C=E5=87=BD=
+=E6=95=B0=E5=90=8D=E5=90=8E=E5=BA=94=E7=B4=A7=E6=8E=A5=E5=9C=86=E6=8B=AC=E5=
+=BC=A7=EF=BC=8C=E5=9C=86=E6=8B=AC=E5=BC=A7=E6=9C=AB=E5=B0=BE=E6=B2=A1=E6=9C=
+=89=E7=A9=BA=E6=A0=BC=E3=80=82=E5=A6=82=E6=9C=89=E5=A4=9A=E4=B8=AA=E5=8F=82=
+=E6=95=B0=EF=BC=8C=E5=8F=82=E6=95=B0=E5=BA=94=E7=B4=A7=E6=8E=A5=E9=80=97=E5=
+=8F=B7=EF=BC=8C=E9=80=97=E5=8F=B7=E5=90=8E=E7=B4=A7=E6=8E=A5=E7=A9=BA=E6=A0=
+=BC=E8=BF=9B=E8=A1=8C=E5=88=86=E5=89=B2=EF=BC=8C=E5=8F=82=E6=95=B0=E5=92=8C=
+=E5=BC=80=E5=A7=8B=E7=BB=93=E6=9D=9F=E5=9C=86=E6=8B=AC=E5=BC=A7=E4=B9=8B=E9=
+=97=B4=E4=B8=8D=E8=83=BD=E6=9C=89=E7=A9=BA=E6=A0=BC=E3=80=82<br><span style=
+=3D"color: rgb(0,119,0);">function</span>&nbsp;<span style=3D"color: rgb(0,=
+0,187);">getUsers</span><span style=3D"color: rgb(0,119,0);">(</span><span =
+style=3D"color: rgb(0,0,187);">$p_iStartTime</span><span style=3D"color: rg=
+b(0,119,0);">,</span>&nbsp;<span style=3D"color: rgb(0,0,187);">$p_iEndTime=
+</span><span style=3D"color: rgb(0,119,0);">){</span><br><span style=3D"col=
+or: rgb(255,128,0);">//function code</span><br><span style=3D"color: rgb(0,=
+119,0);">}</span>&nbsp;<br class=3D"atl-forced-newline"><br class=3D"atl-fo=
+rced-newline"><br class=3D"atl-forced-newline">2. =E7=B1=BB=E6=96=B9=E6=B3=
+=95=E5=BF=85=E9=A1=BB=E5=8C=85=E5=90=AB=E8=AE=BF=E9=97=AE=E6=9D=83=E9=99=90=
+=E4=BF=AE=E9=A5=B0=E7=AC=A6=EF=BC=8Cprivate/protected/public=E3=80=82<br>3.=
+ =E6=8B=A5=E6=9C=89=E9=BB=98=E8=AE=A4=E5=80=BC=E7=9A=84=E5=8F=82=E6=95=B0=
+=E5=BA=94=E5=9C=A8=E4=BD=8D=E4=BA=8E=E5=8F=82=E6=95=B0=E5=88=97=E8=A1=A8=E7=
+=9A=84=E6=9C=80=E5=90=8E=E3=80=82<br>4. =E8=8E=B7=E5=8F=96=E5=88=97=E8=A1=
+=A8=E7=9A=84=E6=96=B9=E6=B3=95=E9=80=9A=E5=B8=B8=E8=BF=94=E5=9B=9E=E6=95=B0=
+=E7=BB=84=EF=BC=8C=E8=8E=B7=E5=8F=96=E5=8D=95=E8=A1=8C=E6=95=B0=E6=8D=AE=E7=
+=9A=84=E6=96=B9=E6=B3=95=E9=80=9A=E5=B8=B8=E8=BF=94=E5=9B=9E=E6=95=B0=E7=BB=
+=84=E6=88=96null=EF=BC=8C=E6=8F=92=E5=85=A5=E6=95=B0=E6=8D=AE=E7=9A=84=E6=
+=96=B9=E6=B3=95=E9=80=9A=E5=B8=B8=E8=BF=94=E5=9B=9Eid=E6=88=96=E8=80=85fals=
+e=EF=BC=8C=E6=9B=B4=E6=96=B0=E6=95=B0=E6=8D=AE=E7=9A=84=E6=96=B9=E6=B3=95=
+=E9=80=9A=E5=B8=B8=E8=BF=94=E5=9B=9E=E5=BD=B1=E5=93=8D=E8=A1=8C=E6=95=B0=E6=
+=88=96=E8=80=85false</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261129_Toc294862117_Toc3819673943.8=E7=AE=80=E5=
+=8D=95=E7=9A=84=E8=AF=AD=E5=8F=A5"><span class=3D"confluence-anchor-link" i=
+d=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-_Toc206261129"></span><span class=3D"confluence-anchor-link" i=
+d=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-_Toc294862117"></span><span class=3D"confluence-anchor-link" i=
+d=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-_Toc381967394"></span>3.8 =E7=AE=80=E5=8D=95=E7=9A=84=E8=AF=AD=
+=E5=8F=A5</h2>
+<ol>
+<li>=E6=AF=8F=E4=B8=AA=E8=AF=AD=E5=8F=A5=E7=BB=93=E6=9D=9F=E5=9D=87=E9=9C=
+=80=E5=8A=A0=E5=88=86=E5=8F=B7=EF=BC=8C=E6=AF=8F=E8=A1=8C=E8=87=B3=E5=A4=9A=
+=E5=8C=85=E5=90=AB=E4=B8=80=E6=9D=A1=E8=AF=AD=E5=8F=A5=E3=80=82</li>
+<li>=E8=B5=8B=E5=80=BC=E8=AF=AD=E5=8F=A5=EF=BC=8C=E7=AD=89=E5=8F=B7=E5=89=
+=8D=E5=90=8E=E9=9C=80=E5=8A=A0=E7=A9=BA=E6=A0=BC=E3=80=82=E5=A6=82=EF=BC=9A=
+$sStr =3D 'string';</li>
+<li>=E8=87=AA=E5=A2=9E=E5=92=8C=E8=87=AA=E5=87=8F=E9=9C=80=E7=B4=A7=E6=8E=
+=A5=E5=8F=98=E9=87=8F=E5=90=8D=E3=80=82=E5=A6=82=EF=BC=9A++$iNum; $iNum--;<=
+/li>
+</ol>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261130_Toc294862118_Toc3819673953.9=E6=8E=A7=E5=
+=88=B6=E8=AF=AD=E5=8F=A5"><span class=3D"confluence-anchor-link" id=3D"id-=
+=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=
+=83-_Toc206261130"></span><span class=3D"confluence-anchor-link" id=3D"id-=
+=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=
+=83-_Toc294862118"></span><span class=3D"confluence-anchor-link" id=3D"id-=
+=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=
+=83-_Toc381967395"></span>3.9 =E6=8E=A7=E5=88=B6=E8=AF=AD=E5=8F=A5</h2>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862119_Toc3819673963.9.1=E6=9D=A1=E4=BB=B6=E8=AF=
+=AD=E5=8F=A5(if/else/elseif)"><span class=3D"confluence-anchor-link" id=3D"=
+id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=
+=8C=83-_Toc294862119"></span><span class=3D"confluence-anchor-link" id=3D"i=
+d-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=
+=8C=83-_Toc381967396"></span>3.9.1 =E6=9D=A1=E4=BB=B6=E8=AF=AD=E5=8F=A5(if/=
+else/elseif)</h3>
+<ol>
+<li>=E6=89=80=E6=9C=89=E6=9D=A1=E4=BB=B6=E8=AF=AD=E5=8F=A5=E5=9D=87=E9=9C=
+=80=E4=BD=BF=E7=94=A8=E8=8A=B1=E6=8B=AC=E5=BC=A7=EF=BC=8C=E4=B8=8D=E5=8F=AF=
+=E7=9C=81=E7=95=A5=EF=BC=88=E5=8D=B3=E4=BD=BF=E5=8F=AA=E6=9C=891=E5=8F=A5=
+=E8=AF=AD=E5=8F=A5=EF=BC=89=EF=BC=8C=E6=9D=A1=E4=BB=B6=E5=88=A4=E6=96=AD=E4=
+=B8=AD=E7=A6=81=E6=AD=A2=E4=BD=BF=E7=94=A8=E8=B5=8B=E5=80=BC=EF=BC=8C=E5=B8=
+=B8=E9=87=8F=E5=9C=A8=E5=89=8D=E5=8F=98=E9=87=8F=E5=9C=A8=E5=90=8E=EF=BC=8C=
+=E5=A6=82=EF=BC=9A</li>
+</ol>
+<p><span style=3D"color: rgb(0,119,0);">if(</span><span style=3D"color: rgb=
+(0,0,187);">2</span>&nbsp;<span style=3D"color: rgb(0,119,0);">=3D=3D</span=
+>&nbsp;<span style=3D"color: rgb(0,0,187);">$iNum</span><span style=3D"colo=
+r: rgb(0,119,0);">){</span><br><span style=3D"color: rgb(255,128,0);">//cod=
+e</span><br><span style=3D"color: rgb(0,119,0);">}</span>&nbsp;<br><span st=
+yle=3D"color: rgb(0,119,0);">elseif (</span><span style=3D"color: rgb(0,0,1=
+87);">3</span>&nbsp;<span style=3D"color: rgb(0,119,0);">=3D=3D</span>&nbsp=
+;<span style=3D"color: rgb(0,0,187);">$iNum</span><span style=3D"color: rgb=
+(0,119,0);">){</span><br><span style=3D"color: rgb(255,128,0);">//code</spa=
+n><br><span style=3D"color: rgb(0,119,0);">}</span>&nbsp;<br><span style=3D=
+"color: rgb(0,119,0);">else{</span><br><span style=3D"color: rgb(255,128,0)=
+;">//code</span><br><span style=3D"color: rgb(0,119,0);">}</span>&nbsp;<br =
+class=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><br class=3D"=
+atl-forced-newline"><br class=3D"atl-forced-newline"><br class=3D"atl-force=
+d-newline"><br class=3D"atl-forced-newline"><span class=3D"confluence-ancho=
+r-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=
+=81=E8=A7=84=E8=8C=83-_Toc294862120"></span></p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc3819673973.9.2switch=E8=AF=AD=E5=8F=A5"><span class=
+=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PH=
+PPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967397"></span>3.9.2 switch=
+=E8=AF=AD=E5=8F=A5</h3>
+<ol>
+<li>switch=E8=AF=AD=E5=8F=A5=E5=9C=86=E6=8B=AC=E5=BC=A7=E5=89=8D=E5=90=8E=
+=E9=83=BD=E6=B2=A1=E6=9C=89=E7=A9=BA=E6=A0=BC=E3=80=82=E8=B5=B7=E5=A7=8B=E8=
+=8A=B1=E6=8B=AC=E5=BC=A7=E5=92=8Cswitch=E8=AF=AD=E5=8F=A5=E5=9C=A8=E5=90=8C=
+=E4=B8=80=E8=A1=8C=E3=80=82</li>
+<li>case=E5=BF=85=E9=A1=BB=E6=9C=89=E4=B8=80=E4=B8=AAtab=E7=BC=A9=E8=BF=9B=
+=E3=80=82</li>
+<li>case=E9=87=8C=E7=9A=84=E4=BB=A3=E7=A0=81=E5=BF=85=E9=A1=BB=E5=86=8D=E6=
+=9C=89=E4=B8=80=E4=B8=AAtab=E7=BC=A9=E8=BF=9B=E3=80=82</li>
+<li>=E5=BF=85=E9=A1=BB=E5=8C=85=E5=90=ABdefault=E3=80=82=E5=A6=82=EF=BC=9A<=
+/li>
+</ol>
+<p><span style=3D"color: rgb(0,119,0);">switch(</span><span style=3D"color:=
+ rgb(0,0,187);">$id</span><span style=3D"color: rgb(0,119,0);">){</span><br=
+><span style=3D"color: rgb(0,119,0);">case</span>&nbsp;<span style=3D"color=
+: rgb(0,0,187);">1</span><span style=3D"color: rgb(0,119,0);">:</span><br><=
+span style=3D"color: rgb(255,128,0);">//code</span><br><span style=3D"color=
+: rgb(0,119,0);">break;</span><br><span style=3D"color: rgb(0,119,0);">case=
+</span>&nbsp;<span style=3D"color: rgb(0,0,187);">2</span><span style=3D"co=
+lor: rgb(0,119,0);">:</span><br><span style=3D"color: rgb(255,128,0);">//co=
+de</span><br><span style=3D"color: rgb(0,119,0);">break;</span><br><span st=
+yle=3D"color: rgb(0,119,0);">default:</span><br><span style=3D"color: rgb(2=
+55,128,0);">//code</span><br><span style=3D"color: rgb(0,119,0);">}</span>&=
+nbsp;<br class=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><br =
+class=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><br class=3D"=
+atl-forced-newline"></p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862121_Toc3819673983.9.3for=E8=AF=AD=E5=8F=A5"><s=
+pan class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=
+=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862121"></span><=
+span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=
+=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967398"></span>3=
+.9.3 for=E8=AF=AD=E5=8F=A5</h3>
+<p>for =E8=AF=AD=E5=8F=A5=E4=B8=AD=E7=9A=84=E6=9D=A1=E4=BB=B6=E8=AF=AD=E5=
+=8F=A5=E5=88=86=E5=8F=B7=E5=90=8E=E9=9D=A2=E9=9C=80=E5=B8=A6=E7=A9=BA=E6=A0=
+=BC=EF=BC=8C=E5=BE=AA=E7=8E=AF=E4=BD=93=E5=BF=85=E9=A1=BB=E4=BD=BF=E7=94=A8=
+=E8=8A=B1=E6=8B=AC=E5=BC=A7=E5=8C=85=E5=90=AB=E3=80=82=E5=A6=82=EF=BC=9A<br=
+><span style=3D"color: rgb(0,119,0);">for(</span><span style=3D"color: rgb(=
+0,0,187);">$i</span>&nbsp;<span style=3D"color: rgb(0,119,0);">=3D</span>&n=
+bsp;<span style=3D"color: rgb(0,0,187);">0</span><span style=3D"color: rgb(=
+0,119,0);">;</span>&nbsp;<span style=3D"color: rgb(0,0,187);">$i</span>&nbs=
+p;<span style=3D"color: rgb(0,119,0);">&lt;</span>&nbsp;<span style=3D"colo=
+r: rgb(0,0,187);">10</span><span style=3D"color: rgb(0,119,0);">;</span>&nb=
+sp;<span style=3D"color: rgb(0,0,187);">$i</span><span style=3D"color: rgb(=
+0,119,0);">++){</span><br><span style=3D"color: rgb(255,128,0);">//code</sp=
+an><br><span style=3D"color: rgb(0,119,0);">}</span>&nbsp;</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261131_Toc294862122_Toc3819673993.10=E5=8C=85=E5=
+=90=AB=E8=AF=AD=E5=8F=A5"><span class=3D"confluence-anchor-link" id=3D"id-=
+=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=
+=83-_Toc206261131"></span><span class=3D"confluence-anchor-link" id=3D"id-=
+=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=
+=83-_Toc294862122"></span><span class=3D"confluence-anchor-link" id=3D"id-=
+=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=
+=83-_Toc381967399"></span>3.10 =E5=8C=85=E5=90=AB=E8=AF=AD=E5=8F=A5</h2>
+<p>&nbsp;</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261132_Toc294862123_Toc3819674003.11try=E2=80=A6c=
+atch=E2=80=A6"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=
+=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc2062=
+61132"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=
+=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc2948=
+62123"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=
+=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3819=
+67400"></span>3.11 try=E2=80=A6catch=E2=80=A6</h2>
+<p>=E4=B8=80=E4=B8=AA=E7=AE=80=E5=8D=95=E7=9A=84=E7=A4=BA=E4=BE=8B=E8=A1=A8=
+=E6=98=8E=E4=BA=86=E5=BC=82=E5=B8=B8=E5=A4=84=E7=90=86=E7=9A=84=E6=A0=BC=E5=
+=BC=8F=EF=BC=9A<br><span style=3D"color: rgb(0,119,0);">try{</span><br><spa=
+n style=3D"color: rgb(255,128,0);">//code</span><br><span style=3D"color: r=
+gb(0,119,0);">}catch(</span><span style=3D"color: rgb(0,0,187);">DB_Excepti=
+on $e</span><span style=3D"color: rgb(0,119,0);">){</span><br><span style=
+=3D"color: rgb(255,128,0);">//do something</span><br><span style=3D"color: =
+rgb(0,119,0);">}catch(</span><span style=3D"color: rgb(0,0,187);">Exception=
+ $e</span><span style=3D"color: rgb(0,119,0);">){</span><br><span style=3D"=
+color: rgb(255,128,0);">//do something</span><br><span style=3D"color: rgb(=
+0,119,0);">}</span>&nbsp;<br class=3D"atl-forced-newline"><br class=3D"atl-=
+forced-newline"><br class=3D"atl-forced-newline"><br class=3D"atl-forced-ne=
+wline"><br class=3D"atl-forced-newline"></p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261133_Toc294862124_Toc3819674013.12=E9=94=99=E8=
+=AF=AF=E6=8A=91=E5=88=B6=E7=AC=A6@"><span class=3D"confluence-anchor-link" =
+id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-_Toc206261133"></span><span class=3D"confluence-anchor-link" i=
+d=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-_Toc294862124"></span><span class=3D"confluence-anchor-link" i=
+d=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-_Toc381967401"></span>3.12 =E9=94=99=E8=AF=AF=E6=8A=91=E5=88=
+=B6=E7=AC=A6@</h2>
+<p><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=
+=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc206261134"></spa=
+n><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=
+=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862125"></spa=
+n>=E5=BA=94=E7=94=A8=E4=BB=A3=E7=A0=81=E4=B8=AD=E4=B8=A5=E7=A6=81=E4=BD=BF=
+=E7=94=A8=E9=94=99=E8=AF=AF=E6=8A=91=E5=88=B6=E7=AC=A6@=EF=BC=8C=E5=A6=82=
+=E6=97=A0=E6=B3=95=E4=BF=9D=E8=AF=81=E8=AF=A5=E5=A4=84=E4=B8=8D=E6=8A=A5=E9=
+=94=99=E8=AF=AF=EF=BC=8C=E5=BA=94=E5=BD=93=E6=B7=BB=E5=8A=A0=E5=BC=82=E5=B8=
+=B8=E5=A4=84=E7=90=86=E9=80=BB=E8=BE=91=E3=80=82</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc3819674023.13=E4=BB=A3=E7=A0=81=E5=8C=BA=E5=9D=97"><=
+span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=
+=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967402"></span>3=
+.13 =E4=BB=A3=E7=A0=81=E5=8C=BA=E5=9D=97</h2>
+<p>=E9=80=BB=E8=BE=91=E5=8A=9F=E8=83=BD=E5=85=B3=E7=B3=BB=E8=BE=83=E5=B0=8F=
+=E7=9A=84=E4=BB=A3=E7=A0=81=E4=BD=BF=E7=94=A8=E7=A9=BA=E8=A1=8C=E5=88=86=E9=
+=9A=94=E3=80=82</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862128_Toc3819674033.14=E8=AF=AD=E6=B3=95=E7=BB=
+=93=E6=9E=84"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=
+=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc2948=
+62128"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=
+=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3819=
+67403"></span>3.14 =E8=AF=AD=E6=B3=95=E7=BB=93=E6=9E=84</h2>
+<p>=EF=BC=881=EF=BC=89=E5=9C=A8PHP=E4=B8=ADecho=E3=80=81exit(die)=E3=80=81r=
+eturn=E3=80=81continue=E3=80=81break=E3=80=81include=E3=80=81include_once=
+=E3=80=81require=E3=80=81require_once=E7=AD=89=E9=83=BD=E5=B1=9E=E4=BA=8E=
+=E8=AF=AD=E6=B3=95=E7=BB=93=E6=9E=84=EF=BC=8C=E5=A4=A7=E9=83=A8=E5=88=86=E8=
+=AF=AD=E6=B3=95=E7=BB=93=E6=9E=84=E9=83=BD=E6=9C=89=E4=B8=A4=E7=A7=8D=E5=BD=
+=A2=E5=BC=8F=EF=BC=9A<br>echo 'This is a string';<br>echo('This is a string=
+');<br>=E5=9C=A8PHP=E8=A7=84=E5=AE=9A=E7=9A=84=E5=85=81=E8=AE=B8=E4=BD=BF=
+=E7=94=A8=E7=9A=84=E6=A0=BC=E5=BC=8F=E4=B8=8B=EF=BC=8C=E5=B0=BD=E5=8F=AF=E8=
+=83=BD=E4=BD=BF=E7=94=A8=E5=89=8D=E4=B8=80=E7=A7=8D=E8=AF=AD=E6=B3=95=E7=BB=
+=93=E6=9E=84=E7=9A=84=E6=A0=BC=E5=BC=8F=EF=BC=8C=E8=80=8C=E4=B8=8D=E8=A6=81=
+=E4=BD=BF=E7=94=A8=E5=87=BD=E6=95=B0=E5=8F=82=E6=95=B0/=E8=A1=A8=E8=BE=BE=
+=E5=BC=8F=E7=9A=84=E5=BD=A2=E5=BC=8F=EF=BC=8C<strong>=E4=BB=85=E5=9C=A8</st=
+rong>=E5=8F=82=E6=95=B0=E5=8C=85=E5=90=AB=E8=A1=A8=E8=BE=BE=E5=BC=8F=E6=97=
+=B6=E6=89=8D=E9=9C=80=E8=A6=81=E7=94=A8=E6=8B=AC=E5=8F=B7=E5=B0=86=E5=85=B6=
+=E6=8B=AC=E8=B5=B7=E6=9D=A5=E3=80=82=E5=BD=93=E8=BF=94=E5=9B=9E=E4=B8=80=E4=
+=B8=AA=E5=8F=98=E9=87=8F=E6=97=B6=E9=80=9A=E5=B8=B8=E4=B8=8D=E7=94=A8=E6=8B=
+=AC=E5=8F=B7=EF=BC=8C=E4=B9=9F=E5=BB=BA=E8=AE=AE=E4=B8=8D=E8=A6=81=E7=94=A8=
+=EF=BC=8C=E8=BF=99=E6=A0=B7=E6=97=A2=E5=8F=AF=E4=BB=A5=E9=99=8D=E4=BD=8E PH=
+P =E7=9A=84=E8=B4=9F=E6=8B=85=EF=BC=8C=E5=8F=88=E5=8F=AF=E4=BB=A5=E9=81=BF=
+=E5=85=8D=E4=B8=80=E4=BA=9B=E9=94=99=E8=AF=AF=EF=BC=88=E8=A7=81=E4=B8=8B=EF=
+=BC=89=E3=80=82&nbsp;<br><em>=E6=B3=A8: exit(die)=E5=8F=AA=E8=83=BD=E4=BD=
+=BF=E7=94=A8=E6=8B=AC=E5=8F=B7=E7=BB=93=E6=9E=84</em><br>=EF=BC=882=EF=BC=
+=89=E7=94=B1=E4=BA=8Eecho()=E6=98=AF=E8=AF=AD=E6=B3=95=E7=BB=93=E6=9E=84=E3=
+=80=81=E6=B2=A1=E6=9C=89=E8=BF=94=E5=9B=9E=E5=80=BC=EF=BC=8C=E6=89=80=E4=BB=
+=A5=E9=80=9F=E5=BA=A6=E6=AF=94print()=E5=BF=AB=E3=80=82=E5=9C=A8=E8=BE=93=
+=E5=87=BA=E5=A4=9A=E4=B8=AA=E5=AD=97=E7=AC=A6=E4=B8=B2=E6=97=B6=EF=BC=8C=E8=
+=AF=B7=E4=BD=BF=E7=94=A8echo=E7=9A=84=E5=A4=9A=E5=8F=82=E6=95=B0=E6=96=B9=
+=E5=BC=8F=EF=BC=88=E9=80=97=E5=8F=B7,=E9=97=B4=E9=9A=94=EF=BC=89=EF=BC=8C=
+=E4=BC=9A=E6=AF=94=E5=AD=97=E7=AC=A6=E4=B8=B2=E8=BF=9E=E6=8E=A5=E6=96=B9=E5=
+=BC=8F (=E7=82=B9.=E9=97=B4=E9=9A=94)=E6=9C=89=E6=9B=B4=E5=A5=BD=E7=9A=84=
+=E6=80=A7=E8=83=BD=E3=80=82</p>
+<h1 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261136_Toc294862129_Toc3819674044.=E6=96=87=E6=A1=
+=A3=E6=B3=A8=E9=87=8A"><span class=3D"confluence-anchor-link" id=3D"id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc206261136"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc294862129"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc381967404"></span>4. =E6=96=87=E6=A1=A3=E6=B3=A8=E9=87=8A</h1>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261139_Toc294862132_Toc3819674054.1=E5=87=BD=E6=
+=95=B0"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc206261139"=
+></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862132"=
+></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967405"=
+></span>4.1 =E5=87=BD=E6=95=B0</h2>
+<p>=E6=89=80=E6=9C=89=E5=87=BD=E6=95=B0=E9=83=BD=E5=BA=94=E6=9C=89=E5=87=BD=
+=E6=95=B0=E6=8F=8F=E8=BF=B0=EF=BC=8C=E5=8F=82=E6=95=B0=E5=88=97=E8=A1=A8=E8=
+=BF=94=E5=9B=9E=E5=80=BC=E7=9A=84=E6=B3=A8=E9=87=8A=EF=BC=8C=E6=8B=A5=E6=9C=
+=89=E8=BE=83=E5=A4=8D=E6=9D=82=E9=80=BB=E8=BE=91=E7=9A=84=E5=87=BD=E6=95=B0=
+=E5=BA=94=E5=BD=93=E6=B7=BB=E5=8A=A0=E5=86=85=E9=83=A8=E4=B8=9A=E5=8A=A1=E9=
+=80=BB=E8=BE=91=E8=AF=B4=E6=98=8E=E3=80=82=E6=A1=86=E6=9E=B6=E4=BB=A3=E7=A0=
+=81=EF=BC=8C=E4=BB=A5=E5=8F=8A=E5=85=AC=E7=94=A8=E5=BA=93=E4=BB=A3=E7=A0=81=
+=E5=87=BD=E6=95=B0=E5=BF=85=E9=A1=BB=E5=8C=85=E5=90=AB=E6=B3=A8=E9=87=8A=E3=
+=80=82<br><span style=3D"color: rgb(255,128,0);">/**</span><br><span style=
+=3D"color: rgb(255,128,0);">* =E5=87=BD=E6=95=B0=E6=8F=8F=E8=BF=B0</span><b=
+r><span style=3D"color: rgb(255,128,0);">* @param string $p_sName =E5=AD=97=
+=E6=AE=B5=E5=90=8D=E7=A7=B0</span><br><span style=3D"color: rgb(255,128,0);=
+">* @param object $p_oValue</span>&nbsp;<span style=3D"color: rgb(255,128,0=
+);">=E5=80=BC</span><br><span style=3D"color: rgb(255,128,0);">* @param int=
+ $p_iTimeOut =E8=BF=87=E6=9C=9F=E6=97=B6=E9=97=B4</span><br><span style=3D"=
+color: rgb(255,128,0);">* @param string $p_sDdomain</span>&nbsp;<span style=
+=3D"color: rgb(255,128,0);">=E9=BB=98=E8=AE=A4=E5=9F=9F=E5=90=8D=E4=B8=BA"q=
+q.com"</span><br><span style=3D"color: rgb(255,128,0);">* @return int</span=
+><br><span style=3D"color: rgb(255,128,0);">*/</span>&nbsp;<br class=3D"atl=
+-forced-newline"><br class=3D"atl-forced-newline"><br class=3D"atl-forced-n=
+ewline"><br class=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><=
+br class=3D"atl-forced-newline"><br class=3D"atl-forced-newline"></p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc3819674064.2=E7=B1=BB"><span class=3D"confluence-anc=
+hor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=
+=A0=81=E8=A7=84=E8=8C=83-_Toc381967406"></span>4.2 =E7=B1=BB</h2>
+<p>=E7=B1=BB=E7=9A=84=E6=96=B9=E6=B3=95=E5=BA=94=E5=8F=82=E8=80=83=E4=B8=8A=
+=E9=9D=A2=E5=87=BD=E6=95=B0=E6=B3=A8=E9=87=8A=E6=96=B9=E6=B3=95=E3=80=82<br=
+>=E7=B1=BB=E7=9A=84=E5=B1=9E=E6=80=A7=E5=BA=94=E6=9C=89=E6=8F=8F=E8=BF=B0=
+=E5=92=8C=E7=B1=BB=E5=9E=8B=E7=9A=84=E6=B3=A8=E9=87=8A<br>=E7=B1=BB=E6=9C=
+=AC=E8=BA=AB=E9=9C=80=E8=A6=81=E6=9C=89=E7=B1=BB=E5=90=8D=EF=BC=8C=E4=BD=9C=
+=E8=80=85=EF=BC=8C=E6=89=80=E5=B1=9E=E5=87=BD=E6=95=B0=E5=BA=93=E7=9A=84=E6=
+=B3=A8=E9=87=8A<br><span style=3D"color: rgb(255,128,0);">&lt;?php</span><b=
+r><span style=3D"color: rgb(255,128,0);">/**</span><br><span style=3D"color=
+: rgb(255,128,0);">* orm</span>&nbsp;<span style=3D"color: rgb(255,128,0);"=
+>orm</span><br><span style=3D"color: rgb(255,128,0);">* @package system_com=
+mon_lib_orm</span><br><span style=3D"color: rgb(255,128,0);">*/</span><br><=
+span style=3D"color: rgb(255,128,0);">/**</span><br><span style=3D"color: r=
+gb(255,128,0);">* orm</span>&nbsp;<span style=3D"color: rgb(255,128,0);">or=
+m</span><br><span style=3D"color: rgb(255,128,0);">* @author pandajingjing<=
+/span><br><span style=3D"color: rgb(255,128,0);">* @package system_common_l=
+ib_orm</span><br><span style=3D"color: rgb(255,128,0);">*/</span><br><span =
+style=3D"color: rgb(0,0,187);">abstract</span>&nbsp;<span style=3D"color: r=
+gb(255,128,0);">class</span>&nbsp;<span style=3D"color: rgb(0,0,187);">orm_=
+orm</span><span style=3D"color: rgb(255,128,0);">{</span>&nbsp;<br class=3D=
+"atl-forced-newline"><br class=3D"atl-forced-newline"><br class=3D"atl-forc=
+ed-newline"><br class=3D"atl-forced-newline"><br class=3D"atl-forced-newlin=
+e"><br class=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><br cl=
+ass=3D"atl-forced-newline"><br class=3D"atl-forced-newline"><br class=3D"at=
+l-forced-newline"><br class=3D"atl-forced-newline"></p>
+<h1 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc206261140_Toc294862133_Toc3819674075.=E5=85=B6=E4=BB=
+=96"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=
+=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc206261140"></=
+span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=
+=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862133"></=
+span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=
+=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967407"></=
+span>5. =E5=85=B6=E4=BB=96</h1>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862135_Toc3819674085.1=E7=AB=99=E7=82=B9=E8=87=AA=
+=E8=BA=AB=E7=9A=84=E8=A7=84=E5=88=99=E7=BA=A6=E6=9D=9F"><span class=3D"conf=
+luence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=
+=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862135"></span><span class=3D"conf=
+luence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=
+=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967408"></span>5.1 =E7=AB=99=E7=82=
+=B9=E8=87=AA=E8=BA=AB=E7=9A=84=E8=A7=84=E5=88=99=E7=BA=A6=E6=9D=9F</h2>
+<p>1. =E5=AF=B9=E5=9C=A8=E7=AC=AC=E4=B8=80=E5=B1=8F=E6=97=A0=E6=B3=95=E6=98=
+=BE=E7=A4=BA=E7=9A=84=E5=9B=BE=E7=89=87=E5=BB=BA=E8=AE=AE=E8=BF=9B=E8=A1=8C=
+=E5=BB=B6=E8=BF=9F=E5=8A=A0=E8=BD=BD=E5=A4=84=E7=90=86=E3=80=82<br>2. =E5=
+=A6=82=E6=B2=A1=E6=9C=89=E7=89=B9=E5=88=AB=E8=A6=81=E6=B1=82=EF=BC=8C=E6=89=
+=80=E6=9C=89=E7=9A=84JavaScript=E4=BB=A3=E7=A0=81=E5=BF=85=E9=A1=BB=E5=9C=
+=A8=E9=A1=B5=E9=9D=A2=E6=9C=80=E5=BA=95=E9=83=A8=E8=BD=BD=E5=85=A5=E3=80=82=
+<br>3. =E6=89=80=E6=9C=89=E5=8F=91=E5=B8=83=E5=87=BA=E5=8E=BB=E7=9A=84Javas=
+cript=E4=BB=A3=E7=A0=81=E5=BF=85=E9=A1=BB=E8=BF=9B=E8=A1=8C=E5=88=9D=E7=BA=
+=A7=E6=B7=B7=E6=B7=86=E5=8E=8B=E7=BC=A9=E5=A4=84=E7=90=86=EF=BC=88=E6=A1=86=
+=E6=9E=B6=E5=A4=84=E7=90=86=EF=BC=89=E3=80=82<br>4. =E5=89=8D=E5=90=8E=E9=
+=80=9A=E4=BF=A1=E6=95=B0=E6=8D=AE=E6=A0=BC=E5=BC=8F=E7=BB=9F=E4=B8=80=E4=BD=
+=BF=E7=94=A8JSON=E6=A0=BC=E5=BC=8F=EF=BC=8C=E4=B8=8D=E4=BD=BF=E7=94=A8XML=
+=E3=80=82<br>5. =E6=89=80=E6=9C=89JavaScript=E4=BB=A3=E7=A0=81=E5=9D=87=E4=
+=BD=BF=E7=94=A8utf-8=E7=BC=96=E7=A0=81=E3=80=82<br>6. =E4=BF=AE=E6=94=B9=E6=
+=95=B0=E6=8D=AE=E7=9A=84cgi=E5=9D=87=E5=BA=94=E4=BD=BF=E7=94=A8post=E6=96=
+=B9=E5=BC=8F=E8=8E=B7=E5=8F=96=E6=95=B0=E6=8D=AE<br>7. =E6=A1=86=E6=9E=B6BL=
+L=E5=B1=82=E5=8F=AA=E8=83=BD=E9=80=9A=E8=BF=87dao=E8=8E=B7=E5=8F=96=E9=85=
+=8D=E7=BD=AE=EF=BC=8C=E5=85=B6=E4=BB=96=E6=95=B0=E6=8D=AE=E5=9D=87=E9=9C=80=
+=E8=A6=81=E4=BB=8E=E6=8E=A5=E5=8F=A3=E4=B8=AD=E4=BC=A0=E5=85=A5<br>8. =E4=
+=B8=8D=E5=85=81=E8=AE=B8=E7=89=A9=E7=90=86=E5=88=A0=E9=99=A4=E6=95=B0=E6=8D=
+=AE=EF=BC=8C=E8=80=8C=E6=98=AF=E6=9B=B4=E6=96=B0=E6=95=B0=E6=8D=AE=E7=8A=B6=
+=E6=80=81=E5=80=BC=E6=9D=A5=E5=AE=8C=E6=88=90=E6=95=B0=E6=8D=AE=E6=97=A0=E6=
+=95=88=E5=8C=96</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862136_Toc3819674095.2=E5=85=B3=E4=BA=8E=E5=AE=89=
+=E5=85=A8=E6=BC=8F=E6=B4=9E=E5=8F=8Ahtml=E8=BD=AC=E4=B9=89"><span class=3D"=
+confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=
+=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862136"></span><span class=3D"c=
+onfluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=
+=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967409"></span>5.2 =E5=85=B3=E4=
+=BA=8E=E5=AE=89=E5=85=A8=E6=BC=8F=E6=B4=9E=E5=8F=8Ahtml=E8=BD=AC=E4=B9=89</=
+h2>
+<p>1. =E6=89=80=E6=9C=89=E7=94=A8=E6=88=B7=E8=BE=93=E5=85=A5=E7=9A=84=E5=86=
+=85=E5=AE=B9=E9=83=BD=E6=98=AF=E4=B8=8D=E5=8F=AF=E4=BF=A1=E7=9A=84=EF=BC=8C=
+=E9=83=BD=E9=9C=80=E8=A6=81=E8=BD=AC=E4=B9=89=EF=BC=88=E6=A1=86=E6=9E=B6=E5=
+=A4=84=E7=90=86=EF=BC=89=E3=80=82<br>2. =E8=BE=93=E5=87=BA=E6=95=B0=E6=8D=
+=AE=E6=97=B6=E9=9C=80=E8=A6=81=E8=BD=AC=E4=B9=89=E3=80=82=E5=8C=85=E5=90=AB=
+=E4=B8=A4=E7=A7=8D=E6=83=85=E5=86=B5=EF=BC=9Aphp=E8=BE=93=E5=87=BAhtml=E9=
+=A1=B5=E9=9D=A2=EF=BC=8C=E5=8F=AF=E4=BB=A5=E7=9B=B4=E6=8E=A5=E4=BD=BF=E7=94=
+=A8$aHtml=E6=95=B0=E7=BB=84&nbsp;</p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc3819674105.3=E5=85=B6=E4=BB=96"><span class=3D"confl=
+uence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=
+=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967410"></span>5.3=E5=85=B6=E4=BB=
+=96</h2>
+<ul>
+<li>=E4=B8=8D=E5=BB=BA=E8=AE=AE=E4=BD=BF=E7=94=A8eval</li>
+</ul>
+<p>=E4=B8=8D=E6=8E=A8=E8=8D=90=E4=BD=BF=E7=94=A8eval=E6=9D=A5=E6=89=A7=E8=
+=A1=8C=E8=84=9A=E6=9C=AC=E3=80=82=E9=99=A4=E9=9D=9Ejs=E4=B8=AD=E7=94=A8=E6=
+=9D=A5=E8=A7=A3=E9=87=8Ajson=E6=95=B0=E6=8D=AE=E3=80=82</p>
+<ul>
+<li>=E6=B3=A8=E6=84=8F IE =E7=9A=84=E5=86=85=E5=AD=98=E6=B3=84=E9=9C=B2=E9=
+=97=AE=E9=A2=98</li>
+</ul>
+<p>=E8=AF=B7=E5=8F=82=E8=80=83&nbsp;<a class=3D"external-link" href=3D"http=
+://wiki.oa.com/IELeak" rel=3D"nofollow">Understanding and Solving Internet =
+Explorer Leak Patterns</a>, =E7=89=B9=E5=88=AB=E9=9C=80=E8=A6=81=E6=B3=A8=
+=E6=84=8F&nbsp;<strong>Cross-Page Leaks</strong>&nbsp;=E7=B1=BB=E5=9E=8B=E3=
+=80=82</p>
+<h1 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc294862137_Toc381967411=E9=99=84=E5=BD=95"><span clas=
+s=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3P=
+HPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc294862137"></span><span class=
+=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PH=
+PPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967411"></span>=E9=99=84=E5=
+=BD=95</h1>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc381967412I=E5=A4=A7=E6=8B=AC=E5=8F=B7"><span class=
+=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PH=
+PPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967412"></span><strong>I =
+=E5=A4=A7=E6=8B=AC=E5=8F=B7</strong></h2>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc3819674131=EF=BC=8E=E4=BD=BF=E7=94=A8=E5=A4=A7=E6=8B=
+=AC=E5=8F=B7"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=
+=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc3819=
+67413"></span><strong>1=EF=BC=8E=E4=BD=BF=E7=94=A8=E5=A4=A7=E6=8B=AC=E5=8F=
+=B7</strong></h3>
+<p>=E5=9C=A8=E8=AF=AD=E8=A8=80=E7=BB=93=E6=9E=84=EF=BC=88if=EF=BC=8Celse=EF=
+=BC=8Cwhile=EF=BC=8Cswitch=EF=BC=8Cfor=EF=BC=8Cforeach=EF=BC=89=E4=B8=AD=E8=
+=AF=B7=E5=9C=A8=E9=99=88=E8=BF=B0=E4=B8=8E=E6=89=A7=E8=A1=8C=E7=9A=84=E4=BB=
+=A3=E7=A0=81=E5=88=86=E8=A1=8C=EF=BC=8C=E6=89=A7=E8=A1=8C=E7=9A=84=E4=BB=A3=
+=E7=A0=81=E6=94=BE=E5=88=B0=E5=A4=A7=E6=8B=AC=E5=8F=B7=E4=B8=AD=EF=BC=8C=E5=
+=A4=A7=E6=8B=AC=E5=8F=B7=E4=B8=8D=E5=8F=AF=E7=9C=81=E7=95=A5=E3=80=82 =E4=
+=BE=8B=E5=A6=82=EF=BC=9A<br><span style=3D"color: rgb(255,165,0);">/* These=
+ are all wrong. */</span><br><span style=3D"color: rgb(0,128,0);">if</span>=
+&nbsp;<span style=3D"color: rgb(128,128,0);">(</span><span style=3D"color: =
+rgb(0,0,255);">condition</span><span style=3D"color: rgb(128,128,0);">)</sp=
+an>&nbsp;<span style=3D"color: rgb(0,0,255);">do_stuff</span><span style=3D=
+"color: rgb(128,128,0);">()</span><span style=3D"color: rgb(128,128,128);">=
+;</span><br><span style=3D"color: rgb(0,128,0);">if</span>&nbsp;<span style=
+=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,255);">co=
+ndition</span><span style=3D"color: rgb(128,128,0);">)</span><br><span styl=
+e=3D"color: rgb(0,0,255);">do_stuff</span><span style=3D"color: rgb(128,128=
+,0);">()</span><span style=3D"color: rgb(128,128,128);">;</span><br><span s=
+tyle=3D"color: rgb(0,128,0);">while</span>&nbsp;<span style=3D"color: rgb(1=
+28,128,0);">(</span><span style=3D"color: rgb(0,0,255);">condition</span><s=
+pan style=3D"color: rgb(128,128,0);">)</span>&nbsp;<br><span style=3D"color=
+: rgb(0,0,255);">do_stuff</span><span style=3D"color: rgb(128,128,0);">()</=
+span><span style=3D"color: rgb(128,128,128);">;</span><br><span style=3D"co=
+lor: rgb(0,128,0);">for</span>&nbsp;<span style=3D"color: rgb(128,128,0);">=
+(</span><span style=3D"color: rgb(0,0,139);">$i</span>&nbsp;<span style=3D"=
+color: rgb(128,128,128);">=3D</span>&nbsp;<span style=3D"color: rgb(128,0,0=
+);">0</span><span style=3D"color: rgb(128,128,128);">;</span>&nbsp;<span st=
+yle=3D"color: rgb(0,0,139);">$i</span>&nbsp;<span style=3D"color: rgb(128,1=
+28,128);">&lt;</span>&nbsp;<span style=3D"color: rgb(0,0,255);">size</span>=
+<span style=3D"color: rgb(128,128,128);">;</span>&nbsp;<span style=3D"color=
+: rgb(0,0,139);">$i</span><span style=3D"color: rgb(128,128,128);">++</span=
+><span style=3D"color: rgb(128,128,0);">)</span><br><span style=3D"color: r=
+gb(0,0,255);">do_stuff</span><span style=3D"color: rgb(128,128,0);">(</span=
+><span style=3D"color: rgb(0,0,139);">$i</span><span style=3D"color: rgb(12=
+8,128,0);">)</span><span style=3D"color: rgb(128,128,128);">;</span>&nbsp;<=
+br class=3D"atl-forced-newline"><span style=3D"color: rgb(255,165,0);">/* T=
+hese are right. */</span><br><span style=3D"color: rgb(0,128,0);">if</span>=
+<span style=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,=
+0,255);">condition</span><span style=3D"color: rgb(128,128,0);">){</span><b=
+r><span style=3D"color: rgb(0,0,255);">do_stuff</span>&nbsp;<span style=3D"=
+color: rgb(128,128,0);">()</span><span style=3D"color: rgb(128,128,128);">;=
+</span><br><span style=3D"color: rgb(128,128,0);">}</span><br><span style=
+=3D"color: rgb(0,128,0);">while</span><span style=3D"color: rgb(128,128,0);=
+">(</span><span style=3D"color: rgb(0,0,255);">condition</span><span style=
+=3D"color: rgb(128,128,0);">){</span><br><span style=3D"color: rgb(0,0,255)=
+;">do_stuff</span>&nbsp;<span style=3D"color: rgb(128,128,0);">()</span><sp=
+an style=3D"color: rgb(128,128,128);">;</span><br><span style=3D"color: rgb=
+(128,128,0);">}</span><br><span style=3D"color: rgb(0,128,0);">for</span><s=
+pan style=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,=
+139);">$i</span>&nbsp;<span style=3D"color: rgb(128,128,128);">=3D</span>&n=
+bsp;<span style=3D"color: rgb(128,0,0);">0</span><span style=3D"color: rgb(=
+128,128,128);">;</span><span style=3D"color: rgb(0,0,139);">$i</span>&nbsp;=
+<span style=3D"color: rgb(128,128,128);">&lt;</span>&nbsp;<span style=3D"co=
+lor: rgb(0,0,255);">$iSize</span><span style=3D"color: rgb(128,128,128);">;=
+</span><span style=3D"color: rgb(0,0,139);">$i</span><span style=3D"color: =
+rgb(128,128,128);">++</span><span style=3D"color: rgb(128,128,0);">){</span=
+><br><span style=3D"color: rgb(0,0,255);">do_stuff</span>&nbsp;<span style=
+=3D"color: rgb(128,128,0);">()</span><span style=3D"color: rgb(128,128,128)=
+;">;</span><br><span style=3D"color: rgb(128,128,0);">}</span></p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-Where_to_put_the_braces_Toc3819674142=EF=BC=8E=E5=A4=A7=
+=E6=8B=AC=E5=8F=B7=E7=9A=84=E4=BD=8D=E7=BD=AE"><span class=3D"confluence-an=
+chor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=
+=A0=81=E8=A7=84=E8=8C=83-Where_to_put_the_braces"></span><span class=3D"con=
+fluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=
+=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967414"></span><strong>2=EF=BC=8E=
+=E5=A4=A7=E6=8B=AC=E5=8F=B7=E7=9A=84=E4=BD=8D=E7=BD=AE</strong></h3>
+<p>=E5=9C=A8=E8=AF=AD=E8=A8=80=E7=BB=93=E6=9E=84=EF=BC=88if=EF=BC=8Celse=EF=
+=BC=8Cwhile=EF=BC=8Cswitch=EF=BC=8Cfor=EF=BC=8Cforeach=EF=BC=89=E4=B8=AD=E5=
+=92=8C=E7=B1=BB=EF=BC=88class=EF=BC=89=E3=80=81=E5=87=BD=E6=95=B0=EF=BC=88f=
+unction=EF=BC=89=E3=80=81=E6=96=B9=E6=B3=95=EF=BC=88method=EF=BC=89=E4=B8=
+=AD=EF=BC=8C=E5=B7=A6=E3=80=81=E5=8F=B3=E5=A4=A7=E6=8B=AC=E5=8F=B7=E5=BF=85=
+=E9=A1=BB=E7=B4=A7=E8=B7=9F=E4=B8=8A=E4=B8=80=E8=A1=8C=E3=80=82=E4=BE=8B=E5=
+=A6=82:&nbsp;<br><span style=3D"color: rgb(255,165,0);">/* These are all wr=
+ong. */</span><br><span style=3D"color: rgb(0,128,0);">if</span>&nbsp;<span=
+ style=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,255=
+);">condition</span><span style=3D"color: rgb(128,128,0);">)</span><br><spa=
+n style=3D"color: rgb(128,128,0);">{</span><br><span style=3D"color: rgb(0,=
+128,0);">while</span>&nbsp;<span style=3D"color: rgb(128,128,0);">(</span><=
+span style=3D"color: rgb(0,0,255);">condition2</span><span style=3D"color: =
+rgb(128,128,0);">)</span>&nbsp;<span style=3D"color: rgb(128,128,0);">{</sp=
+an><br><span style=3D"color: rgb(128,128,128);">...</span><br><span style=
+=3D"color: rgb(128,128,0);">}</span><br><span style=3D"color: rgb(128,128,0=
+);">}</span><br><span style=3D"color: rgb(0,128,0);">else</span><br><span s=
+tyle=3D"color: rgb(128,128,0);">{</span><br><span style=3D"color: rgb(128,1=
+28,128);">...</span><br><span style=3D"color: rgb(128,128,0);">}</span>&nbs=
+p;<br class=3D"atl-forced-newline"><span style=3D"color: rgb(255,165,0);">/=
+* These are right. */</span><br><span style=3D"color: rgb(0,128,0);">if</sp=
+an><span style=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb=
+(0,0,255);">condition</span><span style=3D"color: rgb(128,128,0);">){</span=
+><br><span style=3D"color: rgb(0,128,0);">while</span><span style=3D"color:=
+ rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,255);">condition2</=
+span><span style=3D"color: rgb(128,128,0);">){</span><br><span style=3D"col=
+or: rgb(128,128,128);">...</span><br><span style=3D"color: rgb(128,128,0);"=
+>}</span><br><span style=3D"color: rgb(128,128,0);">}</span><span style=3D"=
+color: rgb(0,128,0);">else</span><span style=3D"color: rgb(128,128,0);">{</=
+span><br><span style=3D"color: rgb(128,128,128);">...</span><br><span style=
+=3D"color: rgb(128,128,0);">}</span>&nbsp;<br class=3D"atl-forced-newline">=
+<span style=3D"color: rgb(255,165,0);">/* These are all wrong. */</span><br=
+><span style=3D"color: rgb(0,128,0);">for</span>&nbsp;<span style=3D"color:=
+ rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,139);">$i</span>&nb=
+sp;<span style=3D"color: rgb(128,128,128);">=3D</span>&nbsp;<span style=3D"=
+color: rgb(128,0,0);">0</span><span style=3D"color: rgb(128,128,128);">;</s=
+pan><span style=3D"color: rgb(0,0,139);">$i</span>&nbsp;<span style=3D"colo=
+r: rgb(128,128,128);">&lt;</span>&nbsp;<span style=3D"color: rgb(0,0,139);"=
+>$size</span><span style=3D"color: rgb(128,128,128);">;</span><span style=
+=3D"color: rgb(0,0,139);">$i</span><span style=3D"color: rgb(128,128,128);"=
+>++</span><span style=3D"color: rgb(128,128,0);">)</span><br><span style=3D=
+"color: rgb(128,128,0);">{</span><br><span style=3D"color: rgb(128,128,128)=
+;">...</span><br><span style=3D"color: rgb(128,128,0);">}</span>&nbsp;<br c=
+lass=3D"atl-forced-newline"><span style=3D"color: rgb(255,165,0);">/* These=
+ are right. */</span><br><span style=3D"color: rgb(0,128,0);">for</span><sp=
+an style=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,1=
+39);">$i</span>&nbsp;<span style=3D"color: rgb(128,128,128);">=3D</span>&nb=
+sp;<span style=3D"color: rgb(128,0,0);">0</span><span style=3D"color: rgb(1=
+28,128,128);">;</span><span style=3D"color: rgb(0,0,139);">$i</span>&nbsp;<=
+span style=3D"color: rgb(128,128,128);">&lt;</span>&nbsp;<span style=3D"col=
+or: rgb(0,0,139);">$iSize</span><span style=3D"color: rgb(128,128,128);">;<=
+/span><span style=3D"color: rgb(0,0,139);">$i</span><span style=3D"color: r=
+gb(128,128,128);">++</span><span style=3D"color: rgb(128,128,0);">){</span>=
+<br><span style=3D"color: rgb(128,128,128);">...</span><br><span style=3D"c=
+olor: rgb(128,128,0);">}</span>&nbsp;<br class=3D"atl-forced-newline"><span=
+ style=3D"color: rgb(255,165,0);">/* These are all wrong. */</span><br><spa=
+n style=3D"color: rgb(0,128,0);">while</span><span style=3D"color: rgb(128,=
+128,0);">(</span><span style=3D"color: rgb(0,0,255);">condition</span><span=
+ style=3D"color: rgb(128,128,0);">)</span><br><span style=3D"color: rgb(128=
+,128,0);">{</span><br><span style=3D"color: rgb(128,128,128);">...</span><b=
+r><span style=3D"color: rgb(128,128,0);">}</span>&nbsp;<br class=3D"atl-for=
+ced-newline"><span style=3D"color: rgb(255,165,0);">/* These are right. */<=
+/span><br><span style=3D"color: rgb(0,128,0);">while</span>&nbsp;<span styl=
+e=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,255);">c=
+ondition</span><span style=3D"color: rgb(128,128,0);">){</span><br><span st=
+yle=3D"color: rgb(128,128,128);">...</span><br><span style=3D"color: rgb(12=
+8,128,0);">}</span></p>
+<h2 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc381967415II=E9=80=9A=E7=94=A8=E8=A7=84"><span class=
+=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PH=
+PPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967415"></span><strong>II=
+=E9=80=9A=E7=94=A8=E8=A7=84</strong></h2>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-Associative_array_keys_Toc3819674161=EF=BC=8E=E5=85=B3=
+=E8=81=94=E6=95=B0=E7=BB=84"><span class=3D"confluence-anchor-link" id=3D"i=
+d-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=
+=8C=83-Associative_array_keys"></span><span class=3D"confluence-anchor-link=
+" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=
+=A7=84=E8=8C=83-_Toc381967416"></span><strong>1=EF=BC=8E=E5=85=B3=E8=81=94=
+=E6=95=B0=E7=BB=84</strong></h3>
+<p>=E5=85=B3=E8=81=94=E6=95=B0=E7=BB=84=E5=BD=93=E4=B8=AD=EF=BC=8C=E8=AF=B7=
+=E7=94=A8=E5=8D=95=E5=BC=95=E5=8F=B7=E5=B0=86key=E7=9A=84=E5=AD=97=E7=AC=A6=
+=E4=B8=B2=E5=B5=8C=E5=A5=97=EF=BC=88=E4=BE=8B=E5=A6=82=EF=BC=9A$row['id']=
+=E6=AF=94$row[id]=E5=BF=AB7=E5=80=8D=EF=BC=89=EF=BC=8C=E5=A6=82=E6=9E=9Ckey=
+=E6=98=AF=E5=8F=98=E9=87=8F=E5=88=99=E4=B8=8D=E8=A6=81=E4=BD=BF=E7=94=A8=E5=
+=BC=95=E5=8F=B7=E5=B5=8C=E5=A5=97=EF=BC=9A<br><span style=3D"color: rgb(255=
+,165,0);">/* wrong */</span><br><span style=3D"color: rgb(0,0,139);">$foo</=
+span>&nbsp;<span style=3D"color: rgb(128,128,128);">=3D</span>&nbsp;<span s=
+tyle=3D"color: rgb(0,0,139);">$assoc_array</span><span style=3D"color: rgb(=
+128,128,0);">[</span><span style=3D"color: rgb(255,0,0);">blah</span><span =
+style=3D"color: rgb(128,128,0);">]</span><span style=3D"color: rgb(128,128,=
+128);">;</span><br><span style=3D"color: rgb(0,0,139);">$foo</span>&nbsp;<s=
+pan style=3D"color: rgb(128,128,128);">=3D</span>&nbsp;<span style=3D"color=
+: rgb(0,0,139);">$assoc_array</span><span style=3D"color: rgb(128,128,0);">=
+[</span><span style=3D"color: rgb(139,0,0);">"</span><span style=3D"color: =
+rgb(0,0,139);">$var</span><span style=3D"color: rgb(139,0,0);">"</span><spa=
+n style=3D"color: rgb(128,128,0);">]</span><span style=3D"color: rgb(128,12=
+8,128);">;</span>&nbsp;<br class=3D"atl-forced-newline"><span style=3D"colo=
+r: rgb(255,165,0);">/* right */</span><br><span style=3D"color: rgb(0,0,139=
+);">$foo</span>&nbsp;<span style=3D"color: rgb(128,128,128);">=3D</span>&nb=
+sp;<span style=3D"color: rgb(0,0,139);">$assoc_array</span><span style=3D"c=
+olor: rgb(128,128,0);">[</span><span style=3D"color: rgb(139,0,0);">'</span=
+><span style=3D"color: rgb(255,0,0);">blah</span><span style=3D"color: rgb(=
+139,0,0);">'</span><span style=3D"color: rgb(128,128,0);">]</span><span sty=
+le=3D"color: rgb(128,128,128);">;</span><br><span style=3D"color: rgb(0,0,1=
+39);">$foo</span>&nbsp;<span style=3D"color: rgb(128,128,128);">=3D</span>&=
+nbsp;<span style=3D"color: rgb(0,0,139);">$assoc_array</span><span style=3D=
+"color: rgb(128,128,0);">[</span><span style=3D"color: rgb(0,0,139);">$var<=
+/span><span style=3D"color: rgb(128,128,0);">]</span><span style=3D"color: =
+rgb(128,128,128);">;</span></p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-CommentsMagic_numbers_Toc3819674172=EF=BC=8E=E7=B1=BB=E5=
+=9E=8B=E6=AF=94=E8=BE=83"><span class=3D"confluence-anchor-link" id=3D"id-=
+=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=
+=83-Comments"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=
+=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-Ma=
+gic_numbers"></span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=
+=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_T=
+oc381967417"></span><strong>2=EF=BC=8E=E7=B1=BB=E5=9E=8B=E6=AF=94=E8=BE=83<=
+/strong></h3>
+<p>=EF=BC=881=EF=BC=89=E5=AF=B9=E4=BA=8E=E6=8F=90=E4=BA=A4/=E8=BF=94=E5=9B=
+=9E=E5=80=BC=EF=BC=8C=E5=B0=BD=E5=8F=AF=E8=83=BD=E7=9A=84=E4=BD=BF=E7=94=A8=
+=3D=3D=3D=E6=9D=A5=E6=A3=80=E6=9F=A5=E7=B1=BB=E5=9E=8B=E6=98=AF=E5=90=A6=E5=
+=8C=B9=E9=85=8D=EF=BC=8C=E8=BF=99=E4=B8=80=E7=82=B9=E5=AF=B9=E4=BA=8E=E5=8C=
+=BA=E5=88=86false,null, '',0=E5=9B=9B=E7=A7=8D=E7=A9=BA=E5=80=BC=E5=B0=A4=
+=E5=85=B6=E6=9C=89=E7=94=A8=EF=BC=88=E5=AE=9A=E4=B9=89=E4=BA=86=E7=9A=84=E5=
+=8F=98=E9=87=8F=E4=BD=86=E6=9C=AA=E5=AE=9A=E4=B9=89=E5=80=BC=EF=BC=8C=E5=85=
+=B6=E5=80=BC=E4=B8=BAnull=EF=BC=89=E3=80=82=E5=87=BD=E6=95=B0=E8=BF=94=E5=
+=9B=9E=E5=80=BC=E8=AF=B7=E7=94=A8true=E5=92=8Cfalse=E6=9D=A5=E4=BB=A3=E6=9B=
+=BF1=E5=92=8C0 =E3=80=82<br>=EF=BC=882=EF=BC=89=E5=AF=B9=E4=BA=8E=E6=AF=94=
+=E8=BE=83=E5=AD=97=E7=AC=A6=E4=B8=B2=EF=BC=8C=E5=BF=85=E9=A1=BB=E4=BD=BF=E7=
+=94=A8strcmp()=E6=88=96=E8=80=85=3D=3D=3D=EF=BC=8C=E8=BF=99=E6=A0=B7=E6=89=
+=8D=E8=BF=9B=E8=A1=8C=E7=B1=BB=E5=9E=8B=E6=A3=80=E6=9F=A5=E3=80=82=E4=BE=8B=
+=E5=A6=82=EF=BC=9Avar_dump('01' =3D=3D 1)=EF=BC=8C=E8=BF=94=E5=9B=9E=E7=BB=
+=93=E6=9E=9C=E4=B8=BAtrue=EF=BC=8C=E4=BD=86=E6=98=AFvar_dump('01' =3D=3D=3D=
+ 1)=E7=9A=84=E7=BB=93=E6=9E=9C=E5=B0=B1=E6=98=AFfalse=E4=BA=86<br>=EF=BC=88=
+3=EF=BC=89=E5=AF=B9=E4=BA=8Ein_array()=E5=87=BD=E6=95=B0=EF=BC=8C=E8=AF=B7=
+=E5=8A=A0=E5=85=A5=E7=AC=AC=E4=B8=89=E4=B8=AA=E5=8F=82=E6=95=B0=EF=BC=8C=E8=
+=AE=BE=E7=BD=AE=E4=B8=BAtrue=EF=BC=8C=E4=BE=8B=E5=A6=82=EF=BC=9A in_array('=
+01', array('1'))=EF=BC=8C=E5=B0=86=E4=B8=8D=E5=88=A4=E6=96=AD=E7=B1=BB=E5=
+=9E=8B=EF=BC=8C=E8=BF=94=E5=9B=9E=E7=BB=93=E6=9E=9C=E4=B8=BAtrue=E3=80=82=
+=E4=BD=86=E6=98=AF=E5=A6=82=E6=9E=9C=E4=BD=BF=E7=94=A8in_array('01', array(=
+'1'), true)=EF=BC=8C=E5=B0=86=E5=88=A4=E6=96=AD=E7=B1=BB=E5=9E=8B=EF=BC=8C=
+=E8=BF=94=E5=9B=9E=E7=BB=93=E6=9E=9C=E4=B8=BAfalse=E3=80=82</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-Shortcut_operators_Toc3819674183=EF=BC=8E=E9=80=92=E5=A2=
+=9E/=E9=80=92=E5=87=8F=E8=BF=90=E7=AE=97=E7=AC=A6"><span class=3D"confluenc=
+e-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=
+=E7=A0=81=E8=A7=84=E8=8C=83-Shortcut_operators"></span><span class=3D"confl=
+uence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=
+=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967418"></span><strong>3=EF=BC=8E=
+=E9=80=92=E5=A2=9E/=E9=80=92=E5=87=8F=E8=BF=90=E7=AE=97=E7=AC=A6</strong></=
+h3>
+<p>=EF=BC=881=EF=BC=89=E4=B8=8D=E5=85=81=E8=AE=B8=E5=9C=A8=E8=A1=A8=E8=BE=
+=BE=E5=BC=8F=E4=B8=AD=E4=BD=BF=E7=94=A8=E9=80=92=E5=A2=9E=E8=BF=90=E7=AE=97=
+=E7=AC=A6 (=E5=89=8D=E5=8A=A0+<span style=3D"text-decoration: underline;">$=
+i=EF=BC=8C=E5=90=8E=E5=8A=A0$i</span>+)=E5=92=8C=E9=80=92=E5=87=8F=E8=BF=90=
+=E7=AE=97=E7=AC=A6 (=E5=89=8D=E5=87=8F-<span style=3D"text-decoration: line=
+-through;">$i=EF=BC=8C=E5=90=8E=E5=87=8F$i</span>-)=EF=BC=8C=E8=BF=99=E4=BA=
+=9B=E8=BF=90=E7=AE=97=E7=AC=A6=E5=8F=AA=E8=83=BD=E7=8B=AC=E8=87=AA=E4=B8=80=
+=E8=A1=8C=E4=BD=BF=E7=94=A8=E3=80=82<br>=EF=BC=882=EF=BC=89=E9=80=92=E5=A2=
+=9E=EF=BC=8F=E9=80=92=E5=87=8F=E8=BF=90=E7=AE=97=E7=AC=A6=E4=B8=8D=E5=BD=B1=
+=E5=93=8D=E5=B8=83=E5=B0=94=E5=80=BC=E3=80=82=E9=80=92=E5=87=8F NULL =E5=80=
+=BC=E4=B9=9F=E6=B2=A1=E6=9C=89=E6=95=88=E6=9E=9C=EF=BC=8C=E4=BD=86=E6=98=AF=
+=E9=80=92=E5=A2=9E NULL =E7=9A=84=E7=BB=93=E6=9E=9C=E6=98=AF 1 =E3=80=82=E5=
+=AD=97=E7=AC=A6=E4=B8=B2=E5=8F=98=E9=87=8F=E5=8F=AA=E8=83=BD=E9=80=92=E5=A2=
+=9E=EF=BC=88=E4=BD=BF=E7=94=A8PERL=E7=9A=84=E6=96=B9=E5=BC=8F=E8=80=8C=E9=
+=9D=9EC=E7=9A=84=E6=96=B9=E5=BC=8F=EF=BC=89=EF=BC=8C=E4=B8=8D=E8=83=BD=E9=
+=80=92=E5=87=8F=E3=80=82=E4=BE=8B=E5=A6=82=EF=BC=9A&nbsp;<br><span style=3D=
+"color: rgb(255,165,0);">/* wrong */</span><br><span style=3D"color: rgb(0,=
+0,139);">$array</span><span style=3D"color: rgb(128,128,0);">[</span><span =
+style=3D"color: rgb(128,128,128);">++</span><span style=3D"color: rgb(0,0,1=
+39);">$i</span><span style=3D"color: rgb(128,128,0);">]</span>&nbsp;<span s=
+tyle=3D"color: rgb(128,128,128);">=3D</span>&nbsp;<span style=3D"color: rgb=
+(0,0,139);">$j</span><span style=3D"color: rgb(128,128,128);">;</span><br><=
+span style=3D"color: rgb(0,0,139);">$array</span><span style=3D"color: rgb(=
+128,128,0);">[</span><span style=3D"color: rgb(0,0,139);">$i</span><span st=
+yle=3D"color: rgb(128,128,128);">++</span><span style=3D"color: rgb(128,128=
+,0);">]</span>&nbsp;<span style=3D"color: rgb(128,128,128);">=3D</span>&nbs=
+p;<span style=3D"color: rgb(0,0,139);">$k</span><span style=3D"color: rgb(1=
+28,128,128);">;</span>&nbsp;<br class=3D"atl-forced-newline"><span style=3D=
+"color: rgb(255,165,0);">/* right */</span><br><span style=3D"color: rgb(0,=
+0,139);">$i</span><span style=3D"color: rgb(128,128,128);">++;</span><br><s=
+pan style=3D"color: rgb(0,0,139);">$array</span><span style=3D"color: rgb(1=
+28,128,0);">[</span><span style=3D"color: rgb(0,0,139);">$i</span><span sty=
+le=3D"color: rgb(128,128,0);">]</span>&nbsp;<span style=3D"color: rgb(128,1=
+28,128);">=3D</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$j</span><sp=
+an style=3D"color: rgb(128,128,128);">;</span>&nbsp;<br class=3D"atl-forced=
+-newline"><span style=3D"color: rgb(0,0,139);">$array</span><span style=3D"=
+color: rgb(128,128,0);">[</span><span style=3D"color: rgb(0,0,139);">$i</sp=
+an><span style=3D"color: rgb(128,128,0);">]</span>&nbsp;<span style=3D"colo=
+r: rgb(128,128,128);">=3D</span>&nbsp;<span style=3D"color: rgb(0,0,139);">=
+$k</span><span style=3D"color: rgb(128,128,128);">;</span><br><span style=
+=3D"color: rgb(0,0,139);">$i</span><span style=3D"color: rgb(128,128,128);"=
+>++;</span>&nbsp;</p>
+<ul>
+<li>=E9=80=92=E5=A2=9E=E4=BD=BF=E7=94=A8=E5=89=8D=E5=8A=A0+<span style=3D"t=
+ext-decoration: underline;">$i=E6=AF=94=E5=90=8E=E5=8A=A0$i</span>+=E5=BF=
+=AB=EF=BC=8C=E9=80=92=E5=87=8F=E4=BD=BF=E7=94=A8=E5=89=8D=E5=87=8F-<span st=
+yle=3D"text-decoration: line-through;">$i=E6=AF=94=E5=90=8E=E5=87=8F$i</spa=
+n>-=E5=BF=AB=EF=BC=9B</li>
+<li>=E5=9C=A8=E6=96=B9=E6=B3=95=E9=87=8C=E9=80=92=E5=A2=9E=E3=80=81=E9=80=
+=92=E5=87=8F=E5=B1=80=E9=83=A8=E5=8F=98=E9=87=8F=E6=98=AF=E6=9C=80=E5=BF=AB=
+=E7=9A=84=EF=BC=8C=E5=9C=A8=E5=87=BD=E6=95=B0=E9=87=8C=E8=B0=83=E7=94=A8=E5=
+=B1=80=E9=83=A8=E5=8F=98=E9=87=8F=E4=B9=9F=E6=98=AF=EF=BC=9B</li>
+<li>=E9=80=92=E5=A2=9E=E3=80=81=E9=80=92=E5=87=8F=E4=B8=80=E4=B8=AA=E5=85=
+=A8=E5=B1=80=E5=8F=98=E9=87=8F=E6=AF=94=E5=B1=80=E9=83=A8=E5=8F=98=E9=87=8F=
+=E8=A6=81=E6=85=A2=E4=B8=A4=E5=80=8D=EF=BC=9B</li>
+<li>=E9=80=92=E5=A2=9E=E3=80=81=E9=80=92=E5=87=8F=E4=B8=80=E4=B8=AA=E5=AF=
+=B9=E8=B1=A1=E7=9A=84=E5=B1=9E=E6=80=A7 (=E4=BE=8B=E5=A6=82 $this-&gt;prop+=
++) =E6=AF=94=E5=B1=80=E9=83=A8=E5=8F=98=E9=87=8F=E6=85=A23=E5=80=8D=EF=BC=
+=9B</li>
+<li>=E9=80=92=E5=A2=9E=E3=80=81=E9=80=92=E5=87=8F=E4=B8=80=E4=B8=AA=E6=9C=
+=AA=E5=AE=9A=E4=B9=89=E7=9A=84=E5=B1=80=E9=83=A8=E5=8F=98=E9=87=8F=E6=AF=94=
+=E4=B8=80=E4=B8=AA=E9=A2=84=E5=AE=9A=E4=B9=89=E8=BF=87=E7=9A=84=E6=85=A29-1=
+0=E5=80=8D=EF=BC=9B</li>
+</ul>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-Inline_conditionals_Toc3819674194=EF=BC=8E=E4=B8=89=E5=
+=85=83=E6=9D=A1=E4=BB=B6=E8=BF=90=E7=AE=97=E7=AC=A6"><span class=3D"conflue=
+nce-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=
+=A3=E7=A0=81=E8=A7=84=E8=8C=83-Inline_conditionals"></span><span class=3D"c=
+onfluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=
+=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967419"></span><strong>4=EF=BC=
+=8E=E4=B8=89=E5=85=83=E6=9D=A1=E4=BB=B6=E8=BF=90=E7=AE=97=E7=AC=A6</strong>=
+</h3>
+<p>=E4=B8=89=E5=85=83=E6=9D=A1=E4=BB=B6=E8=BF=90=E7=AE=97=E7=AC=A6=E6=9B=B4=
+=E9=80=82=E7=94=A8=E4=BA=8E=E8=B5=8B=E5=80=BC=EF=BC=8C=E4=BD=BF=E5=BE=97=E7=
+=A8=8B=E5=BA=8F=E6=9B=B4=E4=B8=BA=E7=AE=80=E6=B4=81=E3=80=82=E4=B8=89=E5=85=
+=83=E6=9D=A1=E4=BB=B6=E8=BF=90=E7=AE=97=E7=AC=A6=E4=B8=8D=E9=80=82=E5=90=88=
+=E7=94=A8=E4=BD=9C=E5=87=BD=E6=95=B0=E8=B0=83=E7=94=A8=E6=88=96=E8=80=85=E5=
+=85=B6=E5=AE=83=E4=BB=BB=E4=BD=95=E5=A4=8D=E6=9D=82=E7=9A=84=E4=BB=A3=E7=A0=
+=81=EF=BC=8C=E8=BF=99=E5=B0=86=E4=BC=9A=E8=AE=A9=E4=BB=A3=E7=A0=81=E5=8F=98=
+=E5=BE=97=E6=99=A6=E6=B6=A9=E9=9A=BE=E6=87=82=E3=80=82 =E4=BE=8B=E5=A6=82=
+=EF=BC=9A&nbsp;<br><span style=3D"color: rgb(255,165,0);">/* Bad place to u=
+se them */</span><br><span style=3D"color: rgb(128,128,0);">((</span><span =
+style=3D"color: rgb(0,0,139);">$i</span>&nbsp;<span style=3D"color: rgb(128=
+,128,128);">&lt;</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$size</sp=
+an><span style=3D"color: rgb(128,128,0);">)</span>&nbsp;<span style=3D"colo=
+r: rgb(128,128,128);">&amp;&amp;</span>&nbsp;<span style=3D"color: rgb(128,=
+128,0);">(</span><span style=3D"color: rgb(0,0,139);">$j</span>&nbsp;<span =
+style=3D"color: rgb(128,128,128);">&gt;</span>&nbsp;<span style=3D"color: r=
+gb(0,0,139);">$size</span><span style=3D"color: rgb(128,128,0);">))</span><=
+span style=3D"color: rgb(128,128,128);">&nbsp;?</span>&nbsp;<span style=3D"=
+color: rgb(0,0,255);">do_stuff</span><span style=3D"color: rgb(128,128,0);"=
+>(</span><span style=3D"color: rgb(0,0,139);">$foo</span><span style=3D"col=
+or: rgb(128,128,0);">)</span><span style=3D"color: rgb(128,128,128);">&nbsp=
+;:</span>&nbsp;<span style=3D"color: rgb(0,0,255);">do_stuff</span><span st=
+yle=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,139);"=
+>$bar</span><span style=3D"color: rgb(128,128,0);">)</span><span style=3D"c=
+olor: rgb(128,128,128);">;</span>&nbsp;<br class=3D"atl-forced-newline"><sp=
+an style=3D"color: rgb(255,165,0);">/* OK place to use them */</span><br><s=
+pan style=3D"color: rgb(0,0,139);">$min</span>&nbsp;<span style=3D"color: r=
+gb(128,128,128);">=3D</span>&nbsp;<span style=3D"color: rgb(128,128,0);">(<=
+/span><span style=3D"color: rgb(0,0,139);">$i</span>&nbsp;<span style=3D"co=
+lor: rgb(128,128,128);">&lt;</span>&nbsp;<span style=3D"color: rgb(0,0,139)=
+;">$j</span><span style=3D"color: rgb(128,128,0);">)</span><span style=3D"c=
+olor: rgb(128,128,128);">&nbsp;?</span>&nbsp;<span style=3D"color: rgb(0,0,=
+139);">$i</span><span style=3D"color: rgb(128,128,128);">&nbsp;:</span>&nbs=
+p;<span style=3D"color: rgb(0,0,139);">$j</span><span style=3D"color: rgb(1=
+28,128,128);">;</span></p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-Uninitialized_Variables_Toc3819674205=EF=BC=8E=E6=9C=AA=
+=E5=88=9D=E5=A7=8B=E5=8C=96=E7=9A=84=E5=8F=98=E9=87=8F"><span class=3D"conf=
+luence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=
+=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-Uninitialized_Variables"></span><span cla=
+ss=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3=
+PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967420"></span><strong>5=
+=EF=BC=8E=E6=9C=AA=E5=88=9D=E5=A7=8B=E5=8C=96=E7=9A=84=E5=8F=98=E9=87=8F</s=
+trong></h3>
+<p>=E8=AF=B7=E4=B8=8D=E8=A6=81=E4=BD=BF=E7=94=A8=E6=9C=AA=E5=88=9D=E5=A7=8B=
+=E5=8C=96=E7=9A=84=E5=8F=98=E9=87=8F=EF=BC=81=E5=AF=B9=E4=BA=8E=E7=94=A8=E6=
+=88=B7=E5=9C=A8HTML=E4=B8=AD=E6=8F=90=E4=BA=A4=E7=9A=84=E8=BE=93=E5=85=A5=
+=E5=80=BC=EF=BC=8C=E9=9C=80=E8=A6=81=E4=BD=BF=E7=94=A8isset()=E6=9D=A5=E6=
+=A3=80=E6=B5=8B=E6=98=AF=E5=90=A6=E5=B7=B2=E8=A2=AB=E5=88=9D=E5=A7=8B=E5=8C=
+=96=E3=80=82=E4=BE=8B=E5=A6=82=EF=BC=9A&nbsp;<br><span style=3D"color: rgb(=
+255,165,0);">/* Error way */</span><br><span style=3D"color: rgb(0,128,0);"=
+>if</span>&nbsp;<span style=3D"color: rgb(128,128,0);">(</span><span style=
+=3D"color: rgb(0,0,139);">$_POST[</span>'<span style=3D"color: rgb(0,0,139)=
+;">forum</span>'<span style=3D"color: rgb(0,0,139);">]</span><span style=3D=
+"color: rgb(128,128,0);">)</span>&nbsp;<br><span style=3D"color: rgb(128,12=
+8,0);">{</span><br><span style=3D"color: rgb(128,128,128);">...</span><br><=
+span style=3D"color: rgb(128,128,0);">}</span>&nbsp;<br class=3D"atl-forced=
+-newline"><span style=3D"color: rgb(255,165,0);">/* Right way */</span><br>=
+<span style=3D"color: rgb(0,128,0);">if</span>&nbsp;<span style=3D"color: r=
+gb(128,128,0);">(</span><span style=3D"color: rgb(0,128,0);">isset</span><s=
+pan style=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,=
+139);">$_POST[</span>'<span style=3D"color: rgb(0,0,139);">forum</span>'<sp=
+an style=3D"color: rgb(0,0,139);">]</span><span style=3D"color: rgb(128,128=
+,0);">))</span>&nbsp;<br><span style=3D"color: rgb(128,128,0);">{</span><br=
+><span style=3D"color: rgb(128,128,128);">...</span><br><span style=3D"colo=
+r: rgb(128,128,0);">}</span></p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc3819674216=EF=BC=8E=E5=8F=98=E9=87=8F/=E6=95=B0=E7=
+=BB=84=E6=98=AF=E5=90=A6=E4=B8=BA=E7=A9=BA=E7=9A=84=E6=A3=80=E6=B5=8B"><spa=
+n class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=
+=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967421"></span><str=
+ong>6=EF=BC=8E=E5=8F=98=E9=87=8F/=E6=95=B0=E7=BB=84=E6=98=AF=E5=90=A6=E4=B8=
+=BA=E7=A9=BA=E7=9A=84=E6=A3=80=E6=B5=8B</strong></h3>
+<p>php=E4=B8=AD=E9=9D=9E=E7=89=B9=E6=AE=8A=E6=83=85=E5=86=B5=E5=B0=BD=E9=87=
+=8F=E4=B8=8D=E8=A6=81=E4=BD=BF=E7=94=A8empty()=E6=9D=A5=E5=88=A4=E6=96=AD=
+=E5=8F=98=E9=87=8F=E6=98=AF=E5=90=A6=E4=B8=BA=E7=A9=BA=EF=BC=8C=E5=9B=A0=E4=
+=B8=BAempty()=E5=87=BD=E6=95=B0=E4=B8=AD=E5=8C=85=E5=90=AB=E4=BA=86=E5=A4=
+=9A=E7=A7=8D=E5=8F=AF=E8=83=BD=E6=80=A7=EF=BC=8C=E4=BC=9A=E9=99=8D=E4=BD=8E=
+=E4=BB=A3=E7=A0=81=E5=8F=AF=E8=AF=BB=E6=80=A7=E3=80=82<br>The following thi=
+ngs are considered to be empty:</p>
+<ul>
+<li><em>"" (an empty string)</em></li>
+<li><em>0 (0 as an integer)</em></li>
+<li><em>0.0 (0 as a float)</em></li>
+<li><em>"0" (0 as a string)</em></li>
+<li><strong>NULL</strong></li>
+<li><strong>FALSE</strong></li>
+<li><em>array() (an empty array)</em></li>
+<li><em>var $var; (a variable declared, but without a value in a class)</em=
+></li>
+</ul>
+<p>&nbsp;</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-Use_preg.2C_not_ereg_Toc3819674227=EF=BC=8E=E6=AD=A3=E5=
+=88=99=E8=A1=A8=E8=BE=BE=E5=BC=8F"><span class=3D"confluence-anchor-link" i=
+d=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-Use_preg.2C_not_ereg"></span><span class=3D"confluence-anchor-=
+link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc381967422"></span><strong>7=EF=BC=8E=E6=AD=A3=E5=88=
+=99=E8=A1=A8=E8=BE=BE=E5=BC=8F</strong></h3>
+<p>=EF=BC=881=EF=BC=89PHP=E6=94=AF=E6=8C=81=E4=B8=A4=E7=A7=8D=E9=A3=8E=E6=
+=A0=BC=E7=9A=84=E6=AD=A3=E5=88=99=E8=A1=A8=E8=BE=BE=E5=BC=8F=EF=BC=8C=E5=88=
+=86=E5=88=AB=E6=98=AFPerl-Compatible (preg)&nbsp;(<a class=3D"external-link=
+" href=3D"http://www.php.net/manual/en/ref.pcre.php" rel=3D"nofollow">http:=
+//www.php.net/manual/en/ref.pcre.php</a>) =E5=92=8C&nbsp;<a class=3D"extern=
+al-link" href=3D"http://www.php.net/manual/en/ref.regex.php" rel=3D"nofollo=
+w">POSIX Extended (ereg)</a>&nbsp;(<a class=3D"external-link" href=3D"http:=
+//www.php.net/manual/en/ref.regex.php" rel=3D"nofollow">http://www.php.net/=
+manual/en/ref.regex.php</a>)=E3=80=82preg=E9=A3=8E=E6=A0=BC=E7=9B=B8=E5=AF=
+=B9=E4=BA=8Eereg=E9=A3=8E=E6=A0=BC=E6=9D=A5=E8=AF=B4=E6=9B=B4=E4=B8=BA=E5=
+=AE=89=E5=85=A8=EF=BC=8C=E9=80=9F=E5=BA=A6=E6=9B=B4=E5=BF=AB=E3=80=82=E5=9B=
+=A0=E6=AD=A4=EF=BC=8C=E8=AF=B7=E4=B8=8D=E8=A6=81=E4=BD=BF=E7=94=A8ereg=E9=
+=A3=8E=E6=A0=BC=E7=9A=84=E6=AD=A3=E5=88=99=E8=A1=A8=E8=BE=BE=E5=BC=8F=E3=80=
+=82&nbsp;<br>=EF=BC=882=EF=BC=89=E5=9C=A8=E4=BD=BF=E7=94=A8=E6=AD=A3=E5=88=
+=99=E8=A1=A8=E8=BE=BE=E5=BC=8F=E7=9A=84=E6=97=B6=E5=80=99=EF=BC=8C=E9=A6=96=
+=E9=80=89=E7=9A=84=E5=8C=B9=E9=85=8D=E8=AF=8D=E8=AF=AD=E5=AE=9A=E7=95=8C=E7=
+=AC=A6=E6=98=AF=E6=96=9C=E7=BA=BF/=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=82=A8=E7=
+=9A=84=E5=8C=B9=E9=85=8D=E8=AF=8D=E8=AF=AD=E4=B8=AD=E5=90=AB=E6=9C=89=E6=96=
+=9C=E7=BA=BF=EF=BC=8C=E9=82=A3=E4=B9=88=E6=82=A8=E5=8F=AF=E4=BB=A5=E4=BD=BF=
+=E7=94=A8#=E4=BD=9C=E4=B8=BA=E5=8C=B9=E9=85=8D=E8=AF=8D=E8=AF=AD=E5=AE=9A=
+=E7=95=8C=E7=AC=A6=E3=80=82 =E4=BE=8B=E5=A6=82=EF=BC=9A<br><span style=3D"c=
+olor: rgb(255,165,0);">/* Error way */</span><br><span style=3D"color: rgb(=
+0,128,0);">if</span>&nbsp;<span style=3D"color: rgb(128,128,0);">(</span><s=
+pan style=3D"color: rgb(0,0,255);">ereg</span><span style=3D"color: rgb(128=
+,128,0);">(</span><span style=3D"color: rgb(139,0,0);">'</span><span style=
+=3D"color: rgb(255,0,0);">something</span><span style=3D"color: rgb(139,0,0=
+);">'</span><span style=3D"color: rgb(128,128,128);">,</span>&nbsp;<span st=
+yle=3D"color: rgb(0,0,139);">$myvar</span><span style=3D"color: rgb(128,128=
+,0);">))</span>&nbsp;<br><span style=3D"color: rgb(128,128,0);">{</span><br=
+><span style=3D"color: rgb(128,128,128);">...</span><br><span style=3D"colo=
+r: rgb(128,128,0);">}</span>&nbsp;<br class=3D"atl-forced-newline"><span st=
+yle=3D"color: rgb(255,165,0);">/* Right way */</span><br><span style=3D"col=
+or: rgb(0,128,0);">if</span><span style=3D"color: rgb(128,128,0);">(</span>=
+<span style=3D"color: rgb(0,0,255);">preg_match</span><span style=3D"color:=
+ rgb(128,128,0);">(</span><span style=3D"color: rgb(139,0,0);">'</span><spa=
+n style=3D"color: rgb(255,0,0);">/something/</span><span style=3D"color: rg=
+b(139,0,0);">'</span><span style=3D"color: rgb(128,128,128);">,</span>&nbsp=
+;<span style=3D"color: rgb(0,0,139);">$myvar</span><span style=3D"color: rg=
+b(128,128,0);">)){</span><br><span style=3D"color: rgb(128,128,128);">...</=
+span><br><span style=3D"color: rgb(128,128,0);">}</span>&nbsp;<br class=3D"=
+atl-forced-newline"><span style=3D"color: rgb(255,165,0);">/* Alternative *=
+/</span><br><span style=3D"color: rgb(0,128,0);">if</span><span style=3D"co=
+lor: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,255);">preg_mat=
+ch</span><span style=3D"color: rgb(128,128,0);">(</span><span style=3D"colo=
+r: rgb(139,0,0);">'</span><span style=3D"color: rgb(255,0,0);">#/etc/php.in=
+i#</span><span style=3D"color: rgb(139,0,0);">'</span><span style=3D"color:=
+ rgb(128,128,128);">,</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$myv=
+ar</span><span style=3D"color: rgb(128,128,0);">)){</span><br><span style=
+=3D"color: rgb(128,128,128);">...</span><br><span style=3D"color: rgb(128,1=
+28,128);">}</span><br>=EF=BC=883=EF=BC=89=E6=AD=A3=E5=88=99=E8=A1=A8=E8=BE=
+=BE=E5=BC=8F=E6=9C=80=E5=A5=BD=E4=BD=BF=E7=94=A8=E5=8D=95=E5=BC=95=E5=8F=B7=
+, "\w"=E6=98=AF=E6=97=A0=E6=95=88=E8=BD=AC=E4=B9=89=EF=BC=8C=E5=BA=94=E8=AF=
+=A5=E5=86=99=E6=88=90'\w'=E6=88=96 "<br class=3D"atl-forced-newline">w"=E3=
+=80=82<br>=EF=BC=884=EF=BC=89=E5=B0=BD=E5=8F=AF=E8=83=BD=E4=BD=BF=E7=94=A8s=
+trncasecmp()=E3=80=81strpbrk()=E3=80=81stripos() =E7=AD=89str=E7=B3=BB=E5=
+=88=97=E5=AD=97=E7=AC=A6=E4=B8=B2=E5=87=BD=E6=95=B0=E8=80=8C=E4=B8=8D=E6=98=
+=AF=E6=AD=A3=E5=88=99=E8=A1=A8=E8=BE=BE=E5=BC=8F=E3=80=82=E5=8F=A6=E5=A4=96=
+=E5=90=8C=E6=A0=B7=E6=98=AFstr=E7=B3=BB=E5=88=97=E5=87=BD=E6=95=B0=EF=BC=8C=
+=E6=80=A7=E8=83=BD=E4=B9=9F=E6=9C=89=E5=B7=AE=E5=BC=82=EF=BC=9Astr_replace(=
+)=E6=AF=94preg_replace()=E5=BF=AB=EF=BC=8C=E4=BD=86strtr()=E6=AF=94str_repl=
+ace()=E8=BF=98=E8=A6=81=E5=BF=AB4=E5=80=8D =E3=80=82<br>=EF=BC=885=EF=BC=89=
+=E5=A6=82=E6=9E=9C=E5=8F=AA=E6=98=AF=E9=9C=80=E8=A6=81=E5=81=9A=E5=AD=97=E7=
+=AC=A6=E4=B8=B2=E7=9A=84=E6=A0=BC=E5=BC=8F=E7=B1=BB=E5=9E=8B=E6=A3=80=E6=9F=
+=A5=EF=BC=8C=E5=8F=AF=E4=BB=A5=E7=9B=B4=E6=8E=A5=E4=BD=BF=E7=94=A8ctype=E5=
+=87=BD=E6=95=B0=E5=BA=93=EF=BC=8C=E6=97=A0=E9=9C=80=E4=BD=BF=E7=94=A8=E6=AD=
+=A3=E5=88=99=E6=88=96=E8=80=85=E5=AD=97=E7=AC=A6=E4=B8=B2=E5=8C=B9=E9=85=8D=
+=E3=80=82</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc3819674238=EF=BC=8E=E4=BD=BF=E7=94=A8file_get_conten=
+ts/file_put_contents"><span class=3D"confluence-anchor-link" id=3D"id-=E6=
+=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83=
+-_Toc381967423"></span><strong>8=EF=BC=8E=E4=BD=BF=E7=94=A8file_get_content=
+s/file_put_contents</strong></h3>
+<p>=EF=BC=881=EF=BC=89PHP4.3.0=E4=BB=A5=E4=B8=8A=E7=89=88=E6=9C=AC=E6=8F=90=
+=E4=BE=9B=E4=BA=86file_get_contents()=E5=87=BD=E6=95=B0=EF=BC=8C=E7=94=A8=
+=E8=BF=99=E4=B8=AA=E5=87=BD=E6=95=B0=E8=AF=BB=E5=8F=96=E6=96=87=E4=BB=B6=E5=
+=86=85=E5=AE=B9=E4=B8=BA=E4=B8=80=E4=B8=AA=E5=AD=97=E7=AC=A6=E4=B8=B2=EF=BC=
+=8C=E5=85=B6=E9=80=9F=E5=BA=A6=E6=98=AF=E4=BD=BF=E7=94=A8fopen()/file()=E7=
+=9A=84=E4=B8=89=E5=8D=81=E5=80=8D=E3=80=82=E6=88=91=E4=BB=AC=E8=A6=81=E6=B1=
+=82=E6=89=80=E6=9C=89=E8=AF=BB=E5=8F=96=E6=96=87=E4=BB=B6=E5=86=85=E5=AE=B9=
+=E7=9A=84=E7=A8=8B=E5=BA=8F=EF=BC=8C=E9=99=A4=E9=9D=9E=E5=BF=85=E9=A1=BB=E7=
+=A1=AE=E4=BF=9D=E4=B8=8D=E5=85=81=E8=AE=B8=E8=A2=AB=E6=9C=8D=E5=8A=A1=E5=99=
+=A8cache=EF=BC=8C=E5=90=A6=E5=88=99=E4=B8=80=E5=BE=8B=E4=BD=BF=E7=94=A8file=
+_get_contents()=E5=87=BD=E6=95=B0=E3=80=82<br>=EF=BC=882=EF=BC=89=E9=80=9A=
+=E8=BF=87fopen()=E6=89=93=E5=BC=80=E3=80=81flock()=E9=94=81=E5=AE=9A=E3=80=
+=81fwrite()=E5=86=99=E5=85=A5=E3=80=81fclose()=E5=85=B3=E9=97=AD=EF=BC=8C=
+=E8=BF=99=E5=9B=9B=E4=B8=AA=E5=87=BD=E6=95=B0=E7=BB=84=E5=90=88=E5=AE=9E=E7=
+=8E=B0=E5=AF=B9=E6=96=87=E4=BB=B6=E7=9A=84=E5=86=99=E6=93=8D=E4=BD=9C=EF=BC=
+=8C=E5=A6=82=E6=9E=9C=E5=9C=A8Daemon/Server=E4=B8=AD=E7=9A=84=E8=AF=B7=E4=
+=B8=8D=E8=A6=81=E4=BD=BF=E7=94=A8=E8=BF=99=E7=A7=8D=E6=96=B9=E5=BC=8F=EF=BC=
+=8C=E4=B8=80=E6=97=A6=E6=96=87=E4=BB=B6=E8=A2=AB=E5=85=B6=E5=AE=83=E8=BF=9B=
+=E7=A8=8B=E5=88=A0=E9=99=A4=EF=BC=8C=E5=88=99=E6=95=B0=E6=8D=AE=E6=B0=B8=E8=
+=BF=9C=E6=97=A0=E6=B3=95=E5=86=99=E5=85=A5=EF=BC=88=E5=9B=A0=E4=B8=BA=E6=AF=
+=8F=E6=AC=A1=E5=86=99=E5=85=A5=E5=89=8D=E4=B8=8D=E6=A3=80=E6=9F=A5=E6=96=87=
+=E4=BB=B6=E6=98=AF=E5=90=A6=E5=AD=98=E5=9C=A8=EF=BC=89=E3=80=82PHP5.0=E4=BB=
+=A5=E4=B8=8A=E7=89=88=E6=9C=AC=E6=8F=90=E4=BE=9B=E4=BA=86file_put_contents(=
+)=E5=87=BD=E6=95=B0=EF=BC=8C=E8=AF=A5=E5=87=BD=E6=95=B0=E6=94=AF=E6=8C=81FI=
+LE_APPEND=E5=92=8CLOCK_EX=E7=AD=89Flag=EF=BC=8C=E5=8F=AF=E4=BB=A5=E5=AE=89=
+=E5=85=A8=E7=9A=84=E5=86=99=E5=85=A5=E6=96=87=E4=BB=B6=E3=80=82</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-Global.2FRequest.2FSession_variables_Toc3819674249=EF=BC=
+=8EGlobal/Request/Session/Server=E5=8F=98=E9=87=8F"><span class=3D"confluen=
+ce-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=
+=A3=E7=A0=81=E8=A7=84=E8=8C=83-Global.2FRequest.2FSession_variables"></span=
+><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=
+=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967424"></spa=
+n><strong>9=EF=BC=8EGlobal/Request/Session/Server</strong>&nbsp;<strong>=E5=
+=8F=98=E9=87=8F</strong></h3>
+<p>=E4=BB=A5=E4=B8=8A=E5=8F=98=E9=87=8F=E5=9D=87=E8=83=BD=E9=80=9A=E8=BF=87=
+=E6=A1=86=E6=9E=B6=E4=B8=AD=E7=89=B9=E5=AE=9A=E6=96=B9=E6=B3=95=E8=8E=B7=E5=
+=8F=96=EF=BC=88=E7=89=B9=E6=AE=8A=E6=83=85=E5=86=B5=E9=9C=80review=EF=BC=89=
+=E3=80=82</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-End_of_Files_Toc38196742510=EF=BC=8E=E8=BE=93=E5=87=BAhe=
+ader()"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-End_of_Files">=
+</span><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967425"=
+></span><strong>10=EF=BC=8E=E8=BE=93=E5=87=BAheader()</strong></h3>
+<p>=EF=BC=881=EF=BC=89=E5=AF=B9=E4=BA=8E=E9=9C=80=E8=A6=81=E8=BE=93=E5=87=
+=BA=E7=9A=84header()=EF=BC=8C=E8=AF=B7=E8=B0=83=E7=94=A8=E6=A1=86=E6=9E=B6=
+=E4=B8=AD=E5=8F=91=E7=9A=84=E6=96=B9=E6=B3=95=EF=BC=8C=E5=BF=85=E9=A1=BB=E5=
+=B0=86=E6=AF=8F=E6=9D=A1header=E8=B0=83=E7=94=A8=E4=B8=80=E6=AC=A1=EF=BC=8C=
+=E4=B8=8D=E8=A6=81=E5=B0=86=E5=A4=9A=E4=B8=AAheader=E6=94=BE=E5=9C=A8=E5=90=
+=8C=E4=B8=80=E8=A1=8C=E5=86=85=EF=BC=8C=E5=87=BA=E4=BA=8E=E5=AE=89=E5=85=A8=
+=E5=9B=A0=E7=B4=A0=E8=80=83=E8=99=91PHP=E6=97=A9=E5=B7=B2=E4=B8=8D=E5=86=8D=
+=E6=94=AF=E6=8C=81=E8=BF=99=E7=A7=8D=E7=BB=84=E5=90=88header=E8=BE=93=E5=87=
+=BA=E3=80=82<br>=EF=BC=882=EF=BC=89=E5=A6=82=E6=9E=9Cprint/echo=E8=BE=93=E5=
+=87=BAHTML=E4=BC=9A=E8=A2=ABApache=E5=8A=A0=E4=B8=8A=E7=BC=93=E5=AD=98=E5=
+=A4=B4=EF=BC=8C=E5=A6=82=E6=9E=9C=E4=B8=8D=E5=B8=8C=E6=9C=9B=E8=A2=AB=E7=BC=
+=93=E5=AD=98=EF=BC=8C=E5=88=99=E9=9C=80=E8=A6=81=E5=8A=A0=E4=B8=8A=E4=B8=8A=
+=E9=9D=A2=E7=9A=84=E8=BE=93=E5=87=BA=E6=97=A0=E7=BC=93=E5=AD=98=E5=A4=B4=E4=
+=BB=A3=E7=A0=81=E6=9D=A5=E9=81=BF=E5=85=8D=E3=80=82</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196742611=EF=BC=8E=E4=B8=8A=E4=BC=A0=E6=96=87=E4=
+=BB=B6=E7=B1=BB=E5=9E=8B"><span class=3D"confluence-anchor-link" id=3D"id-=
+=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=
+=83-_Toc381967426"></span><strong>11=EF=BC=8E=E4=B8=8A=E4=BC=A0=E6=96=87=E4=
+=BB=B6=E7=B1=BB=E5=9E=8B</strong></h3>
+<p>=E8=AF=B7=E4=B8=8D=E8=A6=81=E4=BD=BF=E7=94=A8PHP=E7=9A=84$_FILES=E4=B8=
+=AD=E7=9A=84type=E6=9D=A5=E5=88=A4=E5=AE=9A=E6=96=87=E4=BB=B6=E7=9A=84=E7=
+=B1=BB=E5=9E=8B=EF=BC=8C=E6=AD=A4=E7=B1=BB=E5=9E=8B=E7=94=B1=E6=B5=8F=E8=A7=
+=88=E5=99=A8=E6=8F=90=E4=BE=9B=EF=BC=8C=E5=AE=B9=E6=98=93=E8=A2=AB=E9=BB=91=
+=E5=AE=A2=E4=BC=AA=E9=80=A0=E3=80=82=E8=AF=B7=E4=BD=BF=E7=94=A8getimagesize=
+()=E5=87=BD=E6=95=B0=E6=9D=A5=E8=BF=9B=E8=A1=8C=E5=88=A4=E5=AE=9A=EF=BC=9A<=
+br><span style=3D"color: rgb(0,0,139);">$</span><span style=3D"color: rgb(5=
+1,51,153);">info</span>&nbsp;<span style=3D"color: rgb(128,128,128);">=3D</=
+span>&nbsp;<span style=3D"color: rgb(0,128,0);">getimagesize</span>(<span s=
+tyle=3D"color: rgb(0,0,139);">$</span><span style=3D"color: rgb(51,51,153);=
+">file</span>);<br><span style=3D"color: rgb(0,0,139);">$</span><span style=
+=3D"color: rgb(51,51,153);">width</span>&nbsp;<span style=3D"color: rgb(128=
+,128,128);">=3D</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$</span><s=
+pan style=3D"color: rgb(51,51,153);">info</span>[<span style=3D"color: rgb(=
+128,0,0);">0</span>];<br><span style=3D"color: rgb(0,0,139);">$</span><span=
+ style=3D"color: rgb(51,51,153);">height</span>&nbsp;<span style=3D"color: =
+rgb(128,128,128);">=3D</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$</=
+span><span style=3D"color: rgb(51,51,153);">info</span>[<span style=3D"colo=
+r: rgb(128,0,0);">1</span>];<br><span style=3D"color: rgb(0,0,139);">$</spa=
+n><span style=3D"color: rgb(51,51,153);">type</span>&nbsp;<span style=3D"co=
+lor: rgb(128,128,128);">=3D</span>&nbsp;<span style=3D"color: rgb(0,0,139);=
+">$</span><span style=3D"color: rgb(51,51,153);">info</span>[<span style=3D=
+"color: rgb(128,0,0);">2</span>];<br><span style=3D"color: rgb(0,0,139);">$=
+</span><span style=3D"color: rgb(51,51,153);">imgstr</span>&nbsp;<span styl=
+e=3D"color: rgb(128,128,128);">=3D</span>&nbsp;<span style=3D"color: rgb(0,=
+0,139);">$</span><span style=3D"color: rgb(51,51,153);">info</span>[<span s=
+tyle=3D"color: rgb(128,0,0);">3</span>];<br><span style=3D"color: rgb(0,0,1=
+39);">$</span><span style=3D"color: rgb(51,51,153);">mime</span>&nbsp;<span=
+ style=3D"color: rgb(128,128,128);">=3D</span>&nbsp;<span style=3D"color: r=
+gb(0,0,139);">$</span><span style=3D"color: rgb(51,51,153);">info</span>[<s=
+pan style=3D"color: rgb(139,0,0);">'</span><span style=3D"color: rgb(255,0,=
+0);">mime</span><span style=3D"color: rgb(139,0,0);">'</span>];<br>=E5=85=
+=B6=E4=B8=AD$type=EF=BC=8C1 =3D GIF=EF=BC=8C2 =3D JPG=EF=BC=8C3 =3D PNG=EF=
+=BC=8C4 =3D SWF=EF=BC=8C5 =3D PSD=EF=BC=8C6 =3D BMP=EF=BC=8C7 =3D TIFF(inte=
+l byte order)=EF=BC=8C8 =3D TIFF(motorola byte order)=EF=BC=8C9 =3D JPC=EF=
+=BC=8C10 =3D JP2=EF=BC=8C11 =3D JPX=EF=BC=8C12 =3D JB2=EF=BC=8C13 =3D SWC=
+=EF=BC=8C14 =3D IFF=EF=BC=8C15 =3D WBMP=EF=BC=8C16 =3D XBM</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196742712=EF=BC=8E=E5=AD=97=E7=AC=A6=E4=B8=B2=E7=
+=9A=84=E5=A4=A7=E5=B0=8F=E5=86=99=E8=BD=AC=E6=8D=A2"><span class=3D"conflue=
+nce-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=
+=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967427"></span><strong>12=EF=BC=8E=E5=
+=AD=97=E7=AC=A6=E4=B8=B2=E7=9A=84=E5=A4=A7=E5=B0=8F=E5=86=99=E8=BD=AC=E6=8D=
+=A2</strong></h3>
+<p>=E8=AF=B7=E4=B8=8D=E8=A6=81=E4=BD=BF=E7=94=A8PHP=E7=9A=84strtolower()=E5=
+=87=BD=E6=95=B0=E6=9D=A5=E8=BF=9B=E8=A1=8C=E5=AD=97=E7=AC=A6=E4=B8=B2=E7=9A=
+=84=E5=A4=A7=E5=B0=8F=E5=86=99=E8=BD=AC=E6=8D=A2=EF=BC=8C=E8=BF=99=E5=9C=A8=
+=E5=AE=89=E8=A3=85=E9=9D=9E=E4=B8=AD=E6=96=87=E7=B3=BB=E7=BB=9F=E7=9A=84=E6=
+=9C=8D=E5=8A=A1=E5=99=A8=E4=B8=8B=E4=BC=9A=E5=AF=BC=E8=87=B4=E5=B0=86=E6=B1=
+=89=E5=AD=97=E8=BD=AC=E6=8D=A2=E4=B8=BA=E4=B9=B1=E7=A0=81=E3=80=82=E8=AF=B7=
+=E4=BD=BF=E7=94=A8strtr($string, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijk=
+lmnopqrstuvwxyz') =E6=9D=A5=E8=BF=9B=E8=A1=8C=E5=A4=A7=E5=B0=8F=E5=86=99=E8=
+=BD=AC=E6=8D=A2=E3=80=82</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196742813=EF=BC=8E=E6=A3=80=E6=9F=A5=E5=AD=97=E7=
+=AC=A6=E4=B8=B2=E9=95=BF=E5=BA=A6"><span class=3D"confluence-anchor-link" i=
+d=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-_Toc381967428"></span><strong>13=EF=BC=8E=E6=A3=80=E6=9F=A5=E5=
+=AD=97=E7=AC=A6=E4=B8=B2=E9=95=BF=E5=BA=A6</strong></h3>
+<p>=EF=BC=881=EF=BC=89=E5=9C=A8PHP=E5=BA=95=E5=B1=82zval=E7=BB=93=E6=9E=84=
+=E4=BD=93=E9=87=8C=E4=BF=9D=E5=AD=98=E4=BA=86=E5=AD=97=E7=AC=A6=E4=B8=B2=E9=
+=95=BF=E5=BA=A6=EF=BC=8Cstrlen()=E5=8F=AF=E4=BB=A5=E7=9B=B4=E6=8E=A5=E8=8E=
+=B7=E5=8F=96=E8=80=8C=E6=97=A0=E9=9C=80=E8=AE=A1=E7=AE=97=EF=BC=8C=E4=BD=86=
+=E4=BB=8D=E6=97=A7=E6=9C=89=E4=B8=80=E6=AC=A1=E5=87=BD=E6=95=B0=E8=B0=83=E7=
+=94=A8=EF=BC=8C=E9=80=9F=E5=BA=A6=E4=B8=8A=E4=BD=BF=E7=94=A8 isset() =E8=AF=
+=AD=E6=B3=95=E7=BB=93=E6=9E=84=E4=BC=9A=E6=9B=B4=E5=BF=AB=E3=80=82=E4=BE=8B=
+=E5=A6=82=EF=BC=9A&nbsp;<br><span style=3D"color: rgb(0,128,0);">if</span><=
+span style=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0=
+,255);">strlen</span><span style=3D"color: rgb(128,128,0);">(</span><span s=
+tyle=3D"color: rgb(0,0,139);">$foo</span><span style=3D"color: rgb(128,128,=
+0);">)</span>&nbsp;<span style=3D"color: rgb(128,128,128);">&lt;</span>&nbs=
+p;<span style=3D"color: rgb(255,0,0);">5</span><span style=3D"color: rgb(12=
+8,128,0);">){</span>&nbsp;<span style=3D"color: rgb(0,0,255);">=E2=80=A6</s=
+pan>&nbsp;<span style=3D"color: rgb(128,128,0);">}</span><br>vs.<br><span s=
+tyle=3D"color: rgb(0,128,0);">if</span><span style=3D"color: rgb(128,128,0)=
+;">(</span>!<span style=3D"color: rgb(0,0,255);">isset</span><span style=3D=
+"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,139);">$foo<=
+/span><span style=3D"color: rgb(128,128,0);">{</span><span style=3D"color: =
+rgb(255,0,0);">5</span><span style=3D"color: rgb(128,128,0);">})){</span>&n=
+bsp;<span style=3D"color: rgb(0,0,255);">=E2=80=A6</span>&nbsp;<span style=
+=3D"color: rgb(128,128,0);">}</span>&nbsp;<br class=3D"atl-forced-newline">=
+=EF=BC=882=EF=BC=89=E4=BD=BF=E7=94=A8isset($foo{5})=E6=AF=94strlen($foo)&lt=
+;5=E6=9B=B4=E5=BF=AB</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196742914=EF=BC=8E=E5=8C=85=E5=90=AB=E6=96=87=E4=
+=BB=B6"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967429"=
+></span><strong>14=EF=BC=8E=E5=8C=85=E5=90=AB=E6=96=87=E4=BB=B6</strong></h=
+3>
+<p>=EF=BC=881=EF=BC=89=E5=AF=B9=E4=BA=8Einclude()/requrie()=E6=89=80=E5=8C=
+=85=E5=90=AB=E7=9A=84=E6=96=87=E4=BB=B6=E8=AF=B7=E5=B0=BD=E9=87=8F=E4=BD=BF=
+=E7=94=A8=E7=BB=9D=E5=AF=B9=E8=B7=AF=E5=BE=84=E6=88=96=E8=80=85./=E5=BC=80=
+=E5=A4=B4=E7=9A=84=E7=9B=B8=E5=AF=B9=E8=B7=AF=E5=BE=84=E3=80=82<br>=EF=BC=
+=882=EF=BC=89=E5=AF=B9=E4=BA=8Einclude_once()/require_once()=E6=89=80=E5=8C=
+=85=E5=90=AB=E7=9A=84=E6=96=87=E4=BB=B6=E5=BF=85=E9=A1=BB=E4=BD=BF=E7=94=A8=
+=E7=BB=9D=E5=AF=B9=E8=B7=AF=E5=BE=84=EF=BC=88=E6=AF=8F=E6=AC=A1=E8=B0=83=E7=
+=94=A8=E9=83=BD=E4=BC=9A=E6=89=93=E5=BC=80=E7=9B=AE=E6=A0=87=E6=96=87=E4=BB=
+=B6=EF=BC=8C=E5=A6=82=E6=9E=9C=E7=94=A8=E7=BB=9D=E5=AF=B9=E8=B7=AF=E5=BE=84=
+=E5=9C=A8PHP 5.2=E4=BB=A5=E4=B8=8A=E4=B8=8D=E5=AD=98=E5=9C=A8=E8=BF=99=E4=
+=B8=AA=E9=97=AE=E9=A2=98=EF=BC=89=E3=80=82<br>=EF=BC=883=EF=BC=89=E7=9B=AE=
+=E5=BD=95=E9=80=9A=E5=B8=B8=E5=8F=AB=E5=81=9ADir=EF=BC=8C=E6=96=87=E4=BB=B6=
+=E5=85=A8=E8=B7=AF=E5=BE=84=E9=80=9A=E5=B8=B8=E5=8F=AB=E5=81=9APath=EF=BC=
+=8C=E6=96=87=E4=BB=B6=E5=90=8D=E6=9C=AC=E8=BA=AB=E9=80=9A=E5=B8=B8=E5=8F=AB=
+=E5=81=9AFileName</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196743015=EF=BC=8E=E9=81=8D=E5=8E=86=E6=95=B0=E7=
+=BB=84"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967430"=
+></span><strong>15=EF=BC=8E=E9=81=8D=E5=8E=86=E6=95=B0=E7=BB=84</strong></h=
+3>
+<p>=EF=BC=881=EF=BC=89=E5=A6=82=E6=9E=9C=E9=9C=80=E8=A6=81=E9=81=8D=E5=8E=
+=86=E6=95=B0=E7=BB=84=EF=BC=8C=E8=AF=B7=E4=BD=BF=E7=94=A8foreach()=E5=BE=AA=
+=E7=8E=AF=EF=BC=8C=E9=81=BF=E5=85=8D=E4=BD=BF=E7=94=A8for()=E6=88=96=E8=80=
+=85while()=E3=80=82<br>=EF=BC=882=EF=BC=89=E5=B0=BD=E9=87=8F=E9=81=BF=E5=85=
+=8D=E5=9C=A8=E5=BE=AA=E7=8E=AF=E5=86=85=E9=83=A8=E4=BF=AE=E6=94=B9=E6=95=B0=
+=E7=BB=84key=E7=9A=84=E5=80=BC=EF=BC=88=E4=BC=9A=E5=AF=BC=E8=87=B4=E5=86=99=
+=E6=97=B6=E5=A4=8D=E5=88=B6=EF=BC=89</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196743116=EF=BC=8E=E9=81=BF=E5=85=8D=E4=BF=AE=E6=
+=94=B9for=E5=BE=AA=E7=8E=AF=E5=86=85=E7=9A=84=E6=9D=A1=E4=BB=B6=E5=80=BC"><=
+span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=
+=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967431"></span><=
+strong>16=EF=BC=8E=E9=81=BF=E5=85=8D=E4=BF=AE=E6=94=B9for=E5=BE=AA=E7=8E=AF=
+=E5=86=85=E7=9A=84=E6=9D=A1=E4=BB=B6=E5=80=BC</strong></h3>
+<p>=E9=81=BF=E5=85=8D=E9=87=8D=E6=96=B0=E8=AE=A1=E7=AE=97for=E5=BE=AA=E7=8E=
+=AF=E5=86=85=E7=9A=84=E6=9D=A1=E4=BB=B6=E5=80=BC=EF=BC=88=E6=AF=94=E5=A6=82=
+count()/strlen()/sizeof()=E7=AD=89=EF=BC=89=EF=BC=8C=E5=9B=A0=E4=B8=BAPHP=
+=E7=9A=84=E8=A7=A3=E6=9E=90=E5=99=A8=E4=B8=8D=E8=83=BD=E5=A4=9F=E5=88=A0=E9=
+=99=A4=E5=BE=AA=E7=8E=AF=E4=B8=8D=E5=8F=98=E9=87=8F=E3=80=82=E8=AF=B7=E5=9C=
+=A8=E5=BE=AA=E7=8E=AF=E5=89=8D=E5=B0=B1=E8=AE=BE=E5=AE=9A=E5=BE=AA=E7=8E=AF=
+=E7=9A=84=E6=9D=A1=E4=BB=B6=E5=80=BC=EF=BC=8C=E8=80=8C=E4=B8=8D=E6=98=AF=E5=
+=9C=A8=E5=BE=AA=E7=8E=AF=E5=86=85=E3=80=82&nbsp;<br><span style=3D"color: r=
+gb(255,165,0);">/* Error way */</span><br><span style=3D"color: rgb(0,0,255=
+);">for</span><span style=3D"color: rgb(128,128,0);">(</span><span style=3D=
+"color: rgb(0,0,139);">$i</span><span style=3D"color: rgb(128,128,128);">=
+=3D</span><span style=3D"color: rgb(255,0,0);">0</span><span style=3D"color=
+: rgb(128,128,0);">;</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$i</s=
+pan>&nbsp;<span style=3D"color: rgb(128,128,128);">&lt;</span>&nbsp;<span s=
+tyle=3D"color: rgb(0,0,255);">count</span><span style=3D"color: rgb(128,128=
+,0);">(</span><span style=3D"color: rgb(0,0,139);">$array</span><span style=
+=3D"color: rgb(128,128,0);">);</span>&nbsp;<span style=3D"color: rgb(0,0,13=
+9);">$i</span><span style=3D"color: rgb(128,128,0);">++){</span><br><span s=
+tyle=3D"color: rgb(128,128,128);">...</span><br><span style=3D"color: rgb(1=
+28,128,0);">}</span>&nbsp;<br class=3D"atl-forced-newline"><span style=3D"c=
+olor: rgb(255,165,0);">/* Right way */</span><br><span style=3D"color: rgb(=
+0,0,139);">$total</span>&nbsp;<span style=3D"color: rgb(128,128,128);">=3D<=
+/span>&nbsp;<span style=3D"color: rgb(0,0,255);">count</span><span style=3D=
+"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,139);">$arra=
+y</span><span style=3D"color: rgb(128,128,0);">);</span><br><span style=3D"=
+color: rgb(0,0,255);">for</span><span style=3D"color: rgb(128,128,0);">(</s=
+pan><span style=3D"color: rgb(0,0,139);">$i</span><span style=3D"color: rgb=
+(128,128,128);">=3D</span><span style=3D"color: rgb(255,0,0);">0</span><spa=
+n style=3D"color: rgb(128,128,0);">;</span>&nbsp;<span style=3D"color: rgb(=
+0,0,139);">$i</span>&nbsp;<span style=3D"color: rgb(128,128,128);">&lt;</sp=
+an>&nbsp;<span style=3D"color: rgb(0,0,139);">$total</span><span style=3D"c=
+olor: rgb(128,128,0);">;</span>&nbsp;<span style=3D"color: rgb(0,0,139);">$=
+i</span><span style=3D"color: rgb(128,128,0);">++){</span><br><span style=
+=3D"color: rgb(128,128,128);">...</span><br><span style=3D"color: rgb(128,1=
+28,0);">}</span></p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196743217=EF=BC=8E=E7=94=A8=E5=B8=B8=E9=87=8F=E4=
+=BB=A3=E6=9B=BF=E5=87=BD=E6=95=B0"><span class=3D"confluence-anchor-link" i=
+d=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=
+=84=E8=8C=83-_Toc381967432"></span><strong>17=EF=BC=8E=E7=94=A8=E5=B8=B8=E9=
+=87=8F=E4=BB=A3=E6=9B=BF=E5=87=BD=E6=95=B0</strong></h3>
+<p>=E5=A6=82=E6=9E=9C=E5=AD=98=E5=9C=A8=E5=92=8C=E5=87=BD=E6=95=B0=E7=AD=89=
+=E4=BB=B7=E7=9A=84=E5=B8=B8=E9=87=8F=EF=BC=8C=E5=88=99=E4=B8=8D=E8=A6=81=E4=
+=BD=BF=E7=94=A8=E5=87=BD=E6=95=B0=E3=80=82<br><span style=3D"color: rgb(0,0=
+,255);">php_uname</span><span style=3D"color: rgb(128,128,0);">(</span><spa=
+n style=3D"color: rgb(139,0,0);">'</span><span style=3D"color: rgb(255,0,0)=
+;">s</span><span style=3D"color: rgb(139,0,0);">'</span><span style=3D"colo=
+r: rgb(128,128,0);">)</span>&nbsp;<span style=3D"color: rgb(128,128,128);">=
+=3D=3D</span>&nbsp;<span style=3D"color: rgb(153,51,102);">PHP_OS</span><sp=
+an style=3D"color: rgb(128,128,128);">;</span><br><span style=3D"color: rgb=
+(0,0,255);">php_version</span><span style=3D"color: rgb(128,128,0);">()</sp=
+an>&nbsp;<span style=3D"color: rgb(128,128,128);">=3D=3D</span>&nbsp;<span =
+style=3D"color: rgb(153,51,102);">PHP_VERSION</span><span style=3D"color: r=
+gb(128,128,128);">;</span><br><span style=3D"color: rgb(0,0,255);">php_sapi=
+_name</span><span style=3D"color: rgb(128,128,0);">()</span>&nbsp;<span sty=
+le=3D"color: rgb(128,128,128);">=3D=3D</span>&nbsp;<span style=3D"color: rg=
+b(153,51,102);">PHP_SAPI</span><span style=3D"color: rgb(128,128,128);">;</=
+span></p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196743318=EF=BC=8E=E7=9B=AE=E5=BD=95=E6=9D=83=E9=
+=99=90"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967433"=
+></span><strong>18=EF=BC=8E=E7=9B=AE=E5=BD=95=E6=9D=83=E9=99=90</strong></h=
+3>
+<p>=E5=88=9B=E5=BB=BA=E3=80=81=E4=BF=AE=E6=94=B9=E7=9B=AE=E5=BD=95=EF=BC=8C=
+=E9=9C=80=E8=A6=81=E8=AE=BE=E7=BD=AE=E6=AD=A3=E7=A1=AE=E7=9A=84=E6=9D=83=E9=
+=99=90=EF=BC=8C=E5=BF=85=E9=A1=BB=E5=85=88=E4=BD=BF=E7=94=A8umask(0000)=EF=
+=BC=8C=E7=84=B6=E5=90=8E=E5=86=8Dmkdir()=E6=88=96chmod()=EF=BC=8C=E4=BE=8B=
+=E5=A6=82=EF=BC=9A<br><span style=3D"color: rgb(0,0,255);">if</span><span s=
+tyle=3D"color: rgb(128,128,0);">(</span>!<span style=3D"color: rgb(0,0,255)=
+;">is_dir</span>(<span style=3D"color: rgb(0,0,139);">$dir</span><span styl=
+e=3D"color: rgb(128,128,0);">)){</span><br><span style=3D"color: rgb(0,0,25=
+5);">umask</span><span style=3D"color: rgb(128,128,0);">(</span><span style=
+=3D"color: rgb(255,0,0);">0000</span><span style=3D"color: rgb(128,128,0);"=
+>)</span><span style=3D"color: rgb(128,128,128);">;</span><br><span style=
+=3D"color: rgb(0,0,255);">mkdir</span><span style=3D"color: rgb(128,128,0);=
+">(</span><span style=3D"color: rgb(0,0,139);">$dir</span><span style=3D"co=
+lor: rgb(128,128,0);">,</span>&nbsp;<span style=3D"color: rgb(255,0,0);">07=
+77</span><span style=3D"color: rgb(128,128,0);">)</span><span style=3D"colo=
+r: rgb(128,128,128);">;</span><br><span style=3D"color: rgb(128,128,0);">}<=
+/span>&nbsp;<br class=3D"atl-forced-newline">if<span style=3D"color: rgb(12=
+8,128,0);">(</span>!<span style=3D"color: rgb(0,0,255);">is_writeable</span=
+><span style=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0=
+,0,139);">$dir</span><span style=3D"color: rgb(128,128,0);">)){</span><br><=
+span style=3D"color: rgb(0,0,255);">umask</span><span style=3D"color: rgb(1=
+28,128,0);">(</span><span style=3D"color: rgb(255,0,0);">0000</span><span s=
+tyle=3D"color: rgb(128,128,0);">)</span><span style=3D"color: rgb(128,128,1=
+28);">;</span><br><span style=3D"color: rgb(0,0,255);">chmod</span><span st=
+yle=3D"color: rgb(128,128,0);">(</span><span style=3D"color: rgb(0,0,139);"=
+>$dir</span><span style=3D"color: rgb(128,128,0);">,</span>&nbsp;<span styl=
+e=3D"color: rgb(255,0,0);">0777</span><span style=3D"color: rgb(128,128,0);=
+">)</span><span style=3D"color: rgb(128,128,128);">;</span><br><span style=
+=3D"color: rgb(128,128,0);">}</span></p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196743419=EF=BC=8E=E4=B8=B4=E6=97=B6=E6=96=87=E4=
+=BB=B6"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967434"=
+></span><strong>19=EF=BC=8E=E4=B8=B4=E6=97=B6=E6=96=87=E4=BB=B6</strong></h=
+3>
+<p>=E8=AF=B7=E4=BD=BF=E7=94=A8tmpfile()=E3=80=81tempnam()=E6=9D=A5=E5=88=9B=
+=E5=BB=BA=E4=B8=B4=E6=97=B6=E6=96=87=E4=BB=B6=E3=80=82</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196743520.=E9=9D=99=E6=80=81=E6=96=B9=E6=B3=95=E5=
+=92=8C=E9=9D=99=E6=80=81=E8=B0=83=E7=94=A8"><span class=3D"confluence-ancho=
+r-link" id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=
+=81=E8=A7=84=E8=8C=83-_Toc381967435"></span><strong>20. =E9=9D=99=E6=80=81=
+=E6=96=B9=E6=B3=95=E5=92=8C=E9=9D=99=E6=80=81=E8=B0=83=E7=94=A8</strong></h=
+3>
+<p>=EF=BC=881=EF=BC=89=E5=A6=82=E6=9E=9C=E7=B1=BB=E7=9A=84=E6=9F=90=E4=B8=
+=AA=E6=96=B9=E6=B3=95=E6=98=AF=E9=9D=99=E6=80=81=E7=9A=84=EF=BC=8C=E9=82=A3=
+=E5=B0=B1=E7=94=A8static=E6=98=BE=E5=BC=8F=E5=AE=9A=E4=B9=89=E6=88=90=E9=9D=
+=99=E6=80=81=E6=96=B9=E6=B3=95=EF=BC=8C=E8=BF=99=E6=A0=B7=E5=8F=AF=E4=BB=A5=
+=E5=BF=AB4=E5=80=8D=E3=80=82<br>=EF=BC=882=EF=BC=89=E5=A6=82=E6=9E=9C=E7=B1=
+=BB=E7=9A=84=E6=88=90=E5=91=98=E5=B9=B6=E9=9D=9E=E9=9D=99=E6=80=81static=EF=
+=BC=8C=E5=88=99=E5=9C=A8=E7=B1=BB=E7=9A=84=E5=A4=96=E9=83=A8=E9=9D=99=E6=80=
+=81=E8=B0=83=E7=94=A8=E7=B1=BB=E7=9A=84=E6=88=90=E5=91=98=E4=B8=8D=E8=A6=81=
+=E4=BD=BF=E7=94=A8=E9=9D=99=E6=80=81=E6=96=B9=E6=B3=95=EF=BC=8C=E9=9D=99=E6=
+=80=81=E6=96=B9=E6=B3=95=E5=8F=AA=E8=83=BD=E8=B0=83=E7=94=A8=E7=B1=BB=E7=9A=
+=84=E9=9D=99=E6=80=81=E6=88=90=E5=91=98=E3=80=82<br><span style=3D"color: r=
+gb(0,128,0);">class</span>&nbsp;Foo{<br><span style=3D"color: rgb(0,128,0);=
+">function</span>&nbsp;bar<span style=3D"color: rgb(128,128,0);">()</span>{=
+<br><span style=3D"color: rgb(0,0,255);">echo</span>&nbsp;<span style=3D"co=
+lor: rgb(139,0,0);">'</span>foobar<span style=3D"color: rgb(139,0,0);">'</s=
+pan><span style=3D"color: rgb(128,128,128);">;</span><br>}<br>}&nbsp;<br cl=
+ass=3D"atl-forced-newline"><span style=3D"color: rgb(0,0,139);">$foo</span>=
+&nbsp;=3D&nbsp;<span style=3D"color: rgb(0,0,255);">new</span>&nbsp;<span s=
+tyle=3D"color: rgb(255,0,0);">Foo()</span><span style=3D"color: rgb(128,128=
+,128);">;</span>&nbsp;<br class=3D"atl-forced-newline"><span style=3D"color=
+: rgb(255,165,0);">/* Right way */</span><br><span style=3D"color: rgb(0,0,=
+139);">$foo</span>-&gt;far<span style=3D"color: rgb(128,128,0);">()</span><=
+span style=3D"color: rgb(128,128,128);">;</span>&nbsp;<br class=3D"atl-forc=
+ed-newline"><span style=3D"color: rgb(255,165,0);">/* Error way */</span><b=
+r><span style=3D"color: rgb(0,0,139);">Foo</span>::bar<span style=3D"color:=
+ rgb(128,128,0);">()</span><span style=3D"color: rgb(128,128,128);">;</span=
+></p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196743621=EF=BC=8E=E6=97=B6=E9=97=B4=E9=97=AE=E9=
+=A2=98"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967436"=
+></span><strong>21=EF=BC=8E=E6=97=B6=E9=97=B4=E9=97=AE=E9=A2=98</strong></h=
+3>
+<p>=EF=BC=881=EF=BC=89WEB=E6=9C=8D=E5=8A=A1=E5=99=A8=E4=B8=8B=E8=BF=90=E8=
+=A1=8C=E7=9A=84=E4=B8=9A=E5=8A=A1=E4=BB=A3=E7=A0=81=E5=A6=82=E6=9E=9C=E5=8F=
+=AA=E6=98=AF=E5=8F=96=E5=BD=93=E5=89=8D=E6=97=B6=E9=97=B4=EF=BC=8C=E8=AF=B7=
+=E4=B8=8D=E8=A6=81=E4=BD=BF=E7=94=A8time()=EF=BC=8C=E6=A1=86=E6=9E=B6=E4=B8=
+=AD=E7=9A=84=E6=96=B9=E6=B3=95=EF=BC=88PHP 5.1=E4=BB=A5=E4=B8=8A=E7=89=88=
+=E6=9C=AC=E4=B8=8B=EF=BC=89<br>=EF=BC=882=EF=BC=89WEB=E6=9C=8D=E5=8A=A1=E5=
+=99=A8=E4=B8=AD=E6=98=AF=E6=B2=A1=E6=9C=89$_SERVER['REQUEST_TIME']=E5=8F=98=
+=E9=87=8F=E7=9A=84=E3=80=82<br>=EF=BC=883=EF=BC=89=E8=AF=B7=E5=9C=A8=E7=A8=
+=8B=E5=BA=8F=E4=B8=AD=E6=8C=87=E5=AE=9A=E6=97=B6=E5=8C=BA date_default_time=
+zone_set('Asia/Shanghai')=E3=80=82<br>=EF=BC=884=EF=BC=89=E5=A6=82=E6=9E=9C=
+=E9=9C=80=E8=A6=81=E5=8F=96=E5=BE=AE=E7=A7=92=EF=BC=8C=E8=AF=B7=E4=BD=BF=E7=
+=94=A8microtime(true)=EF=BC=8C=E8=BF=94=E5=9B=9E=E6=B5=AE=E7=82=B9=E6=95=B0=
+=E3=80=82</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196743722=EF=BC=8E=E7=BB=9D=E5=AF=B9=E8=B7=AF=E5=
+=BE=84"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967437"=
+></span><strong>22=EF=BC=8E=E7=BB=9D=E5=AF=B9=E8=B7=AF=E5=BE=84</strong></h=
+3>
+<p>=E6=89=80=E6=9C=89=E4=BB=A5=E7=9B=AE=E5=BD=95=E6=88=96=E6=96=87=E4=BB=B6=
+=E8=B7=AF=E5=BE=84=E5=81=9A=E4=B8=BA=E5=8F=82=E6=95=B0=E7=9A=84=E5=87=BD=E6=
+=95=B0=EF=BC=8Cbasename=E3=80=81file_exists=E3=80=81opendir=E7=AD=89=E7=AD=
+=89=E5=87=BD=E6=95=B0=EF=BC=8C=E5=9D=87=E8=A6=81=E6=B1=82=E4=BD=BF=E7=94=A8=
+=E7=BB=9D=E5=AF=B9=E8=B7=AF=E5=BE=84</p>
+<h3 id=3D"id-=E6=8A=80=E6=9C=AF=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=
+=E8=A7=84=E8=8C=83-_Toc38196743823=EF=BC=8E=E9=94=99=E8=AF=AF=E4=BF=A1=E6=
+=81=AF"><span class=3D"confluence-anchor-link" id=3D"id-=E6=8A=80=E6=9C=AF=
+=E6=96=87=E6=A1=A3PHPPHP=E4=BB=A3=E7=A0=81=E8=A7=84=E8=8C=83-_Toc381967438"=
+></span><strong>23=EF=BC=8E=E9=94=99=E8=AF=AF=E4=BF=A1=E6=81=AF</strong></h=
+3>
+<p>=E5=BC=80=E5=8F=91=E6=97=B6=EF=BC=8C=E7=B3=BB=E7=BB=9F=E4=BC=9A=E5=B0=86=
+=E6=89=80=E6=9C=89=E5=BC=82=E5=B8=B8=E5=8F=8A=E9=94=99=E8=AF=AF=E9=83=BD=E6=
+=98=BE=E7=A4=BA=E5=87=BA=E6=9D=A5=E3=80=82=E4=BD=BF=E7=94=A8=E6=A1=86=E6=9E=
+=B6=E6=89=A9=E5=B1=95=E5=87=BA=E6=9D=A5=E7=9A=84=E5=BC=82=E5=B8=B8=EF=BC=8C=
+=E9=94=99=E8=AF=AF=E7=A0=81=E5=AE=9A=E4=B9=89=E5=B8=B8=E9=87=8F=EF=BC=8C=E4=
+=BB=A5ERRC_=E5=BC=80=E5=A4=B4</p>
+    </div>
+</body>
+</html>
+------=_Part_69333_370529964.1481542483141
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/869393f4050d92b22a85075929308e1d
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAA3NCSVQICAjb4U/gAAAAdVBMVEX/
+///ht0zds0vbsUrZr0rZr0rZr0rXrUr/01H90VH7z1D5zVD2zVP3y1D3y0/1yU/xxk7tx1XwxU7v
+w07kwFfjuUzbulnht0zYuFnhtkvftUvds0vbsUrZr0rXrUrJrl3Vq0m3oWGllWSKgmqBfGx4dm5w
+cHDaNqLdAAAAJ3RSTlMAEXe7u8zd7v////////////////////////////////////////8ldzLI
+AAAACXBIWXMAAAsSAAALEgHS3X78AAAAHHRFWHRTb2Z0d2FyZQBBZG9iZSBGaXJld29ya3MgQ1M2
+6LyyjAAAABR0RVh0Q3JlYXRpb24gVGltZQA2LzEvMTM4qUXQAAAAoUlEQVQYlU2P2xKDIAxEo9aY
+glatl1pQxOv/f2IDtE7PDA/ZkE0WgIkTw9xiCEQ4dZWUVTdh5OtMCfJInTkF33f6IhTyvOG+1kTD
+wH9MDGnHrfMMj1QKtvwXnhasc/iNkDBBuBAWTElbHqp8cyNsuh5LTVQvx0qvlNdKmveT2WcqeS2g
+O7Tt+5YdNPrTxyJ4PMYshEGjmkI2yoRwV/zEx/8A8pINjpN72iYAAAAASUVORK5CYII=
+------=_Part_69333_370529964.1481542483141--
